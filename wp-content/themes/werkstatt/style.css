@@ -21,3 +21,14 @@
 * If you just want to add small css snippets you might also  want to consider to add it to the designated
 * CSS option field in your themes backend at: Appearance -> Theme Options
 */
+
+
+.thb-client-row.thb-opacity .thb-client img {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+.thb-client-row.thb-opacity .thb-client img:hover {
+    -webkit-filter: initial;
+    filter: initial;
+}
