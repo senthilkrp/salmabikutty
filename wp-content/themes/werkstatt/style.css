@@ -41,6 +41,22 @@
     max-height: 30px;
 }
 
-.thb-portfolio #portfolio-vr .portfolio-link {
-    background: #816ae8;
+.thb-portfolio #portfolio-vr.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link {
+    background:#76b131;
+}
+
+.thb-portfolio #portfolio-vsib.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link {
+    background:#f69626;
+}
+
+.thb-portfolio #portfolio-ghent.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link {
+    background:#dc5550;
+}
+
+.thb-portfolio #portfolio-sux.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link {
+    background:#3187e4;
+}
+
+.thb-portfolio #portfolio-ibuy.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link {
+    background:#33aba9;
 }
