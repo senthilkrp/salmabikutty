@@ -36,3 +36,11 @@
 .thb_image_link.center .thb-image-inner.full-width {
     width: 100%;
 }
+
+.header .logolink .logoimg {
+    max-height: 30px;
+}
+
+.thb-portfolio #portfolio-vr .portfolio-link {
+    background: #816ae8;
+}
