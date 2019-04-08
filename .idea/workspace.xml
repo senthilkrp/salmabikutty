@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="938fa652-5303-45c9-912f-a5861d780f61" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="938fa652-5303-45c9-912f-a5861d780f61" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/vr/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11805">
-              <caret line="787" column="14" selection-start-line="787" selection-start-column="14" selection-end-line="787" selection-end-column="14" />
+            <state relative-caret-position="11790">
+              <caret line="786" column="14" selection-start-line="786" selection-start-column="14" selection-end-line="786" selection-end-column="14" />
               <folding>
                 <element signature="n#src#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -68,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/ghent/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13605">
-              <caret line="907" column="24" selection-start-line="907" selection-start-column="24" selection-end-line="907" selection-end-column="24" />
+            <state relative-caret-position="13575">
+              <caret line="905" column="24" selection-start-line="905" selection-start-column="24" selection-end-line="905" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -77,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="764">
-              <caret line="556" column="12" lean-forward="true" selection-start-line="556" selection-start-column="12" selection-end-line="556" selection-end-column="12" />
+            <state relative-caret-position="810">
+              <caret line="554" column="12" selection-start-line="554" selection-start-column="12" selection-end-line="554" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -193,7 +190,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="9" />
     <option name="y" value="23" />
     <option name="width" value="1627" />
@@ -416,7 +413,7 @@
     <option name="totallyTimeSpent" value="4027000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="23" width="1627" height="1027" extended-state="0" />
+    <frame x="9" y="23" width="1627" height="1027" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19810726" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -497,8 +494,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/vr/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11805">
-          <caret line="787" column="14" selection-start-line="787" selection-start-column="14" selection-end-line="787" selection-end-column="14" />
+        <state relative-caret-position="11790">
+          <caret line="786" column="14" selection-start-line="786" selection-start-column="14" selection-end-line="786" selection-end-column="14" />
           <folding>
             <element signature="n#src#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -535,8 +532,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/ghent/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13605">
-          <caret line="907" column="24" selection-start-line="907" selection-start-column="24" selection-end-line="907" selection-end-column="24" />
+        <state relative-caret-position="13575">
+          <caret line="905" column="24" selection-start-line="905" selection-start-column="24" selection-end-line="905" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -563,8 +560,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="764">
-          <caret line="556" column="12" lean-forward="true" selection-start-line="556" selection-start-column="12" selection-end-line="556" selection-end-column="12" />
+        <state relative-caret-position="810">
+          <caret line="554" column="12" selection-start-line="554" selection-start-column="12" selection-end-line="554" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
