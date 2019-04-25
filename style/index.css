@@ -178,3 +178,7 @@ input[type="submit"], .button, .btn, .btn-text {
 #header .mobile-toggle {
   transform: scale(3);
 }
+
+a[href^='https://www.000webhost.com/'] {
+  display: none;
+}
