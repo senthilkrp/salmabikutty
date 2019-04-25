@@ -1,0 +1,180 @@
+
+.post-783 .post-gallery.parallax {
+  min-height: 100vh;
+}
+
+.post-783 .post-gallery.parallax .parallax_bg {
+  background-image: url(/content/sux/cover.jpg) !important;;
+}
+
+h1, h2, h3, h4, h5, h6, .post.style9 .post-meta {
+  font-family: 'IBM Plex Sans', 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';
+}
+
+h1, .h1 {
+}
+
+h2 {
+}
+
+h3 {
+}
+
+h4 {
+}
+
+h5 {
+}
+
+h6 {
+}
+
+em {
+}
+
+.thb-mobile-menu a {
+}
+
+.thb-full-menu li a {
+}
+
+.thb-full-menu .sub-menu li a {
+}
+
+.thb-full-menu > li > a.social {
+}
+
+#footer .widget {
+}
+
+#subfooter {
+}
+
+.subfooter .socials a {
+}
+
+body {
+  font-family: 'freight-sans-pro', 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';
+}
+
+input[type="submit"], .button, .btn, .btn-text {
+}
+
+#mobile-menu, .header {
+}
+
+.products .product .thb_title_holder h2 {
+}
+
+.product-detail .product-information h1.product_title {
+}
+
+.product-detail .product-information .woocommerce-product-details__short-description, .product-detail .product-information .woocommerce-product-details__short-description p {
+}
+
+.header .logolink .logoimg .logoimg[src$=".svg"] {
+  height: 100;
+}
+
+.mobile-toggle {
+  transform: scale(1.2);
+}
+
+@media only screen and (min-width: 64.063em) {
+  #mobile-menu.style1 {
+    width: 50%;
+  }
+}
+
+.thb-portfolio #portfolio-831.type-portfolio.style3:hover .portfolio-holder, .thb-portfolio #portfolio-831.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link, .thb-portfolio #portfolio-831.type-portfolio.thb-corner-hover:hover .portfolio-link, .thb-portfolio #portfolio-831.type-portfolio.style2 .portfolio-holder .portfolio-inner:not(.thb-image-hover), .thb-portfolio .portfolio-831.type-portfolio.carousel_style3.style3_even:hover .portfolio-holder, .thb-portfolio .portfolio-831.type-portfolio.carousel_style3:hover .portfolio-holder {
+  background: #3187e4;
+}
+
+.thb-portfolio #portfolio-831.type-portfolio.style6 .portfolio-holder:after {
+  border-color: #3187e4;
+}
+
+.thb-portfolio #portfolio-826.type-portfolio.style3:hover .portfolio-holder, .thb-portfolio #portfolio-826.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link, .thb-portfolio #portfolio-826.type-portfolio.thb-corner-hover:hover .portfolio-link, .thb-portfolio #portfolio-826.type-portfolio.style2 .portfolio-holder .portfolio-inner:not(.thb-image-hover), .thb-portfolio .portfolio-826.type-portfolio.carousel_style3.style3_even:hover .portfolio-holder, .thb-portfolio .portfolio-826.type-portfolio.carousel_style3:hover .portfolio-holder {
+  background: #2f9460;
+}
+
+.thb-portfolio #portfolio-826.type-portfolio.style6 .portfolio-holder:after {
+  border-color: #2f9460;
+}
+
+.thb-portfolio #portfolio-783.type-portfolio.style3:hover .portfolio-holder, .thb-portfolio #portfolio-783.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link, .thb-portfolio #portfolio-783.type-portfolio.thb-corner-hover:hover .portfolio-link, .thb-portfolio #portfolio-783.type-portfolio.style2 .portfolio-holder .portfolio-inner:not(.thb-image-hover), .thb-portfolio .portfolio-783.type-portfolio.carousel_style3.style3_even:hover .portfolio-holder, .thb-portfolio .portfolio-783.type-portfolio.carousel_style3:hover .portfolio-holder {
+  background: #ca894c;
+}
+
+.thb-portfolio #portfolio-783.type-portfolio.style6 .portfolio-holder:after {
+  border-color: #ca894c;
+}
+
+.thb-portfolio #portfolio-762.type-portfolio.style3:hover .portfolio-holder, .thb-portfolio #portfolio-762.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link, .thb-portfolio #portfolio-762.type-portfolio.thb-corner-hover:hover .portfolio-link, .thb-portfolio #portfolio-762.type-portfolio.style2 .portfolio-holder .portfolio-inner:not(.thb-image-hover), .thb-portfolio .portfolio-762.type-portfolio.carousel_style3.style3_even:hover .portfolio-holder, .thb-portfolio .portfolio-762.type-portfolio.carousel_style3:hover .portfolio-holder {
+  background: #e27577;
+}
+
+.thb-portfolio #portfolio-762.type-portfolio.style6 .portfolio-holder:after {
+  border-color: #e27577;
+}
+
+.thb-portfolio #portfolio-236.type-portfolio.style3:hover .portfolio-holder, .thb-portfolio #portfolio-236.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link, .thb-portfolio #portfolio-236.type-portfolio.thb-corner-hover:hover .portfolio-link, .thb-portfolio #portfolio-236.type-portfolio.style2 .portfolio-holder .portfolio-inner:not(.thb-image-hover), .thb-portfolio .portfolio-236.type-portfolio.carousel_style3.style3_even:hover .portfolio-holder, .thb-portfolio .portfolio-236.type-portfolio.carousel_style3:hover .portfolio-holder {
+  background: rgba(190, 191, 205, 0.95);
+}
+
+.thb-portfolio #portfolio-236.type-portfolio.style6 .portfolio-holder:after {
+  border-color: rgba(190, 191, 205, 0.95);
+}
+
+.thb-portfolio #portfolio-41.type-portfolio.style3:hover .portfolio-holder, .thb-portfolio #portfolio-41.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link, .thb-portfolio #portfolio-41.type-portfolio.thb-corner-hover:hover .portfolio-link, .thb-portfolio #portfolio-41.type-portfolio.style2 .portfolio-holder .portfolio-inner:not(.thb-image-hover), .thb-portfolio .portfolio-41.type-portfolio.carousel_style3.style3_even:hover .portfolio-holder, .thb-portfolio .portfolio-41.type-portfolio.carousel_style3:hover .portfolio-holder {
+  background: #33aba9;
+}
+
+.thb-portfolio #portfolio-41.type-portfolio.style6 .portfolio-holder:after {
+  border-color: #33aba9;
+}
+
+.page-id-783 #wrapper div[role="main"] {
+}
+
+.footer {
+  background-color: #f9f9f9 !important;
+  background-image: none !important;
+}
+
+.subfooter {
+  background-color: #efefef !important;
+  background-image: none !important;
+}
+
+.footer.dark h6, .footer h6 {
+  color: #ffffff;
+}
+
+.footer.dark .widget, .footer .widget {
+  color: #ffffff;
+}
+
+.footer.dark .widget p, .footer .widget p {
+  color: inherit;
+}
+
+.footer .widget a {
+  color: #ffffff;
+}
+
+.footer .widget a:hover {
+  color: #ffffff;
+}
+
+.footer.dark .widget a {
+  color: #ffffff;
+}
+
+.footer.dark .widget a:hover {
+  color: #ffffff;
+}
+
+#header .mobile-toggle {
+  transform: scale(3);
+}

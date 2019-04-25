@@ -1,584 +1,4 @@
-<!doctype html>
-<html lang="en-US" class=" custom-scrollbar-on">
-
-<!-- Mirrored from ahmadalsultan.com/portfolio/the-last-bookstore/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Mar 2019 16:50:10 GMT -->
-<!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8"/><!-- /Added by HTTrack -->
-<head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-  <link rel="profile" href="http://gmpg.org/xfn/11">
-  <link rel="pingback" href="../../xmlrpc.php">
-  <link rel="icon" href="../../content/images/logo.png" sizes="32x32"/>
-  <link rel="icon" href="../../content/images/logo.png" sizes="192x192"/>
-  <link rel="apple-touch-icon-precomposed" href="../../content/images/logo.png"/>
-  <meta name="msapplication-TileImage" content="../../content/images/logo.png"/>
-  <title>VSIB Transformation&#8211; Salmabi Kutty</title>
-  <link rel='dns-prefetch' href='http://use.typekit.net/'/>
-  <link rel='dns-prefetch' href='http://fonts.googleapis.com/'/>
-  <link rel='dns-prefetch' href='http://s.w.org/'/>
-  <link rel="alternate" type="application/rss+xml" title="Salmabi Kutty &raquo; Feed" href="../../feed/index.html"/>
-  <link rel="alternate" type="application/rss+xml" title="Salmabi Kutty &raquo; Comments Feed"
-        href="../../comments/feed/index.html"/>
-  <script type="text/javascript">
-    window._wpemojiSettings = {
-      "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/",
-      "ext": ".png",
-      "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/",
-      "svgExt": ".svg",
-      "source": {"concatemoji": "http:\/\/ahmadalsultan.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}
-    };
-    !function (a, b, c) {
-      function d(a, b) {
-        var c = String.fromCharCode;
-        l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, a), 0, 0);
-        var d = k.toDataURL();
-        l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, b), 0, 0);
-        var e = k.toDataURL();
-        return d === e
-      }
-
-      function e(a) {
-        var b;
-        if (!l || !l.fillText) {
-          return !1;
-        }
-        switch (l.textBaseline = "top", l.font = "600 32px Arial", a) {
-          case"flag":
-            return !(b = d([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819])) && (b = d(
-                [55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447],
-                [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203,
-                  56128, 56423, 8203, 56128, 56447]), !b);
-          case"emoji":
-            return b = d([55358, 56760, 9792, 65039], [55358, 56760, 8203, 9792, 65039]), !b
-        }
-        return !1
-      }
-
-      function f(a) {
-        var c = b.createElement("script");
-        c.src = a, c.defer = c.type = "text/javascript", b.getElementsByTagName("head")[0].appendChild(c)
-      }
-
-      var g, h, i, j, k = b.createElement("canvas"), l = k.getContext && k.getContext("2d");
-      for (j = Array("flag", "emoji"), c.supports = {everything: !0, everythingExceptFlag: !0}, i = 0; i < j.length;
-          i++) {
-        c.supports[j[i]] = e(j[i]), c.supports.everything = c.supports.everything && c.supports[j[i]], "flag" !== j[i]
-        && (c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && c.supports[j[i]]);
-      }
-      c.supports.everythingExceptFlag = c.supports.everythingExceptFlag
-          && !c.supports.flag, c.DOMReady = !1, c.readyCallback = function () {
-        c.DOMReady = !0
-      }, c.supports.everything || (h = function () {
-        c.readyCallback()
-      }, b.addEventListener ? (b.addEventListener("DOMContentLoaded", h, !1), a.addEventListener("load", h, !1))
-          : (a.attachEvent("onload", h), b.attachEvent("onreadystatechange", function () {
-            "complete" === b.readyState && c.readyCallback()
-          })), g = c.source || {}, g.concatemoji ? f(g.concatemoji) : g.wpemoji && g.twemoji && (f(g.twemoji), f(
-          g.wpemoji)))
-    }(window, document, window._wpemojiSettings);
-  </script>
-  <style type="text/css">
-    img.wp-smiley,
-    img.emoji {
-      display: inline !important;
-      border: none !important;
-      box-shadow: none !important;
-      height: 1em !important;
-      width: 1em !important;
-      margin: 0 .07em !important;
-      vertical-align: -0.1em !important;
-      background: none !important;
-      padding: 0 !important;
-    }
-  </style>
-  <link rel='stylesheet' id='wp-block-library-css'
-        href='../../wp-includes/css/dist/block-library/style.minaead.css?ver=5.0.3' media='all'/>
-  <style id='woocommerce-inline-inline-css' type='text/css'>
-    .woocommerce form .form-row .required {
-      visibility: visible;
-    }
-  </style>
-  <link rel='stylesheet' id='thb-fa-css' href='../../wp-content/themes/werkstatt/assets/css/font-awesome.min.css'
-        media='all'/>
-  <link rel='stylesheet' id='thb-app-css' href='../../wp-content/themes/werkstatt/assets/css/appf7b1.css?ver=3.1.4.2'
-        media='all'/>
-  <style id='thb-app-inline-css' type='text/css'>
-    .postid-783 .post-gallery.parallax {
-      min-height: 100vh;
-    }
-
-    .postid-783 .post-gallery.parallax .parallax_bg {
-      background-color: !important;
-      background-image: url(../../content/sux/cover.jpg) !important;;
-    }
-
-    h1, h2, h3, h4, h5, h6, .post.style9 .post-meta {
-      font-family: 'IBM Plex Sans', 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';
-    }
-
-    h1, .h1 {
-    }
-
-    h2 {
-    }
-
-    h3 {
-    }
-
-    h4 {
-    }
-
-    h5 {
-    }
-
-    h6 {
-    }
-
-    em {
-    }
-
-    .thb-mobile-menu a {
-    }
-
-    .thb-full-menu li a {
-    }
-
-    .thb-full-menu .sub-menu li a {
-    }
-
-    .thb-full-menu > li > a.social {
-    }
-
-    #footer .widget {
-    }
-
-    #subfooter {
-    }
-
-    .subfooter .socials a {
-    }
-
-    body {
-      font-family: 'freight-sans-pro', 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';
-    }
-
-    input[type="submit"], .button, .btn, .btn-text {
-    }
-
-    #mobile-menu, .header {
-    }
-
-    .products .product .thb_title_holder h2 {
-    }
-
-    .product-detail .product-information h1.product_title {
-    }
-
-    .product-detail .product-information .woocommerce-product-details__short-description, .product-detail .product-information .woocommerce-product-details__short-description p {
-    }
-
-    .header .logolink .logoimg .logoimg[src$=".svg"] {
-      height: 100;
-    }
-
-    .mobile-toggle {
-      transform: scale(1.2);
-    }
-
-    @media only screen and (min-width: 64.063em) {
-      #mobile-menu.style1 {
-        width: 50%;
-      }
-    }
-
-    .thb-portfolio #portfolio-831.type-portfolio.style3:hover .portfolio-holder, .thb-portfolio #portfolio-831.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link, .thb-portfolio #portfolio-831.type-portfolio.thb-corner-hover:hover .portfolio-link, .thb-portfolio #portfolio-831.type-portfolio.style2 .portfolio-holder .portfolio-inner:not(.thb-image-hover), .thb-portfolio .portfolio-831.type-portfolio.carousel_style3.style3_even:hover .portfolio-holder, .thb-portfolio .portfolio-831.type-portfolio.carousel_style3:hover .portfolio-holder {
-      background: #3187e4;
-    }
-
-    .thb-portfolio #portfolio-831.type-portfolio.style6 .portfolio-holder:after {
-      border-color: #3187e4;
-    }
-
-    .thb-portfolio #portfolio-826.type-portfolio.style3:hover .portfolio-holder, .thb-portfolio #portfolio-826.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link, .thb-portfolio #portfolio-826.type-portfolio.thb-corner-hover:hover .portfolio-link, .thb-portfolio #portfolio-826.type-portfolio.style2 .portfolio-holder .portfolio-inner:not(.thb-image-hover), .thb-portfolio .portfolio-826.type-portfolio.carousel_style3.style3_even:hover .portfolio-holder, .thb-portfolio .portfolio-826.type-portfolio.carousel_style3:hover .portfolio-holder {
-      background: #2f9460;
-    }
-
-    .thb-portfolio #portfolio-826.type-portfolio.style6 .portfolio-holder:after {
-      border-color: #2f9460;
-    }
-
-    .thb-portfolio #portfolio-783.type-portfolio.style3:hover .portfolio-holder, .thb-portfolio #portfolio-783.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link, .thb-portfolio #portfolio-783.type-portfolio.thb-corner-hover:hover .portfolio-link, .thb-portfolio #portfolio-783.type-portfolio.style2 .portfolio-holder .portfolio-inner:not(.thb-image-hover), .thb-portfolio .portfolio-783.type-portfolio.carousel_style3.style3_even:hover .portfolio-holder, .thb-portfolio .portfolio-783.type-portfolio.carousel_style3:hover .portfolio-holder {
-      background: #ca894c;
-    }
-
-    .thb-portfolio #portfolio-783.type-portfolio.style6 .portfolio-holder:after {
-      border-color: #ca894c;
-    }
-
-    .thb-portfolio #portfolio-762.type-portfolio.style3:hover .portfolio-holder, .thb-portfolio #portfolio-762.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link, .thb-portfolio #portfolio-762.type-portfolio.thb-corner-hover:hover .portfolio-link, .thb-portfolio #portfolio-762.type-portfolio.style2 .portfolio-holder .portfolio-inner:not(.thb-image-hover), .thb-portfolio .portfolio-762.type-portfolio.carousel_style3.style3_even:hover .portfolio-holder, .thb-portfolio .portfolio-762.type-portfolio.carousel_style3:hover .portfolio-holder {
-      background: #e27577;
-    }
-
-    .thb-portfolio #portfolio-762.type-portfolio.style6 .portfolio-holder:after {
-      border-color: #e27577;
-    }
-
-    .thb-portfolio #portfolio-236.type-portfolio.style3:hover .portfolio-holder, .thb-portfolio #portfolio-236.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link, .thb-portfolio #portfolio-236.type-portfolio.thb-corner-hover:hover .portfolio-link, .thb-portfolio #portfolio-236.type-portfolio.style2 .portfolio-holder .portfolio-inner:not(.thb-image-hover), .thb-portfolio .portfolio-236.type-portfolio.carousel_style3.style3_even:hover .portfolio-holder, .thb-portfolio .portfolio-236.type-portfolio.carousel_style3:hover .portfolio-holder {
-      background: rgba(190, 191, 205, 0.95);
-    }
-
-    .thb-portfolio #portfolio-236.type-portfolio.style6 .portfolio-holder:after {
-      border-color: rgba(190, 191, 205, 0.95);
-    }
-
-    .thb-portfolio #portfolio-41.type-portfolio.style3:hover .portfolio-holder, .thb-portfolio #portfolio-41.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link, .thb-portfolio #portfolio-41.type-portfolio.thb-corner-hover:hover .portfolio-link, .thb-portfolio #portfolio-41.type-portfolio.style2 .portfolio-holder .portfolio-inner:not(.thb-image-hover), .thb-portfolio .portfolio-41.type-portfolio.carousel_style3.style3_even:hover .portfolio-holder, .thb-portfolio .portfolio-41.type-portfolio.carousel_style3:hover .portfolio-holder {
-      background: #33aba9;
-    }
-
-    .thb-portfolio #portfolio-41.type-portfolio.style6 .portfolio-holder:after {
-      border-color: #33aba9;
-    }
-
-    .page-id-783 #wrapper div[role="main"] {
-    }
-
-    .footer {
-      background-color: #f9f9f9 !important;
-      background-image: none !important;
-    }
-
-    .subfooter {
-      background-color: #efefef !important;
-      background-image: none !important;
-    }
-
-    .footer.dark h6, .footer h6 {
-      color: #ffffff;
-    }
-
-    .footer.dark .widget, .footer .widget {
-      color: #ffffff;
-    }
-
-    .footer.dark .widget p, .footer .widget p {
-      color: inherit;
-    }
-
-    .footer .widget a {
-      color: #ffffff;
-    }
-
-    .footer .widget a:hover {
-      color: #ffffff;
-    }
-
-    .footer.dark .widget a {
-      color: #ffffff;
-    }
-
-    .footer.dark .widget a:hover {
-      color: #ffffff;
-    }
-
-    #header .mobile-toggle {
-      transform: scale(3);
-    }
-  </style>
-  <link rel='stylesheet' id='thb-style-css' href='../../wp-content/themes/werkstatt/style.css' media='all'/>
-  <link rel='stylesheet' id='thb-google-fonts-css'
-        href='https://fonts.googleapis.com/css?family=IBM+Plex+Sans%3A300%2C400%2C400i%2C500%2C600%2C700&amp;subset=latin'
-        media='all'/>
-  <link rel='stylesheet' id='js_composer_front-css'
-        href='../../wp-content/plugins/js_composer/assets/css/js_composer.mine23c.css?ver=5.7' media='all'/>
-  <script src='../../wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
-  <script src='../../wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
-  <script
-      src='../../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'></script>
-  <script type='text/javascript'>
-    /* <![CDATA[ */
-    var wc_add_to_cart_params = {
-      "ajax_url": "\/wp-admin\/admin-ajax.php",
-      "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
-      "i18n_view_cart": "View cart",
-      "cart_url": "http:\/\/ahmadalsultan.com",
-      "is_cart": "",
-      "cart_redirect_after_add": "no"
-    };
-    /* ]]> */
-  </script>
-  <script src='../../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.mine248.js?ver=3.5.4'></script>
-  <script src='../../wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-carte23c.js?ver=5.7'></script>
-  <script src='https://use.typekit.net/sxn8doo.js'></script>
-  <script type='text/javascript'>
-    try {
-      Typekit.load({async: true});
-    } catch (e) {
-    }
-  </script>
-  <link rel='https://api.w.org/' href='../../wp-json/index.html'/>
-  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc0db0.php?rsd"/>
-  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml"/>
-  <link rel='prev' title='Neo' href='../neo/index.html'/>
-  <link rel='next' title='Call Center Application' href='../call-center/index.html'/>
-  <meta name="generator" content="WordPress 5.0.3"/>
-  <meta name="generator" content="WooCommerce 3.5.4"/>
-  <link rel="canonical" href="index.html"/>
-  <link rel='shortlink' href='../../indexd2e2.html?p=783'/>
-  <link rel="alternate" type="application/json+oembed"
-        href="../../wp-json/oembed/1.0/embed6022.json?url=http%3A%2F%2Fahmadalsultan.com%2Fportfolio%2Fthe-last-bookstore%2F"/>
-  <link rel="alternate" type="text/xml+oembed"
-        href="../../wp-json/oembed/1.0/embed85cd?url=http%3A%2F%2Fahmadalsultan.com%2Fportfolio%2Fthe-last-bookstore%2F&amp;format=xml"/>
-  <noscript>
-    <style>.woocommerce-product-gallery {
-      opacity: 1 !important;
-    }</style>
-  </noscript>
-  <style type="text/css">
-    body.custom-background #wrapper div[role="main"] {
-      background-color: #ffffff;
-    }
-  </style>
-  <link rel="icon" href="../../content/images/logo.png" sizes="32x32"/>
-  <link rel="icon" href="../../content/images/logo.png" sizes="192x192"/>
-  <link rel="apple-touch-icon-precomposed" href="../../content/images/logo.png"/>
-  <meta name="msapplication-TileImage" content="http://ahmadalsultan.com/content/images/logo.png"/>
-  <style type="text/css" id="wp-custom-css">
-    /*
-
-
-*/    </style>
-  <style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1481593416410 {
-    padding-top: 10vh !important;
-    padding-right: 20px !important;
-    padding-bottom: 10vh !important;
-    padding-left: 20px !important;
-  }
-
-  .vc_custom_1481593483071 {
-    background-position: center !important;
-    background-repeat: no-repeat !important;
-    background-size: cover !important;
-  }
-
-  .vc_custom_1481593493981 {
-    padding-right: 20px !important;
-    padding-left: 20px !important;
-  }
-
-  .vc_custom_1481593503012 {
-    padding-right: 20px !important;
-    padding-left: 20px !important;
-  }
-
-  .vc_custom_1481593522920 {
-    padding-top: 10vh !important;
-    padding-right: 20px !important;
-    padding-bottom: 10vh !important;
-    padding-left: 20px !important;
-  }
-
-  .vc_custom_1481529655316 {
-    background-color: #e9eaeb !important;
-  }
-
-  .vc_custom_1481593777323 {
-    padding-right: 20px !important;
-    padding-left: 20px !important;
-  }
-
-  .vc_custom_1481593787477 {
-    padding-right: 20px !important;
-    padding-left: 20px !important;
-  }
-
-  .vc_custom_1481593823784 {
-    padding-top: 7vh !important;
-    padding-right: 20px !important;
-    padding-bottom: 5vh !important;
-    padding-left: 20px !important;
-  }
-
-  .vc_custom_1481593967381 {
-    padding-top: 15vh !important;
-    padding-bottom: 15vh !important;
-    background-color: #f1f1f2 !important;
-  }
-
-  .vc_custom_1481544601069 {
-    padding-top: 10vh !important;
-    padding-bottom: 10vh !important;
-    background-color: #cccac3 !important;
-  }
-
-  .vc_custom_1481593862424 {
-    padding-top: 10vh !important;
-    padding-right: 20px !important;
-    padding-bottom: 10vh !important;
-    padding-left: 20px !important;
-  }
-
-  .vc_custom_1481536445299 {
-    background-color: #d7d7d7 !important;
-  }
-
-  .vc_custom_1481544328268 {
-    background-color: #d7d7d7 !important;
-  }
-
-  .vc_custom_1481593883042 {
-    padding-right: 20px !important;
-    padding-left: 20px !important;
-  }
-
-  .vc_custom_1481593558322 {
-    padding-right: 20px !important;
-    padding-bottom: 20px !important;
-    padding-left: 20px !important;
-  }
-
-  .vc_custom_1481593838089 {
-    padding-right: 20px !important;
-    padding-left: 20px !important;
-  }
-
-  .vc_custom_1481593853034 {
-    padding-right: 20px !important;
-    padding-left: 20px !important;
-  }
-
-  .vc_custom_1481593872457 {
-    padding-right: 20px !important;
-    padding-left: 20px !important;
-  }
-
-  .vc_custom_1481648881267 {
-    padding-top: 10vh !important;
-    padding-bottom: 10vh !important;
-    background-color: #195e7c !important;
-  }
-
-  .vc_custom_1481546343500 {
-    padding-top: 10vh !important;
-  }</style>
-  <noscript>
-    <style type="text/css"> .wpb_animate_when_almost_visible {
-      opacity: 1;
-    }</style>
-  </noscript>
-</head>
-<body
-    class="portfolio-template-default single single-portfolio postid-783 woocommerce-no-js midnight_off header-lateral-off snap_rows_ thb-dropdown-color-dark thb-header-fixed-on thb-header-fill-off thb_row_pagination_off lightbox-theme-dark right-click-off row_pagination_position- light-title disable_header_fill-off disable-row-offset- mm-link-animation-bg-fill footer-shadow-light thb-borders-off overflow-off portfolio_title_animation-on product_style1_color-dark wpb-js-composer js-comp-ver-5.7 vc_responsive">
-<div id="wrapper" class="thb-page-transition-on">
-  <!-- Start Content Click Capture -->
-  <div class="click-capture"></div>
-  <!-- End Content Click Capture -->
-  <!-- Start Mobile Menu -->
-  <nav id="mobile-menu" class="dark style1" data-behaviour="thb-default" data-animation="style1">
-    <a href="#" class="thb-close">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" enable-background="new 0 0 64 64">
-        <g fill="none" stroke="#000" stroke-width="2" stroke-miterlimit="10">
-          <path d="m18.947 17.15l26.1 25.903"/>
-          <path d="m19.05 43.15l25.902-26.1"/>
-        </g>
-      </svg>
-    </a>
-    <div class="menubg-placeholder"></div>
-    <div class="custom_scroll" id="menu-scroll">
-      <div>
-        <div class="mobile-menu-container">
-          <div class="mobile-menu-top">
-            <ul id="menu-navigation" class="thb-mobile-menu">
-              <li id="menu-item-287"
-                  class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-287">
-                <div class="link_container">
-                  <div class="link_inner"><a href="../../index.html" data-content="Home"
-                                             data-menubg="">Home</a>
-                  </div>
-                </div>
-              </li>
-              <li id="menu-item-300" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-300">
-                <div class="link_container">
-                  <div class="link_inner"><a href="../../projects-2/index.html" data-content="Projects"
-                                             data-menubg="">Projects</a>
-                  </div>
-                </div>
-              </li>
-              <li id="menu-item-756" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-756">
-                <div class="link_container">
-                  <div class="link_inner"><a href="../../process/index.html" data-content="Process" data-menubg="">Process</a>
-                  </div>
-                </div>
-              </li>
-              <li id="menu-item-755" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-755">
-                <div class="link_container">
-                  <div class="link_inner"><a href="../../about/index.html" data-content="About" data-menubg="">About</a>
-                  </div>
-                </div>
-              </li>
-              <li id="menu-item-900" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-900">
-                <div class="link_container">
-                  <div class="link_inner"><a href="../../contact-me/index.html" data-content="Contact Me"
-                                             data-menubg="">Contact Me</a></div>
-                </div>
-              </li>
-            </ul>
-          </div>
-          <div class="mobile-menu-bottom">
-            <ul id="menu-secondary" class="thb-secondary-menu row small-up-2">
-              <li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37 column">
-                <a target="_blank" href="https://www.linkedin.com/in/salmabikutty">Linkedin</a></li>
-          <li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35 column">
-                <a target="_blank" href="https://www.behance.net/salmabikutty">Behance</a></li>
-              
-            </ul>
-            <div class="menu-footer">
-              <div>
-                <p>© 2019 Salmabi Kutty. All rights reserved. <br/>Made in India</p></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </nav>
-  <!-- End Mobile Menu -->
-  <!-- Start Header -->
-  <header class="header style1 menu_style2">
-    <div class="row align-middle expanded">
-      <div class="small-12 columns regular-header">
-        <div class="logo-holder">
-          <a href="../../index.html" class="logolink" title="Salmabi Kutty">
-            <img src="../../content/images/logo.png" class="logoimg logo-dark" alt="Salmabi Kutty"/>
-            <img src="../../content/images/logo.png" class="logoimg logo-light" alt="Salmabi Kutty"/>
-          </a>
-        </div>
-        <div>
-          <!-- Start Full Menu -->
-          <nav class="full-menu" id="full-menu">
-            <ul id="menu-navigation-1" class="thb-full-menu">
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-287"><a
-                  href="../../index.html">Home</a></li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a
-                  href="../../projects-2/index.html">Projects</a></li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-756"><a
-                  href="../../process/index.html">Process</a></li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-755"><a
-                  href="../../about/index.html">About</a></li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-900"><a
-                  href="../../contact-me/index.html">Contact Me</a></li>
-            </ul>
-          </nav>
-          <!-- End Full Menu -->
-          <a class="mobile-toggle style1">
-            <div>
-              <span></span><span></span><span></span>
-            </div>
-          </a>
-        </div>
-      </div>
-    </div>
-  </header>
-  <!-- End Header -->
+<?php include '../../common/header.php';?>
   <div role="main" class="cf">
     <article itemscope itemtype="http://schema.org/Article"
              class="post portfolio-detail  post-783 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-category-bookstore portfolio-category-e-commerce portfolio-category-ux-ui portfolio-category-website"
@@ -593,7 +13,7 @@
         <header class="portfolio-title style1 entry-header">
           <div class="row align-center">
             <div class="small-12 medium-10 large-7 columns">
-              <h1 class="entry-title" itemprop="name headline">VSIB</h1>                  <h4>Volvo Supplier Information portal</h4>
+              <h1 class="entry-title" itemprop="name headline">SUX workshop</h1>                  <h4>Desktop Dealer Application Redesign</h4>
              <!-- <div class="portfolio-attributes ">
                 <div class="attribute">
                   <strong>Roles: </strong>
@@ -631,22 +51,20 @@
 
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
-                            <h5>Background</h5>
-                            <p>VSIB (Volvo Supplier Information Base) is a web application that provides information about the Supplier companies associated to the Volvo Group. This portal acts as a supplier Wikipedia that include all information like supplier's history with Volvo business, certificates, contracts, quality scorecard, delivery performance, audit information etc.</p>
+                            <h5>INTRO</h5>
+                            <p>SUX workshop is a web application used by the CSR (Customer Service Representative) or Workshop administrator to order parts, create and maintain plans for vehicles repairs.</p>
                             <!--<h5>CHALLENGES</h5>
                             <p>The site lacks the structure to represent the complexity of the store, and doesn’t
                               support an online shopping experience.</p>-->
-                            <h5>Problem</h5>
-                            <p>For more than 18+ years, VSIB got so complex due to implementation of features over features without addressing the right need of business and end user goals. Many such ideas got so complicated that end user find it very hard to work on a simple task.</p>
-                            <p>The maintenance of the system was not useful to the end users as it faced regular down time issues and the stakeholder spent huge amount to maintain this legacy application.</p>
-                            <p>The users usually rely on the hard copies print outs as the system does not work outside the Volvo network.</p>
-                            <p>The users spend their productive hours to update the information back to the system after their field visit which was an additional time consuming activity.</p>
-                            <h5>GOAL</h5>
+                            <h5>GOALS</h5>
+                            <p>The SUX workshop pre study aim to improve workshop work flow and have a seamless user experience to</p>
                             <ul>
-                              <li>To redesign simple and efficient system.</li>
-                              <li>Facilitate the right information for each user groups.</li>
-                              <li>Improve the user base within the system.</li>
+                              <li>Improve customer interaction</li>
+                              <li>Better prepared orders and quotation</li>
+                              <li>Increase the number of planned visit</li>
+                              <li>Improve workshop efficiency</li>
                             </ul>
+
                           </div>
                         </div>
                       </div>
@@ -665,10 +83,10 @@
                             <h5 id="yui_3_17_2_1_1481422080615_567">PLATFORM</h5>
                             <p> Desktop application</p>
                             <h5 id="yui_3_17_2_1_1481422080615_525">DELIVERABLES</h5>
-                            <p>User Research, User Testing, Concept design, Information architecture, Wireframes,
+                            <p>User Research, Impact mapping, User Testing, Concept design, Information architecture, Wireframes,
                               Interactive Prototype</p>
                             <h5 id="yui_3_17_2_1_1481422080615_541">TOOLS</h5>
-                              <p>Whiteboard, Pen and Paper, Balsamiq, Adobe Illustrator, Adobe XD</p>
+                              <p>Whiteboard, Pen and Paper, Axure RP, Adobe Illustrator, Adobe XD</p>
 
                           </div>
                         </div>
@@ -680,37 +98,37 @@
             </div>
           </div>
         </div>
-
-        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593493981">
-          <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
+        <div data-midnight="dark-title"
+             class="row wpb_row row-fluid no-row-padding full-width-row no-column-padding vc_custom_1481593483071 row-has-fill">
+          <div class="wpb_column columns medium-12 thb-dark-column small-12">
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
-                <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
-
-                <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
-                <div class="wpb_wrapper">
-                  <h4>Outcome</h4>
+                <div id="thb-image-5c7d569a6a0ee" class="caption-style1  alignleft thb_image_link wp-caption">
+                  <div class="thb-image-inner size_100">
+                    <img width="1412" height="603"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image full-width attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1412px) 100vw, 1412px"
+                         data-src="../../content/sux/divider.png" data-sizes="auto"
+                         data-srcset="../../content/sux/divider.png"/>
+                  </div>
                 </div>
-              </div>
               </div>
             </div>
           </div>
         </div>
-        <div data-midnight="dark-title"
-             class="row wpb_row row-fluid no-row-padding full-width-row no-column-padding vc_custom_1481593483071 align-center row-has-fill">
-          <div class="wpb_column columns large-9 medium-12 thb-dark-column small-12">
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593493981">
+          <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
-                <div id="thb-image-5c7d569a6a0ee" class="caption-style1  alignleft   thb_image_link wp-caption">
-                  <div class="thb-image-inner size_100">
-                    <img width="1412" height="603"
-                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                         sizes="(max-width: 1412px) 100vw, 1412px"
-                         data-src="../../content/vsib/before_after.png" data-sizes="auto"
-                         data-srcset="../../content/vsib/before_after.png"/>
-                  </div>
+                <div class="vc_empty_space" style="height: 120px"><span class="vc_empty_space_inner"></span></div>
+
+                <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
+                <div class="wpb_wrapper">
+                  <h4>Solution and Outcome</h4>
+                  <p>Together with the team, we conducted field research to determine the pain points and user journeys of both obtaining, and providing, workshop services. The generative research was conducted independently on the workshop dealer system to get the most objective data. We distilled the findings into personas, user flows and actionable design insights that ensured clear business value by</p>
                 </div>
+              </div>
               </div>
             </div>
           </div>
@@ -722,7 +140,7 @@
               <div class="wpb_wrapper">
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>IMPACT</h4>
+                    <h4>Results</h4>
 
                   </div>
                 </div>
@@ -744,7 +162,7 @@
                             </svg>
                           </figure>
                           <div class="iconbox-content">
-                            <h5>30 % Improved usability compared to previous Graphical User Interface</h5></div>
+                            <h5>70% of repairs are through customer planned visits</h5></div>
                         </div>
                       </div>
                     </div>
@@ -755,13 +173,18 @@
                         <div id="thb-iconbox-5c7d569f76d9d" class="thb-iconbox top type2    animation-true " href="#"
                              target="" data-animation_speed="1.5">
                           <figure>
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" enable-background="new 0 0 64 64">
-                              <path fill="none" stroke="#000" stroke-width="2" stroke-miterlimit="10"
-                                    d="m1 21c0 20 31 38 31 38s31-18 31-38c0-8.285-6-16-15-16-8.285 0-16 5.715-16 14 0-8.285-7.715-14-16-14-9 0-15 7.715-15 16z"/>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"
+                                 enable-background="new 0 0 64 64">
+                              <g fill="none" stroke="#000" stroke-width="2" stroke-miterlimit="10">
+                                <circle cx="32" cy="32" r="20"/>
+                                <path d="m20 15v-14h24v14"/>
+                                <path d="m44 49v14h-24v-14"/>
+                                <path d="m32 20v12l8 4"/>
+                              </g>
                             </svg>
                           </figure>
                           <div class="iconbox-content">
-                            <h5>Achieved 86% overall user satisfaction through user survey<br></h5></div>
+                            <h5>Improved uptime – keep truck on the road<br><br></h5></div>
                         </div>
                       </div>
                     </div>
@@ -777,14 +200,15 @@
                               <g fill="none" stroke="#000" stroke-width="2" stroke-miterlimit="10">
                                 <path
                                     d="m32 .887c17.18 0 31.11 13.929 31.11 31.11.001 17.19-13.929 31.12-31.11 31.11-17.19.001-31.11-13.928-31.11-31.11-.003-17.18 13.927-31.11 31.11-31.11z"/>
-                                <path d="M10,32c0-5.63,2.148-11.26,6.444-15.556 c8.591-8.593,22.521-8.593,31.112,0C51.852,20.74,54,26.37,54,32"/>
+                                <path d="M10,32c0-5.63,2.148-11.26,6.444-15.556
+	c8.591-8.593,22.521-8.593,31.112,0C51.852,20.74,54,26.37,54,32"/>
                                 <path d="m24 26l6.333 7.333"/>
                                 <circle cx="32" cy="35" r="2"/>
                               </g>
                             </svg>
                           </figure>
                           <div class="iconbox-content">
-                            <h5>42% higher efficiency on simplification of the architecture.</h5></div>
+                            <h5>Increase dealer administration efficiency by 50%</h5></div>
                         </div>
                       </div>
                     </div>
@@ -801,8 +225,8 @@
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
                 <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                   <div class="wpb_wrapper">
-                    <h4>USABILITY EVALUATION</h4>
-                    <p>The project kick started running with Heuristic evaluation by marking usability issues in the system. This strategic approach of following the rule of thumbs shorten decision-making time and allow people to make quick judgments effectively.</p>
+                    <h4>Field Research</h4>
+                    <p>We kicked off with an in-depth stakeholder interview and field study to understand the business and user goals on the SUX workshop project. The interviews with the consulting and observing operations allowed to understand culture, process and to identify the pain points they encounter on a daily basis</p>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
@@ -811,19 +235,19 @@
           </div>
         </div>
 
-        <div data-midnight="dark-title" class="row wpb_row row-fluid no-row-padding full-width-row no-column-padding">
-          <div class="wpb_column columns medium-12 thb-dark-column small-12">
+        <div data-midnight="dark-title" class="row wpb_row row-fluid no-row-padding full-width-row no-column-padding align-center">
+          <div class="wpb_column columns large-10 medium-12 thb-dark-column small-12">
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
-                <div id="thb-image-5c7d569a6abcc" class="caption-style1 animation bottom-to-top center full  thb_image_link wp-caption">
+                <div id="thb-image-5c7d569a6abcc" class="caption-style1  alignleft full  thb_image_link wp-caption">
                   <div class="thb-image-inner size_100">
                     <img width="1920" height="488"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/vsib/heuristics.png"
+                         data-src="../../content/sux/field_research.png"
                          data-sizes="auto"
-                         data-srcset="../../content/vsib/heuristics.png 1920w, ../../content/vsib/heuristics.png 768w, ../../content/vsib/heuristics.png 700w, ../../content/vsib/heuristics.png 600w"/>
+                         data-srcset="../../content/sux/field_research.png 1920w, ../../content/sux/field_research.png 768w, ../../content/sux/field_research.png 700w, ../../content/sux/field_research.png 600w"/>
                   </div>
                 </div>
               </div>
@@ -860,47 +284,59 @@
 
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>USER RESEARCH</h4>
-                    <p>A discovery interview and focus group session was conducted among the user to understand their goals and discuss on the frustration they faces in their routine. This helped to explore issues and elicit scenarios which establishing user requirements.</p>
+                    <h4>Business Process Investigation</h4>
+                    <p>To improve the operation process in the workshop, it is important to investigate the administrations process, interaction of multiple system and the ways of working within the workshop. This helped in understanding the dependency of information and to explore opportunities on improving work efficiency.</p>
+
                   </div>
                 </div>
-               <!--  <div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div>
-               <div id="thb-image-5c7d569a6b42d"
+                <div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div>
+                <div id="thb-image-5c7d569a6b42d"
                      class="caption-style1 animation bottom-to-top center full  thb_image_link wp-caption">
                   <div class="thb-image-inner size_100">
                     <img width="2500" height="1402"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 2500px) 100vw, 2500px"
-                         data-src="../../content/vsib/information_architecture.jpg" data-sizes="auto"
-                         data-srcset="../../content/vsib/information_architecture.jpg 2500w, ../../content/vsib/information_architecture.jpg 768w, ../../content/vsib/information_architecture.jpg 700w, ../../content/vsib/information_architecture.jpg 600w"/>
+                         data-src="../../content/sux/system_navigation.jpg" data-sizes="auto"
+                         data-srcset="../../content/sux/system_navigation.jpg 2500w, ../../content/sux/system_navigation.jpg 768w, ../../content/sux/system_navigation.jpg 700w, ../../content/sux/system_navigation.jpg 600w"/>
                   </div>
-                </div> 
+                </div>
                 <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
                 <div
                     class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey">
                   <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
                     class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
                 </div>
-                <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div> -->
+                <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
 
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <p>Some major findings are</p>
+                    <h4>Important Insights</h4>
+                    <p>Our Key users in the administration office requires multiple desktops to view information that are stored in several legacy application, </p>
+                    <p><b>Some important painpoints were:</b></p>
                     <ul>
-                      <li>Overload information and often difficult to search required details</li>
-                      <li>Filtering of data often breaks the system causing inefficiency</li>
-                      <li>Primary task requires >5 clicks</li>
-                      <li>Difficult to view hidden information especially on Supplier Child to Parent details</li>
-                      <li>Unable to track missing expiry dates to Audit as it is viewed once a year</li>
+                      <li>Detail information for a parts or objects can be found in one system, but in another system that information cannot be found for the same object. This means that workshop staff is copying information between systems switching between systems, sometimes writing paper notes and sometime guessing, in order to speed up work</li>
+                      <li>Parts order have different names in different systems, It takes very long time to find information needed, not only because it is scattered in different systems, named differently, but also because of unclear information structure in each system</li>
+                      <li>Systems give poor or no support for handling constant changes that is part of the normal workflow</li>
                     </ul>
+                  </div>
+                </div>
+                <div id="thb-image-5c7d569a6b42e"
+                     class="caption-style1 animation bottom-to-top center full  thb_image_link wp-caption">
+                  <div class="thb-image-inner size_100">
+                    <img width="2500" height="1402"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 2500px) 100vw, 2500px"
+                         data-src="../../content/sux/exisiting_system.png" data-sizes="auto"
+                         data-srcset="../../content/sux/exisiting_system.png 2500w, ../../content/sux/exisiting_system.png 768w, ../../content/sux/exisiting_system.png 700w, ../../content/sux/exisiting_system.png 600w"/>
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <div data-midnight="dark-title"
+                         <div data-midnight="dark-title"
              class="row wpb_row row-fluid align-center full-width-row vc_custom_1481593522920">
           <div class="wpb_column columns medium-12 thb-dark-column small-12">
             <div class="vc_column-inner  ">
@@ -911,9 +347,8 @@
                       <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element  ">
                           <div class="wpb_wrapper">
-                            <h4>REQUIREMENT PRIORITIZATION</h4>
-                            <p>Gathering several requirements to fulfill became difficult to know which ones are the most important to ensure a successful product with additional challenge like budget, time and resource limitation gave rise to prioritize requirements.</p>
-                            <p>I further used Kano model to optimize essential requirements and classify the customer satisfaction.</p>
+                            <h4>Persona</h4>
+                            <p>The user journey and the operational service for truck customer revealed that how customers perceive that Volvo perform on the expectation when it comes to service and repair of the purchased truck. The low touch points in the journey, thus became the an area of interest and an opportunity.</p>
 
                           </div>
                         </div>
@@ -926,9 +361,50 @@
                                  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                  class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                                  sizes="(max-width: 2129px) 100vw, 2129px"
-                                 data-src="../../content/vsib/kano.png"
+                                 data-src="../../content/sux/persona.png"
                                  data-sizes="auto"
-                                 data-srcset="../../content/vsib/kano.png 2129w, ../../content/vsib/kano.png 768w, ../../content/vsib/kano.png 700w, ../../content/vsib/kano.png 600w"/>
+                                 data-srcset="../../content/sux/persona.png 2129w, ../../content/sux/persona.png 768w, ../../content/sux/persona.png 700w, ../../content/sux/persona.png 600w"/>
+                          </div>
+                        </div>
+                        <div class="vc_empty_space" style="height: 160px"><span class="vc_empty_space_inner"></span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div data-midnight="dark-title"
+             class="row wpb_row row-fluid align-center full-width-row vc_custom_1481593522920">
+          <div class="wpb_column columns medium-12 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid max_width align-center">
+                  <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
+                    <div class="vc_column-inner ">
+                      <div class="wpb_wrapper">
+                        <div class="wpb_text_column wpb_content_element  ">
+                          <div class="wpb_wrapper">
+                            <h4>User Journey Map</h4>
+                            <p>The user journey and the operational service for truck customer revealed that how customers perceive that Volvo perform on the expectation when it comes to service and repair of the purchased truck. The low touch points in the journey, thus became the an area of interest and an opportunity.</p>
+
+                          </div>
+                        </div>
+                        <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span>
+                        </div>
+                        <div id="thb-image-5c7d569a6cdc2"
+                             class="caption-style1 animation bottom-to-top alignleft full  thb_image_link wp-caption">
+                          <div class="thb-image-inner size_100">
+                            <img width="2129" height="560"
+                                 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                 class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                                 sizes="(max-width: 2129px) 100vw, 2129px"
+                                 data-src="../../content/sux/customer_journey.png"
+                                 data-sizes="auto"
+                                 data-srcset="../../content/sux/customer_journey.png 2129w, ../../content/sux/customer_journey.png 768w, ../../content/sux/customer_journey.png 700w, ../../content/sux/customer_journey.png 600w"/>
                           </div>
                         </div>
                         <div class="vc_empty_space" style="height: 160px"><span class="vc_empty_space_inner"></span>
@@ -1058,12 +534,24 @@
           <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
-              <!--  <div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div> -->
+                <div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div>
 
                 <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                   <div class="wpb_wrapper">
-                    <h4>CARD SORTING</h4>
-                    <p>The prioritized requirement had complex content. It was important to de- cluttered the content as much as possible in order to make the system easy to understand and efficient. Open card sorting activity was conducted among the users and stakeholders to uncover the mental model.</p>
+                    <h4>CONCEPTUAL SYSTEM</h4>
+
+                      <div class="thb-image-inner size_100">
+                    <img width="2032" height="100"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 2032px) 100vw, 2032px"
+                           data-src="../../content/sux/ideation.png" data-sizes="auto"
+                         data-srcset="../../content/sux/ideation.png 2032w, ../../content/sux/ideation.png 768w, ../../content/sux/ideation.png 700w, ../../content/sux/ideation.png 600w"/>
+                  </div>
+
+
+                      <br> <br></a>
+                    <p>The conceptual design prioritised the business and the user goals. This hypothesis had eliminated several system integration which are not providing greater value and costing high infrastructure maintenance. On testing this concept further led to exclude the staff to move around with hard copies, creating positive impact on operational efficiency.</p>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
@@ -1074,8 +562,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 2032px) 100vw, 2032px"
-                           data-src="../../content/vsib/cardsorting.png" data-sizes="auto"
-                         data-srcset="../../content/vsib/cardsorting.png 2032w, ../../content/vsib/cardsorting.png 768w, ../../content/vsib/cardsorting.png 700w, ../../content/vsib/cardsorting.png 600w"/>
+                           data-src="../../content/sux/concept_design.png" data-sizes="auto"
+                         data-srcset="../../content/sux/concept_design.png 2032w, ../../content/sux/concept_design.png 768w, ../../content/sux/concept_design.png 700w, ../../content/sux/concept_design.png 600w"/>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 160px"><span class="vc_empty_space_inner"></span></div>
@@ -1197,25 +685,14 @@
               <div class="wpb_wrapper">
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>INFORMATION ARCHITECTURE</h4>
-                    <p>After analyzing the card sorting results, favored to create information architecture.</p>
+                    <h4>High Fidelity Mockup Screens</h4>
+                    <p>After the several rounds of user testing on the lo-fi wireframes I created the final visual
+                      design of the website.</p>
+
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
-                  <div id="thb-image-5c7d569a6cdc2"
-                             class="caption-style1 animation bottom-to-top alignleft full  thb_image_link wp-caption">
-                          <div class="thb-image-inner size_100">
-                            <img width="2129" height="560"
-                                 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                                 class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                                 sizes="(max-width: 2129px) 100vw, 2129px"
-                                 data-src="../../content/vsib/information_architecture.jpg"
-                                 data-sizes="auto"
-                                 data-srcset="../../content/vsib/information_architecture.jpg 2129w, ../../content/vsib/information_architecture.jpg 768w, ../../content/vsib/information_architecture.jpg 700w, ../../content/vsib/information_architecture.jpg 600w"/>
-                          </div>
-                        </div>
-                  
-           <!--   <div id="thb-image-slider-20"
+                <div id="thb-image-slider-20"
                      class="thb-image-slider slick thb-image-slider-style2 overflow  mfp-gallery dark-arrow "
                      data-pagination="true" data-navigation="" data-center="0" data-columns="1" data-infinite="false"
                      data-autoplay="" data-autoplay-speed="4000">
@@ -1261,7 +738,7 @@
                            alt="final-screen_0005_checkout_page5"/>
                     </a>
                   </figure>
-                </div> -->
+                </div>
                 <div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
               </div>
             </div>
@@ -1276,9 +753,25 @@
                       <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element  ">
                           <div class="wpb_wrapper">
-                            <h4>SKETCHING WIRE FRAMES</h4>
-                            <p>Many sketches were developed and it was continuously tested and design were iterated to suits the user need and satisfaction</p>
+                            <h4>Deliveries</h4>
+                            The pre-study gives good ground for a development project by
+                            <ol>
+                              <li>A well defined and described definition of user needs. Defined as insights, personas and user journeys with pain points and interaction diagram.</li>
+                              <li>A clear description of how the real life process deviates from the ideal process</li>
+                              <li>An <a href="https://hiq.invisionapp.com/share/ASDK37M2D">interactive prototype</a> (mockup), used to test with users</li>
+                              <li>Validation on that the conceptual design is understood and liked by users and shows great potential to create desired value for business</li>
+                            </ol>
 
+
+                            <h4>Learnings</h4>
+                            <ol>
+                              <li>Starting the project with reading up on existing material about the users situation is very efficient, since it makes it possible to define some hypothesis that can inform  the end-user study.</li>
+                              <li>Defining close collaboration with some organisational units (in this case dealers)  makes the process for defining requirement very effective, mainly because it gives a direct access to users and user context.</li>
+                              <li>Finding a heterogenous group of uses is very important in order to secure that different needs in different contexts are covered, thus increasing the quality of  the solution.</li>
+                              <li>A clear vision on how the new solution could improve the business.</li>
+                              <li>Visualising findings as customer journeys focuses discussions on the cohesive work process and customer experience, and avoids narrow data or task focus.</li>
+                              <li>Interactive prototypes are very efficient to communicate conceptual design. They also serves extremely well for learning in a very early stage about possible and necessary improvements.</li>
+                            </ol>
                         <!--    <h5></h5>
                             <h5>Error Recovery</h5>
                             <p>Error messages have been designed to clearly communicate what went wrong and how to
@@ -1388,7 +881,7 @@
                     </div>
                   </div> -->
                 </div>
-                <br>            
+                <div class="vc_empty_space" style="height: 80px"><span class="vc_empty_space_inner"></span></div>
                 <div class="row wpb_row vc_inner row-fluid">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <div class="vc_column-inner ">
@@ -1396,8 +889,9 @@
                         <div class="wpb_text_column wpb_content_element  ">
                           <div class="wpb_wrapper">
                             <h4>Prototype</h4>
-                            <p>A  digital prototype on the revamped solution were first shared as a draft to recieve feedback from the users </p>
-     
+                            <p>A working digital prototype of SUX workshop redesigns built in
+                              Invision.</p>
+
                           </div>
                         </div>
                         <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span>
@@ -1411,7 +905,7 @@
                            <div class="wpb_video_wrapper">
                               <div class="flex-video widescreen youtube">
                                 <iframe width="1170" height="658"
-                                        src="https://invis.io/2KO56T8XD36"
+                                        src="https://hiq.invisionapp.com/share/ASDK37M2D"
                                         frameborder="0" allowfullscreen></iframe>
                               </div>
                             </div>
@@ -1482,163 +976,37 @@
             </div>
           </div>
         </div>
-            </div></div></div></div>
+      </div>
     </article>
 
     <div class="portfolio_nav">
       <div class="row full-width-row">
         <div class="small-5 columns">
-          <a href="../ghent/index.html" class="post_nav_link prev">
-            <div class="inner"><img src="../../content/images/cover/asi.jpg" alt="Ghent Factory - Assembly Instruction"/></div>
+          <a href="../ibuy/" class="post_nav_link prev">
+            <div class="inner"><img src="../../content/images/cover/ibuy.jpg" alt="Ibuy"/></div>
             <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" width="309.1" height="162.4" viewBox="151.5 346.3 309.1 162.4" enable-background="new 151.47 346.319 309.06 162.356" xml:space="preserve"><path d="M151.5 427.5c0 4.5 2 8.8 5.5 11.7l78.5 65.9c2.9 2.4 6.4 3.6 9.8 3.6 4.4 0 8.7-1.9 11.7-5.5 5.4-6.5 4.6-16.1-1.9-21.5l-45.9-38.5H445.2c8.5 0 15.3-6.8 15.3-15.3 0-8.5-6.8-15.3-15.3-15.3H208.3l46.8-39.2c6.5-5.4 7.3-15.1 1.9-21.5 -5.4-6.5-15.1-7.3-21.5-1.9l-78.5 65.9C153.5 418.7 151.5 423 151.5 427.5z"/></svg>
             <strong>
               Previous Project (p) </strong>
-            <span>Ghent Factory - Assembly Instruction</span>
+            <span>IBuy</span>
           </a>
         </div>
         <div class="small-2 columns center_link">
-          <a href="../../projects-2/index.html" title="Back">
+          <a href="../../projects-2/" title="Back">
             <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" width="20" height="20" viewBox="296.5 494.5 20 20" enable-background="new 296.5 494.5 20 20" xml:space="preserve"><path fill-rule="evenodd" clip-rule="evenodd" d="M296.5 494.5h8v8h-8V494.5z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M308.5 494.5h8v8h-8V494.5z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M296.5 506.5h8v8h-8V506.5z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M308.5 506.5h8v8h-8V506.5z"/></svg>
           </a>
         </div>
+        <div class="small-5 columns">
+          <a href="../ghent/" class="post_nav_link next">
+            <div class="inner"><img src="../../content/images/cover/asi.jpg"
+                                    alt="Ghent assembly instruction"/></div>
+            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" width="309.1" height="162.4" viewBox="151.5 346.3 309.1 162.4" enable-background="new 151.47 346.319 309.06 162.356" xml:space="preserve"><path d="M455.1 415.8l-78.5-65.9c-6.5-5.4-16.1-4.6-21.5 1.9 -5.4 6.5-4.6 16.1 1.9 21.5l46.8 39.2H166.8c-8.5 0-15.3 6.8-15.3 15.3 0 8.5 6.8 15.3 15.3 15.3h236l-45.9 38.5c-6.5 5.4-7.3 15.1-1.9 21.5 3 3.6 7.4 5.5 11.7 5.5 3.5 0 7-1.2 9.8-3.6l78.5-65.9c3.5-2.9 5.5-7.2 5.5-11.7S458.5 418.7 455.1 415.8z"/></svg>
+            <strong>
+              Next Project (n) </strong>
+            <span>Ghent Factory - Assembly Instruction</span>
 
-      </div>
-    </div>
-  </div><!-- End role["main"] -->
-  <div class="fixed-footer-container">
-    <!-- Start Footer -->
-    <footer id="footer" class="footer subfooter-enabled light ">
-      <div class="row">
-        <div class="small-12 columns">
-          <aside class="thb_call_to_action reverse-off">
-            <div><h3 style="color: #fff">Did something pique your interests? Excellent! let's talk more.</h3></div>
-            <a href="../../contact-me/index.html" class="button white thb-3d-style" target="_blank" title="Contact Me">
-              <span>Contact Me</span>
-            </a>
-          </aside>
-        </div>
-        <div class="small-12 medium-6 large-3 columns">
-        </div>
-        <div class="small-12 medium-6 large-3 columns">
-        </div>
-        <div class="small-12 medium-6 large-3 columns">
-        </div>
-        <div class="small-12 medium-6 large-3 columns">
-        </div>
-      </div>
-    </footer>
-    <!-- End Footer -->
-    <div id="subfooter" class="subfooter style1 light ">
-      <div class="row">
-        <div class="small-12 columns">
-          <div class="subfooter-container">
-            <div class="row no-padding">
-              <div class="small-12 medium-6 thb-copyright columns">
-                <p>© 2018 Salmabi Kutty</p></div>
-              <div class="small-12 medium-6 thb-social columns">
-                <aside class="socials"><a href="https://www.linkedin.com/in/salmabikutty" class="social linkedin"
-                                          target="_blank"><i class="fa fa-linkedin"></i></a></aside>
-              </div>
-            </div>
-          </div>
+          </a>
         </div>
       </div>
     </div>
-  </div> <!-- End .fixed-footer-container -->
-</div> <!-- End #wrapper -->
-<!-- start theme switcher -->
-<script async
-        src="https://pepper.swat.io/embed.js?eyJwb3NpdGlvbiI6InJpZ2h0IiwiY29sb3IiOiJlYzFkNDAiLCJjdXN0b21Db2xvciI6dHJ1ZSwiaWNvbiI6ImVtYWlsIiwicHJvbm91biI6Im1lIiwibGFuZ3VhZ2UiOiJlbiIsImJyYW5kZWQiOmZhbHNlLCJpbnRyb1RleHQiOiJIZWxsbywgRG8geW91IG5lZWQgaGVscD8gRmVlbCBmcmVlIHRvIHBpbmcgbWUgYSBtZXNzYWdlIGFueXRpbWUgeW91IHdhbnQhIEknbGwgYmUgaGFwcHkgdG8gYW5zd2VyIGFueSBvZiB5b3VyIHF1ZXN0aW9ucy4iLCJjaGFubmVscyI6W1sidHdpdHRlciIsImFobWFkX2Fsc3VsdGFuIiwic29jaWFsIl0sWyJpbnN0YWdyYW0iLCJhbHN1bHRhbl9haG1hZCIsInNvY2lhbCJdLFsiZW1haWwiLCJhbHN1bHRhbi5hODlAZ21haWwuY29tIiwiY2xhc3NpYyJdLFsid2Vic2l0ZSIsImh0dHA6Ly9haG1hZGFsc3VsdGFuLmNvbS9jb250YWN0LW1lIiwiY2xhc3NpYyJdXX0="></script>
-<script type="text/javascript">
-  var c = document.body.className;
-  c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-  document.body.className = c;
-</script>
-<script src='../../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min6b25.js?ver=2.1.4'></script>
-<script type='text/javascript'>
-  /* <![CDATA[ */
-  var woocommerce_params = {"ajax_url": "\/wp-admin\/admin-ajax.php", "wc_ajax_url": "\/?wc-ajax=%%endpoint%%"};
-  /* ]]> */
-</script>
-<script src='../../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.mine248.js?ver=3.5.4'></script>
-<script type='text/javascript'>
-  /* <![CDATA[ */
-  var wc_cart_fragments_params = {
-    "ajax_url": "\/wp-admin\/admin-ajax.php",
-    "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
-    "cart_hash_key": "wc_cart_hash_3ae19571456ae2cdce38ac44eab1a06b",
-    "fragment_name": "wc_fragments_3ae19571456ae2cdce38ac44eab1a06b"
-  };
-  /* ]]> */
-</script>
-<script src='../../wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.mine248.js?ver=3.5.4'></script>
-<script src='../../wp-content/themes/werkstatt/assets/js/vendor.minf7b1.js?ver=3.1.4.2'></script>
-<script src='../../wp-includes/js/underscore.min4511.js?ver=1.8.3'></script>
-<script type='text/javascript'>
-  /* <![CDATA[ */
-  var themeajax = {
-    "url": "http:\/\/ahmadalsultan.com\/wp-admin\/admin-ajax.php",
-    "l10n": {
-      "of": "%curr% of %total%",
-      "loading": "Loading ...",
-      "lightbox_loading": "Loading...",
-      "nomore": "No More Posts",
-      "nomore_products": "All Products Loaded",
-      "loadmore": "Load More",
-      "added": "Added To Cart",
-      "added_svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 0 64 64\" enable-background=\"new 0 0 64 64\"><path fill=\"none\" stroke=\"#000\" stroke-width=\"2\" stroke-linejoin=\"bevel\" stroke-miterlimit=\"10\" d=\"m13 33l12 12 24-24\"\/><\/svg>"
-    },
-    "svg": {"prev_arrow": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\r\n\t width=\"30px\" height=\"18px\" viewBox=\"0 0 30 18\" enable-background=\"new 0 0 30 18\" xml:space=\"preserve\">\r\n<path class=\"handle\" d=\"M2.511,9.007l7.185-7.221c0.407-0.409,0.407-1.071,0-1.48s-1.068-0.409-1.476,0L0.306,8.259\r\n\tc-0.408,0.41-0.408,1.072,0,1.481l7.914,7.952c0.407,0.408,1.068,0.408,1.476,0s0.407-1.07,0-1.479L2.511,9.007z\"\/>\r\n<path class=\"bar\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M30,9c0,0.553-0.447,1-1,1H1c-0.551,0-1-0.447-1-1c0-0.552,0.449-1,1-1h28.002\r\n\tC29.554,8,30,8.448,30,9z\"\/>\r\n<\/svg>\r\n"},
-    "settings": {
-      "current_url": "http:\/\/ahmadalsultan.com\/portfolio\/the-last-bookstore\/",
-      "portfolio_title_animation": "on",
-      "page_transition": "on",
-      "page_transition_style": "thb-fade",
-      "page_transition_in_speed": "1000",
-      "page_transition_out_speed": "500",
-      "shop_product_listing_pagination": "style1",
-      "right_click": "off",
-      "mobile_menu_speed": "0.5"
-    },
-    "sounds": {
-      "music_sound": "off",
-      "music_sound_toggle_home": "on",
-      "music_sound_file": "http:\/\/ahmadalsultan.com\/wp-content\/themes\/werkstatt\/assets\/sounds\/music_sound.mp3",
-      "menu_item_hover_sound": "off",
-      "menu_item_hover_sound_file": "http:\/\/ahmadalsultan.com\/wp-content\/themes\/werkstatt\/assets\/sounds\/hover.mp3",
-      "menu_open_sound": "off",
-      "menu_open_sound_file": "http:\/\/ahmadalsultan.com\/wp-content\/themes\/werkstatt\/assets\/sounds\/open.mp3",
-      "menu_close_sound": "off",
-      "menu_close_sound_file": "http:\/\/ahmadalsultan.com\/wp-content\/themes\/werkstatt\/assets\/sounds\/close.mp3",
-      "click_sound": "off",
-      "click_sound_file": "http:\/\/ahmadalsultan.com\/wp-content\/themes\/werkstatt\/assets\/sounds\/click.mp3"
-    }
-  };
-  /* ]]> */
-</script>
-<script src='../../wp-content/themes/werkstatt/assets/js/app.minf7b1.js?ver=3.1.4.2'></script>
-<script src='../../wp-includes/js/wp-embed.minaead.js?ver=5.0.3'></script>
-<script src='../../wp-content/plugins/js_composer/assets/js/dist/js_composer_front.mine23c.js?ver=5.7'></script>
-<aside id="searchpopup" class="light">
-  <a href="#" class="thb-search-close">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" enable-background="new 0 0 64 64">
-      <g fill="none" stroke="#000" stroke-width="2" stroke-miterlimit="10">
-        <path d="m18.947 17.15l26.1 25.903"/>
-        <path d="m19.05 43.15l25.902-26.1"/>
-      </g>
-    </svg>
-  </a>
-  <!-- Start SearchForm -->
-  <form method="get" class="searchform" role="search" action="http://ahmadalsultan.com/">
-    <fieldset>
-      <input name="s" type="text" class="s small-12" placeholder="Type here to search">
-      <input type="submit" class="btn accent" value="Search"/>
-    </fieldset>
-  </form>
-  <!-- End SearchForm -->
-  <div class="cc"></div>
-</aside>
-</body>
-
-<!-- Mirrored from ahmadalsultan.com/portfolio/the-last-bookstore/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Mar 2019 16:53:07 GMT -->
-</html>
+  </div>
+  <?php include '../../common/footer.php';?>
