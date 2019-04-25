@@ -377,7 +377,7 @@
           <div class="mobile-menu-top">
             <ul id="menu-navigation" class="thb-mobile-menu">
               <li id="menu-item-287"
-                  class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-287">
+                  class='<?php echo ($_SERVER['PHP_SELF'] == "/" ? "current-menu-item" : "");?> menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-287'>
                 <div class="link_container">
                   <div class="link_inner"><a href="/" data-content="Home"
                                              data-menubg="">Home</a>
@@ -398,7 +398,7 @@
                 </div>
               </li>
               <li id="menu-item-755"
-                  class=" menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-541 current_page_item menu-item-755">
+                  class=" menu-item menu-item-type-post_type menu-item-object-page page_item page-item-541 current_page_item menu-item-755">
                 <div class="link_container">
                   <div class="link_inner"><a href="index.html" data-content="About" data-menubg="">About</a></div>
                 </div>
@@ -443,15 +443,15 @@
           <!-- Start Full Menu -->
           <nav class="full-menu" id="full-menu">
             <ul id="menu-navigation-1" class="thb-full-menu">
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-287"><a
+              <li class="<?php echo ($_SERVER['PHP_SELF'] == '/index.php' ? 'current-menu-item' : '');?> menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-287"><a
                   href="/">Home</a></li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a
+              <li class="<?php echo ($_SERVER['PHP_SELF'] == '/projects-2/index.php' ? 'current-menu-item' : '');?> menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a
                   href="/projects-2/">Projects</a></li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-756"><a
+              <li class="<?php echo ($_SERVER['PHP_SELF'] == '/process/index.php' ? 'current-menu-item' : '');?> menu-item menu-item-type-post_type menu-item-object-page menu-item-756"><a
                   href="/process/">Process</a></li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-541 current_page_item menu-item-755">
+              <li class="<?php echo ($_SERVER['PHP_SELF'] == '/about/index.php' ? 'current-menu-item' : '');?> menu-item menu-item-type-post_type menu-item-object-page page_item page-item-541 current_page_item menu-item-755">
                 <a href="index.html">About</a></li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-900"><a
+              <li class="<?php echo ($_SERVER['PHP_SELF'] == '/contact-me/index.php' ? 'current-menu-item' : '');?> menu-item menu-item-type-post_type menu-item-object-page menu-item-900"><a
                   href="/contact-me/">Contact Me</a></li>
             </ul>
           </nav>
