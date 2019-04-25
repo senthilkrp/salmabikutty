@@ -267,8 +267,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="attachment-full size-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 672px) 100vw, 672px"
-                         data-src="content/brand_logo/Harley-Davidson.png" data-sizes="auto"
-                         data-srcset="content/brand_logo/Harley-Davidson.png 672w, content/brand_logo/Harley-Davidson.png 640w, content/brand_logo/Harley-Davidson.png 320w, content/brand_logo/Harley-Davidson.png 20w,content/brand_logo/Harley-Davidson.png 600w"/>
+                         data-src="content/brand_logo/harley-davidson.png" data-sizes="auto"
+                         data-srcset="content/brand_logo/harley-davidson.png 672w, content/brand_logo/harley-davidson.png 640w, content/brand_logo/harley-davidson.png 320w, content/brand_logo/harley-davidson.png 20w,content/brand_logo/harley-davidson.png 600w"/>
                   </div>
                   <div class="thb-client small-6 large-3 columns" style="border-color: #f0f0f0; filter: greyscale">
                     <img width="170" height="170"
