@@ -63,8 +63,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1440px) 100vw, 1440px"
-                         data-src="../../content/Ghent/lady_instruction.png" data-sizes="auto"
-                         data-srcset="../../content/Ghent/lady_instruction.png 1440w, ../../content/ghent/lady_instruction.png 768w, ../../content/ghent/lady_instruction.png 700w, lady_instruction.png 600w"/>
+                         data-src="../../content/ghent/lady_instruction.png" data-sizes="auto"
+                         data-srcset="../../content/ghent/lady_instruction.png 1440w, ../../content/ghent/lady_instruction.png 768w, ../../content/ghent/lady_instruction.png 700w, lady_instruction.png 600w"/>
                   </div>
                 </div>
 
