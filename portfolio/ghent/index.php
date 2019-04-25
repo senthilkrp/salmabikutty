@@ -288,9 +288,6 @@
                          data-srcset="../../content/ghent/beforeafter.png 1157w, ../../content/ghent/beforeafter.png 768w, ../../content/ghent/beforeafter.png 700w, ../../content/ghent/beforeafter.png 600w"/>
                   </div>
                 </div>
-
-
-                <p> User Feedback: Video not available right now, but my code works !! YAY</p>
                   <div
                             class="wpb_video_widget wpb_content_element vc_clearfix  align-center  vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-center">
                           <div class="wpb_wrapper">
