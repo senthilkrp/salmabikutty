@@ -11,6 +11,7 @@
   <link rel='dns-prefetch' href='http://use.typekit.net/'/>
   <link rel='dns-prefetch' href='http://fonts.googleapis.com/'/>
   <link rel='dns-prefetch' href='http://s.w.org/'/>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <script type="text/javascript">
     window._wpemojiSettings = {
       "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/",

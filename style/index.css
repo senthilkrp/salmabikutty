@@ -1,3 +1,32 @@
+@import "media.css";
+
+.portfolio a:hover {
+  text-decoration: none;
+}
+
+.product-logo img {
+  filter: grayscale(100%);
+  will-change: opacity;
+  opacity: 0.3;
+  display: block;
+  margin: 0 auto;
+}
+
+.product-logo img:hover {
+  filter: unset;
+  opacity: 1;
+}
+
+.left-align {
+  text-align: left !important;
+}
+
+h6, h3 {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
 
 .post-783 .post-gallery.parallax {
   min-height: 100vh;
@@ -181,4 +210,8 @@ input[type="submit"], .button, .btn, .btn-text {
 
 a[href^='https://www.000webhost.com/'] {
   display: none;
+}
+
+p {
+  font-family: 'freight-sans-pro', 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';
 }

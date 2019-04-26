@@ -1,0 +1,17 @@
+@media screen and (max-width: 480px) {
+  .product-logo img {
+    width: 50%;
+    height: auto;
+  }
+
+  .product-logo {
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  .product-logo img {
+    width: 100px;
+    height: 100px;
+  }
+}
