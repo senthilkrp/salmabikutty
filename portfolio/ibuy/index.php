@@ -13,7 +13,7 @@
         <header class="portfolio-title style1 entry-header">
           <div class="row align-center">
             <div class="small-12 medium-10 large-7 columns">
-              <h1 class="entry-title" itemprop="name headline">I BUY Strategy design</h1>  <h3 style="color:white"> CSR Management System</h3>       <!--    <h4>Volvo Truck dealership is located across 350+ location in global market and they use I-BUY relationship management (CRM) to interact with current and potential customers and also to communicate with cross functional team to enhance the driving sales growth..</h4>
+              <h1 class="entry-title" itemprop="name headline">I BUY Strategy design</h1>  <h3 class="sub-title"> CSR Management System</h3>       <!--    <h4>Volvo Truck dealership is located across 350+ location in global market and they use I-BUY relationship management (CRM) to interact with current and potential customers and also to communicate with cross functional team to enhance the driving sales growth..</h4>
               <div class="portfolio-attributes ">
                 <div class="attribute">
                   <strong>Roles: </strong>
@@ -112,7 +112,7 @@
           <div class="wpb_column columns medium-12 thb-dark-column small-12">
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
-                <div class="vc_empty_space" style="height: 480px"><span class="vc_empty_space_inner"></span></div>
+                <div class="vc_empty_space"><span class="vc_empty_space_inner"></span></div>
               </div>
             </div>
           </div>

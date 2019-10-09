@@ -268,7 +268,7 @@
       transform: scale(3);
     }
   </style>
-  <link rel='stylesheet' href='/style/index.css' media='all'/>
+  <link rel='stylesheet' href='/style/index.css?rand=1' media='all'/>
   <link rel='stylesheet' id='thb-style-css' href='/wp-content/themes/werkstatt/style.css' media='all'/>
   <link rel='stylesheet' id='thb-google-fonts-css'
         href='https://fonts.googleapis.com/css?family=IBM+Plex+Sans%3A300%2C400%2C400i%2C500%2C600%2C700&amp;subset=latin'
@@ -401,7 +401,7 @@
               <li id="menu-item-755"
                   class=" menu-item menu-item-type-post_type menu-item-object-page page_item page-item-541 current_page_item menu-item-755">
                 <div class="link_container">
-                  <div class="link_inner"><a href="index.html" data-content="About" data-menubg="">About</a></div>
+                  <div class="link_inner"><a href="/about/" data-content="About" data-menubg="">About</a></div>
                 </div>
               </li>
               <li id="menu-item-900" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-900">
@@ -451,7 +451,7 @@
               <li class="<?php echo ($_SERVER['PHP_SELF'] == '/process/index.php' ? 'current-menu-item' : '');?> menu-item menu-item-type-post_type menu-item-object-page menu-item-756"><a
                   href="/process/">Process</a></li>
               <li class="<?php echo ($_SERVER['PHP_SELF'] == '/about/index.php' ? 'current-menu-item' : '');?> menu-item menu-item-type-post_type menu-item-object-page page_item page-item-541 current_page_item menu-item-755">
-                <a href="index.html">About</a></li>
+                <a href="/about/">About</a></li>
               <li class="<?php echo ($_SERVER['PHP_SELF'] == '/contact-me/index.php' ? 'current-menu-item' : '');?> menu-item menu-item-type-post_type menu-item-object-page menu-item-900"><a
                   href="/contact-me/">Contact Me</a></li>
             </ul>

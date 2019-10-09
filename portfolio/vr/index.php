@@ -103,8 +103,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/VR/IA1.png" data-sizes="auto"
-                         data-srcset="../../content/VR/IA1.png 1920w, ../../content/VR/IA1.png 768w, ../../content/VR/IA1.png 700w, ../../content/VR/IA1.png 600w"/>
+                         data-src="../../content/VR/IA1.jpg" data-sizes="auto"
+                         data-srcset="../../content/VR/IA1.jpg 1920w, ../../content/VR/IA1.jpg 768w, ../../content/VR/IA1.jpg 700w, ../../content/VR/IA1.jpg 600w"/>
 
                   </div>
                 </div>
@@ -127,8 +127,8 @@
                            src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                            class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                            sizes="(max-width: 1920px) 100vw, 1920px"
-                           data-src="../../content/VR/room.png" data-sizes="auto"
-                           data-srcset="../../content/VR/room.png 1920w, ../../content/VR/room.png 768w, ../../content/VR/room.png 700w, ../../content/VR/room.png 600w"/>
+                           data-src="../../content/VR/room.jpg" data-sizes="auto"
+                           data-srcset="../../content/VR/room.jpg 1920w, ../../content/VR/room.jpg 768w, ../../content/VR/room.jpg 700w, ../../content/VR/room.jpg 600w"/>
 
                     </div>
                   </div>

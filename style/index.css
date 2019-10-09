@@ -215,3 +215,17 @@ a[href^='https://www.000webhost.com/'] {
 p {
   font-family: 'freight-sans-pro', 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';
 }
+
+.vc_empty_space {
+  height: 50px;
+}
+
+.sub-title {
+  color: #fff;
+}
+
+.thb-iconbox.type2 {
+    background: #ef173b;
+    border-color: #ef173b;
+    color: #fff;
+}

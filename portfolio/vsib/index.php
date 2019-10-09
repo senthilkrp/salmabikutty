@@ -13,7 +13,7 @@
         <header class="portfolio-title style1 entry-header">
           <div class="row align-center">
             <div class="small-12 medium-10 large-7 columns">
-              <h1 class="entry-title" itemprop="name headline">VSIB</h1>                  <h4>Volvo Supplier Information portal</h4>
+              <h1 class="entry-title" itemprop="name headline">VSIB</h1>                  <h3 class="sub-title">Volvo Supplier Information portal</h3>
              <!-- <div class="portfolio-attributes ">
                 <div class="attribute">
                   <strong>Roles: </strong>
@@ -127,8 +127,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1412px) 100vw, 1412px"
-                         data-src="../../content/vsib/before_after.png" data-sizes="auto"
-                         data-srcset="../../content/vsib/before_after.png"/>
+                         data-src="../../content/vsib/before_after.jpg" data-sizes="auto"
+                         data-srcset="../../content/vsib/before_after.jpg"/>
                   </div>
                 </div>
               </div>
@@ -241,9 +241,9 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/vsib/heuristics.png"
+                         data-src="../../content/vsib/heuristics.jpg"
                          data-sizes="auto"
-                         data-srcset="../../content/vsib/heuristics.png 1920w, ../../content/vsib/heuristics.png 768w, ../../content/vsib/heuristics.png 700w, ../../content/vsib/heuristics.png 600w"/>
+                         data-srcset="../../content/vsib/heuristics.jpg 1920w, ../../content/vsib/heuristics.jpg 768w, ../../content/vsib/heuristics.jpg 700w, ../../content/vsib/heuristics.jpg 600w"/>
                   </div>
                 </div>
               </div>
@@ -272,8 +272,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 2500px) 100vw, 2500px"
-                         data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/lbs_user.png" data-sizes="auto"
-                         data-srcset="http://ahmadalsultan.com/wp-content/uploads/2016/12/lbs_user.png 2500w, http://ahmadalsultan.com/wp-content/uploads/2016/12/lbs_user-768x431.png 768w, http://ahmadalsultan.com/wp-content/uploads/2016/12/lbs_user-700x393.png 700w, http://ahmadalsultan.com/wp-content/uploads/2016/12/lbs_user-600x336.png 600w"/>
+                         data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/lbs_user.jpg" data-sizes="auto"
+                         data-srcset="http://ahmadalsultan.com/wp-content/uploads/2016/12/lbs_user.jpg 2500w, http://ahmadalsultan.com/wp-content/uploads/2016/12/lbs_user-768x431.jpg 768w, http://ahmadalsultan.com/wp-content/uploads/2016/12/lbs_user-700x393.jpg 700w, http://ahmadalsultan.com/wp-content/uploads/2016/12/lbs_user-600x336.jpg 600w"/>
                   </div>
                 </div> -->
                 <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
@@ -346,9 +346,9 @@
                                  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                  class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                                  sizes="(max-width: 2129px) 100vw, 2129px"
-                                 data-src="../../content/vsib/kano.png"
+                                 data-src="../../content/vsib/kano.jpg"
                                  data-sizes="auto"
-                                 data-srcset="../../content/vsib/kano.png 2129w, ../../content/vsib/kano.png 768w, ../../content/vsib/kano.png 700w, ../../content/vsib/kano.png 600w"/>
+                                 data-srcset="../../content/vsib/kano.jpg 2129w, ../../content/vsib/kano.jpg 768w, ../../content/vsib/kano.jpg 700w, ../../content/vsib/kano.jpg 600w"/>
                           </div>
                         </div>
                         <div class="vc_empty_space" style="height: 160px"><span class="vc_empty_space_inner"></span>
@@ -494,8 +494,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 2032px) 100vw, 2032px"
-                           data-src="../../content/vsib/cardsorting.png" data-sizes="auto"
-                         data-srcset="../../content/vsib/cardsorting.png 2032w, ../../content/vsib/cardsorting.png 768w, ../../content/vsib/cardsorting.png 700w, ../../content/vsib/cardsorting.png 600w"/>
+                           data-src="../../content/vsib/cardsorting.jpg" data-sizes="auto"
+                         data-srcset="../../content/vsib/cardsorting.jpg 2032w, ../../content/vsib/cardsorting.jpg 768w, ../../content/vsib/cardsorting.jpg 700w, ../../content/vsib/cardsorting.jpg 600w"/>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 160px"><span class="vc_empty_space_inner"></span></div>
@@ -557,8 +557,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1394px) 100vw, 1394px"
-                         data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap.png" data-sizes="auto"
-                         data-srcset="http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap.png 1394w, http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap-768x418.png 768w, http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap-700x381.png 700w, http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap-600x327.png 600w"/>
+                         data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap.jpg" data-sizes="auto"
+                         data-srcset="http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap.jpg 1394w, http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap-768x418.jpg 768w, http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap-700x381.jpg 700w, http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap-600x327.jpg 600w"/>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div>
@@ -640,44 +640,44 @@
                      data-pagination="true" data-navigation="" data-center="0" data-columns="1" data-infinite="false"
                      data-autoplay="" data-autoplay-speed="4000">
                   <figure>
-                    <a href="../../content/sux/mockup_1.png">
-                      <img src="../../content/sux/mockup_1.png" class="lazyload"
+                    <a href="../../content/sux/mockup_1.jpg">
+                      <img src="../../content/sux/mockup_1.jpg" class="lazyload"
                            alt="Mock up"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_2.png">
-                      <img src="../../content/sux/mockup_2.png" class="lazyload"
+                    <a href="../../content/sux/mockup_2.jpg">
+                      <img src="../../content/sux/mockup_2.jpg" class="lazyload"
                            alt="Mock up"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_3.png">
-                      <img src="../../content/sux/mockup_3.png" class="lazyload"
+                    <a href="../../content/sux/mockup_3.jpg">
+                      <img src="../../content/sux/mockup_3.jpg" class="lazyload"
                            alt="Mock up"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_4.png">
-                      <img src="../../content/sux/mockup_4.png" class="lazyload"
+                    <a href="../../content/sux/mockup_4.jpg">
+                      <img src="../../content/sux/mockup_4.jpg" class="lazyload"
                            alt="Mock up"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_5.png">
-                      <img src="../../content/sux/mockup_5.png" class="lazyload"
+                    <a href="../../content/sux/mockup_5.jpg">
+                      <img src="../../content/sux/mockup_5.jpg" class="lazyload"
                            alt="Mock up"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_6.png">
-                      <img src="../../content/sux/mockup_6.png" class="lazyload"
+                    <a href="../../content/sux/mockup_6.jpg">
+                      <img src="../../content/sux/mockup_6.jpg" class="lazyload"
                            alt="final-screen_0000_shopping_cart"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_7.png">
-                      <img src="../../content/sux/mockup_7.png" class="lazyload"
+                    <a href="../../content/sux/mockup_7.jpg">
+                      <img src="../../content/sux/mockup_7.jpg" class="lazyload"
                            alt="final-screen_0005_checkout_page5"/>
                     </a>
                   </figure>
@@ -868,9 +868,9 @@
                                  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                  class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                                  sizes="(max-width: 500px) 100vw, 500px"
-                                 data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/continue_work.png"
+                                 data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/continue_work.jpg"
                                  data-sizes="auto"
-                                 data-srcset="http://ahmadalsultan.com/wp-content/uploads/2016/12/continue_work.png 500w, http://ahmadalsultan.com/wp-content/uploads/2016/12/continue_work-150x150.png 150w"/>
+                                 data-srcset="http://ahmadalsultan.com/wp-content/uploads/2016/12/continue_work.jpg 500w, http://ahmadalsultan.com/wp-content/uploads/2016/12/continue_work-150x150.jpg 150w"/>
                           </div>
                         </div>
                         <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span>

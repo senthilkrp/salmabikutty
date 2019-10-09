@@ -13,7 +13,7 @@
         <header class="portfolio-title style1 entry-header">
           <div class="row align-center">
             <div class="small-12 medium-10 large-7 columns">
-              <h1 class="entry-title" itemprop="name headline">SUX workshop</h1>                  <h4>Desktop Dealer Application Redesign</h4>
+              <h1 class="entry-title" itemprop="name headline">SUX workshop</h1>                  <h3 class="sub-title">Desktop Dealer Application Redesign</h4>
              <!-- <div class="portfolio-attributes ">
                 <div class="attribute">
                   <strong>Roles: </strong>
@@ -245,9 +245,9 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/sux/field_research.png"
+                         data-src="../../content/sux/field_research.jpg"
                          data-sizes="auto"
-                         data-srcset="../../content/sux/field_research.png 1920w, ../../content/sux/field_research.png 768w, ../../content/sux/field_research.png 700w, ../../content/sux/field_research.png 600w"/>
+                         data-srcset="../../content/sux/field_research.jpg 1920w, ../../content/sux/field_research.jpg 768w, ../../content/sux/field_research.jpg 700w, ../../content/sux/field_research.jpg 600w"/>
                   </div>
                 </div>
               </div>
@@ -361,9 +361,9 @@
                                  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                  class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                                  sizes="(max-width: 2129px) 100vw, 2129px"
-                                 data-src="../../content/sux/persona.png"
+                                 data-src="../../content/sux/persona.jpg"
                                  data-sizes="auto"
-                                 data-srcset="../../content/sux/persona.png 2129w, ../../content/sux/persona.png 768w, ../../content/sux/persona.png 700w, ../../content/sux/persona.png 600w"/>
+                                 data-srcset="../../content/sux/persona.jpg 2129w, ../../content/sux/persona.jpg 768w, ../../content/sux/persona.jpg 700w, ../../content/sux/persona.jpg 600w"/>
                           </div>
                         </div>
                         <div class="vc_empty_space" style="height: 160px"><span class="vc_empty_space_inner"></span>
@@ -402,9 +402,9 @@
                                  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                  class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                                  sizes="(max-width: 2129px) 100vw, 2129px"
-                                 data-src="../../content/sux/customer_journey.png"
+                                 data-src="../../content/sux/customer_journey.jpg"
                                  data-sizes="auto"
-                                 data-srcset="../../content/sux/customer_journey.png 2129w, ../../content/sux/customer_journey.png 768w, ../../content/sux/customer_journey.png 700w, ../../content/sux/customer_journey.png 600w"/>
+                                 data-srcset="../../content/sux/customer_journey.jpg 2129w, ../../content/sux/customer_journey.jpg 768w, ../../content/sux/customer_journey.jpg 700w, ../../content/sux/customer_journey.jpg 600w"/>
                           </div>
                         </div>
                         <div class="vc_empty_space" style="height: 160px"><span class="vc_empty_space_inner"></span>
@@ -562,8 +562,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 2032px) 100vw, 2032px"
-                           data-src="../../content/sux/concept_design.png" data-sizes="auto"
-                         data-srcset="../../content/sux/concept_design.png 2032w, ../../content/sux/concept_design.png 768w, ../../content/sux/concept_design.png 700w, ../../content/sux/concept_design.png 600w"/>
+                           data-src="../../content/sux/concept_design.jpg" data-sizes="auto"
+                         data-srcset="../../content/sux/concept_design.jpg 2032w, ../../content/sux/concept_design.jpg 768w, ../../content/sux/concept_design.jpg 700w, ../../content/sux/concept_design.jpg 600w"/>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 160px"><span class="vc_empty_space_inner"></span></div>
@@ -697,44 +697,44 @@
                      data-pagination="true" data-navigation="" data-center="0" data-columns="1" data-infinite="false"
                      data-autoplay="" data-autoplay-speed="4000">
                   <figure>
-                    <a href="../../content/sux/mockup_1.png">
-                      <img src="../../content/sux/mockup_1.png" class="lazyload"
+                    <a href="../../content/sux/mockup_1.jpg">
+                      <img src="../../content/sux/mockup_1.jpg" class="lazyload"
                            alt="Mock up"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_2.png">
-                      <img src="../../content/sux/mockup_2.png" class="lazyload"
+                    <a href="../../content/sux/mockup_2.jpg">
+                      <img src="../../content/sux/mockup_2.jpg" class="lazyload"
                            alt="Mock up"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_3.png">
-                      <img src="../../content/sux/mockup_3.png" class="lazyload"
+                    <a href="../../content/sux/mockup_3.jpg">
+                      <img src="../../content/sux/mockup_3.jpg" class="lazyload"
                            alt="Mock up"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_4.png">
-                      <img src="../../content/sux/mockup_4.png" class="lazyload"
+                    <a href="../../content/sux/mockup_4.jpg">
+                      <img src="../../content/sux/mockup_4.jpg" class="lazyload"
                            alt="Mock up"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_5.png">
-                      <img src="../../content/sux/mockup_5.png" class="lazyload"
+                    <a href="../../content/sux/mockup_5.jpg">
+                      <img src="../../content/sux/mockup_5.jpg" class="lazyload"
                            alt="Mock up"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_6.png">
-                      <img src="../../content/sux/mockup_6.png" class="lazyload"
+                    <a href="../../content/sux/mockup_6.jpg">
+                      <img src="../../content/sux/mockup_6.jpg" class="lazyload"
                            alt="final-screen_0000_shopping_cart"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_7.png">
-                      <img src="../../content/sux/mockup_7.png" class="lazyload"
+                    <a href="../../content/sux/mockup_7.jpg">
+                      <img src="../../content/sux/mockup_7.jpg" class="lazyload"
                            alt="final-screen_0005_checkout_page5"/>
                     </a>
                   </figure>

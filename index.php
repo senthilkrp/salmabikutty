@@ -193,7 +193,7 @@
           <img class="volvo-logo" src="content/brand_logo/volvo_logo.png"/>
         </div>
         <div class="product-logo col-md-2">
-          <img class="harley-logo" src="content/brand_logo/harley-davidson.png"/>
+          <img class="harley-logo" src="content/brand_logo/harley-davidson.jpg"/>
         </div>
         <div class="product-logo col-md-2">
           <img src="content/brand_logo/vodafone.jpg"/>

@@ -9,11 +9,11 @@
         <div class="parallax_bg"
              data-top-bottom="transform: translate3d(0px, 40%, 0px);"
              data-top="transform: translate3d(0px, 0%, 0px);"
-             style="background-image: url(../../wp-content/uploads/2016/12/thumbnail-neo-1.jpg);"></div>
+             style="background-image: url(../../content/ghent/assembly_cover.jpg"></div>
         <header class="portfolio-title style1 entry-header">
           <div class="row align-center">
             <div class="small-12 medium-10 large-7 columns">
-              <h1 class="entry-title" itemprop="name headline">Ghent Factory </h1>                  <h4>Assembly Instruction</h4>
+              <h1 class="entry-title" itemprop="name headline">Ghent Factory </h1>                  <h3 class="sub-title">Assembly Instruction</h4>
              <!--     <div class="portfolio-attributes ">
                 <div class="attribute">
                   <strong>ROLES: </strong>
@@ -117,8 +117,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1440px) 100vw, 1440px"
-                         data-src="../../content/ghent/user_content.png" data-sizes="auto"
-                         data-srcset="../../content/ghent/user_content.png 1440w, ../../content/ghent/user_content.png 768w, ../../content/ghent/user_content.png 700w, ../../content/ghent/user_content.png 600w"/>
+                         data-src="../../content/ghent/user_content.jpg" data-sizes="auto"
+                         data-srcset="../../content/ghent/user_content.jpg 1440w, ../../content/ghent/user_content.jpg 768w, ../../content/ghent/user_content.jpg 700w, ../../content/ghent/user_content.jpg 600w"/>
                   </div>
                 </div>
 
@@ -232,8 +232,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 2250px) 100vw, 2250px"
-                         data-src="../../content/ghent/impact_map.png" data-sizes="auto"
-                         data-srcset="../../content/ghent/impact_map.png 2250w, ../../content/ghent/impact_map.png 768w, ../../content/ghent/impact_map.png 700w, ../../content/ghent/impact_map.png 600w"/>
+                         data-src="../../content/ghent/impact_map.jpg" data-sizes="auto"
+                         data-srcset="../../content/ghent/impact_map.jpg 2250w, ../../content/ghent/impact_map.jpg 768w, ../../content/ghent/impact_map.jpg 700w, ../../content/ghent/impact_map.jpg 600w"/>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div>
@@ -367,7 +367,7 @@
           </a>
         </div>
         <div class="small-5 columns">
-          <a href="../vr/index.html" class="post_nav_link next">
+          <a href="../vr/" class="post_nav_link next">
             <div class="inner"><img src="../../content/images/cover/vr.jpg" alt="VR Manufacturing Process"/>
             </div>
             <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" width="309.1" height="162.4" viewBox="151.5 346.3 309.1 162.4" enable-background="new 151.47 346.319 309.06 162.356" xml:space="preserve"><path d="M455.1 415.8l-78.5-65.9c-6.5-5.4-16.1-4.6-21.5 1.9 -5.4 6.5-4.6 16.1 1.9 21.5l46.8 39.2H166.8c-8.5 0-15.3 6.8-15.3 15.3 0 8.5 6.8 15.3 15.3 15.3h236l-45.9 38.5c-6.5 5.4-7.3 15.1-1.9 21.5 3 3.6 7.4 5.5 11.7 5.5 3.5 0 7-1.2 9.8-3.6l78.5-65.9c3.5-2.9 5.5-7.2 5.5-11.7S458.5 418.7 455.1 415.8z"/></svg>

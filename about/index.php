@@ -113,7 +113,7 @@
 
                         </div>
                       </div>
-                      <a class="btn    animation bottom-to-top  " href="#" target="_self" role="button"
+                      <a class="btn animation bottom-to-top  " href="/contact-me" target="_self" role="button"
                          title="Contact me"><span>Contact me</span></a>
 
                     </div>
