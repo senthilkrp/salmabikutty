@@ -9,7 +9,7 @@
         <div class="parallax_bg"
              data-top-bottom="transform: translate3d(0px, 40%, 0px);"
              data-top="transform: translate3d(0px, 0%, 0px);"
-             style="background-image: url(../../content/ghent/assembly_cover.jpg"></div>
+             style="background-image: url(../../content/Ghent/assembly_cover.jpg"></div>
         <header class="portfolio-title style1 entry-header">
           <div class="row align-center">
             <div class="small-12 medium-10 large-7 columns">
