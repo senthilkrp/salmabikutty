@@ -184,7 +184,7 @@
                             </svg>
                           </figure>
                           <div class="iconbox-content">
-                            <h5>Improved uptime – keep truck on the road<br><br></h5></div>
+                            <h5>Improved uptime – keep truck on the road<br></h5></div>
                         </div>
                       </div>
                     </div>

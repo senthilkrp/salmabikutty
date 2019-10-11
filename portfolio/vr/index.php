@@ -15,7 +15,7 @@
             <div class="small-12 medium-10 large-7 columns">
               <h1 class="entry-title" itemprop="name headline">VR Truck Manufacturing Process</h1>                 <!-- <h4>Smart home
               control system – on your TV!</h4> -->
-              <div class="portfolio-attributes ">
+              <!-- <div class="portfolio-attributes ">
                 <div class="attribute">
                   <strong>ROLES: </strong>
                   <a href="#" title="UX DESIGNER" target="_blank">
@@ -26,7 +26,7 @@
                   <a href="#" title="Apple TV / tvOS" target="_blank">
                     Oculus / Smart Display / Mobile </a>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </header>

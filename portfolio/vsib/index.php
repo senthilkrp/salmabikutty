@@ -181,7 +181,7 @@
                             </svg>
                           </figure>
                           <div class="iconbox-content">
-                            <h5>Achieved 86% overall user satisfaction through user survey<br></h5></div>
+                            <h5>Achieved 86% overall user satisfaction through user survey<br><br></h5></div>
                         </div>
                       </div>
                     </div>
@@ -204,7 +204,7 @@
                             </svg>
                           </figure>
                           <div class="iconbox-content">
-                            <h5>42% higher efficiency on simplification of the architecture.</h5></div>
+                            <h5>42% higher efficiency on simplification of the architecture.<br><br></h5></div>
                         </div>
                       </div>
                     </div>
