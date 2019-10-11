@@ -1,7 +1,7 @@
 <?php include '../../common/header.php';?>
   <div role="main" class="cf">
     <article itemscope itemtype="http://schema.org/Article"
-             class="post portfolio-detail  post-783 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-category-bookstore portfolio-category-e-commerce portfolio-category-ux-ui portfolio-category-website"
+             class="post portfolio-detail post-vsib portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-category-bookstore portfolio-category-e-commerce portfolio-category-ux-ui portfolio-category-website"
              role="article">
 
       <figure class="post-gallery parallax">
@@ -9,7 +9,7 @@
         <div class="parallax_bg"
              data-top-bottom="transform: translate3d(0px, 40%, 0px);"
              data-top="transform: translate3d(0px, 0%, 0px);"
-             style="background-image: url(../content/sux);"></div>
+             style="background-image: url(../../content/vsib/cover.jpg);"></div>
         <header class="portfolio-title style1 entry-header">
           <div class="row align-center">
             <div class="small-12 medium-10 large-7 columns">

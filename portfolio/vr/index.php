@@ -53,7 +53,7 @@
 
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
-                            <p> To use VR tools in the manufacturing process to deal with issues in
+                            <p> To use vr tools in the manufacturing process to deal with issues in
                               manufacturing industries revolve around the flow of information and planning processes,
                               and have an understanding of the intra and inter-organisations.
                             </p>
@@ -103,8 +103,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/VR/IA1.jpg" data-sizes="auto"
-                         data-srcset="../../content/VR/IA1.jpg 1920w, ../../content/VR/IA1.jpg 768w, ../../content/VR/IA1.jpg 700w, ../../content/VR/IA1.jpg 600w"/>
+                         data-src="../../content/vr/IA1.jpg" data-sizes="auto"
+                         data-srcset="../../content/vr/IA1.jpg 1920w, ../../content/vr/IA1.jpg 768w, ../../content/vr/IA1.jpg 700w, ../../content/vr/IA1.jpg 600w"/>
 
                   </div>
                 </div>
@@ -114,8 +114,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/VR/warehouse.jpg" data-sizes="auto"
-                         data-srcset="../../content/VR/warehouse.jpg 1920w, ../../content/VR/warehouse.jpg 768w, ../../content/VR/warehouse.jpg 700w, ../../content/VR/warehouse.jpg 600w"/>
+                         data-src="../../content/vr/warehouse.jpg" data-sizes="auto"
+                         data-srcset="../../content/vr/warehouse.jpg 1920w, ../../content/vr/warehouse.jpg 768w, ../../content/vr/warehouse.jpg 700w, ../../content/vr/warehouse.jpg 600w"/>
 
                   </div>
                 </div>
@@ -127,8 +127,8 @@
                            src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                            class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                            sizes="(max-width: 1920px) 100vw, 1920px"
-                           data-src="../../content/VR/room.jpg" data-sizes="auto"
-                           data-srcset="../../content/VR/room.jpg 1920w, ../../content/VR/room.jpg 768w, ../../content/VR/room.jpg 700w, ../../content/VR/room.jpg 600w"/>
+                           data-src="../../content/vr/room.jpg" data-sizes="auto"
+                           data-srcset="../../content/vr/room.jpg 1920w, ../../content/vr/room.jpg 768w, ../../content/vr/room.jpg 700w, ../../content/vr/room.jpg 600w"/>
 
                     </div>
                   </div>
@@ -155,19 +155,17 @@
                   helped to understand the end to end process to watch on 360 degree user viewport </p></div>
               </div>
               <div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-
               <div
-                  class="wpb_video_widget wpb_content_element vc_clearfix   vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-center">
-                <div class="wpb_wrapper">
+                        class="wpb_video_widget wpb_content_element vc_clearfix  align-center  vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-center">
+                      <div class="wpb_wrapper">
 
-                  <div class="wpb_video_wrapper">
-                    <div class="flex-video widescreen youtube">
-                      <iframe width="1170" height="658"
-                              src="../../content/ghent/Volvo_Animation.mp4"
-                              frameborder="0" allowfullscreen></iframe>
-                    </div>
-                  </div>
-                </div>
+
+                       <div class="wpb_video_wrapper">
+                          <div class="flex-video widescreen youtube">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/-jeHPDKfJfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                          </div>
+                        </div>
+                      </div>
               </div>
             </div>
           </div>
@@ -192,8 +190,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/VR/3dasset.jpg" data-sizes="auto"
-                         data-srcset="../../content/VR/3dasset.jpg 1920w, ../../content/VR/3dasset.jpg 768w, ../../content/VR/3dasset.jpg 700w, ../../content/VR/3dasset.jpg 600w"/>
+                         data-src="../../content/vr/3dasset.jpg" data-sizes="auto"
+                         data-srcset="../../content/vr/3dasset.jpg 1920w, ../../content/vr/3dasset.jpg 768w, ../../content/vr/3dasset.jpg 700w, ../../content/vr/3dasset.jpg 600w"/>
 
                   </div>
                 </div>
@@ -209,8 +207,8 @@
                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                        class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                        sizes="(max-width: 1920px) 100vw, 1920px"
-                       data-src="../../content/VR/screen.jpg" data-sizes="auto"
-                       data-srcset="../../content/VR/screen.jpg 1920w, ../../content/VR/screen.jpg 768w, ../../content/VR/screen.jpg 700w, ../../content/VR/screen.jpg 600w"/>
+                       data-src="../../content/vr/screen.jpg" data-sizes="auto"
+                       data-srcset="../../content/vr/screen.jpg 1920w, ../../content/vr/screen.jpg 768w, ../../content/vr/screen.jpg 700w, ../../content/vr/screen.jpg 600w"/>
 
                 </div>
               </div>
@@ -233,8 +231,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/VR/VP.jpeg" data-sizes="auto"
-                         data-srcset="../../content/VR/VP.jpeg 1920w, ../../content/VR/VP.jpeg 768w, ../../content/VR/VP.jpeg 700w, ../../content/VR/VP.jpeg 600w"/>
+                         data-src="../../content/vr/vp.jpeg" data-sizes="auto"
+                         data-srcset="../../content/vr/vp.jpeg 1920w, ../../content/vr/vp.jpeg 768w, ../../content/vr/vp.jpeg 700w, ../../content/vr/vp.jpeg 600w"/>
 
                   </div>
                 </div>
@@ -244,8 +242,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/VR/team.jpeg" data-sizes="auto"
-                         data-srcset="../../content/VR/team.jpeg 1920w, ../../content/VR/team.jpeg 768w, ../../content/VR/team.jpeg 700w, ../../content/VR/team.jpeg 600w"/>
+                         data-src="../../content/vr/team.jpeg" data-sizes="auto"
+                         data-srcset="../../content/vr/team.jpeg 1920w, ../../content/vr/team.jpeg 768w, ../../content/vr/team.jpeg 700w, ../../content/vr/team.jpeg 600w"/>
 
                   </div>
                 </div>

@@ -1,18 +1,16 @@
 <?php include '../common/header.php';?>
+
   <div role="main" class="cf">
-    <div class=" post-541 page type-page status-publish hentry">
-      <div data-midnight="dark-title"
-           class="row wpb_row row-fluid align-center full-width-row thb-arrow-enabled vc_custom_1481592378466 row-o-full-height row-o-columns-middle row-flex">
+    <div class="page">
+      <div class="row wpb_row row-fluid align-center full-width-row thb-arrow-enabled row-o-full-height row-o-columns-middle row-flex">
         <div class="wpb_column columns medium-12 large-7 medium-9 thb-dark-column small-12">
-          <div class="vc_column-inner  ">
+          <div class="vc_column-inner">
             <div class="wpb_wrapper">
-              <div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div>
-              <div id="thb-fadetype-73" class="thb-fadetype  thb-fadetype-style1">
+              <div class="thb-fadetype  thb-fadetype-style1">
                 <h1 style="text-align: left;">
                   <div class="thb-fadetype-entry">Design is not just what it looks and feels like. <em> Design is how it works </em> <br> - Steve Jobs </em></div>
                 </h1>
               </div>
-
             </div>
           </div>
         </div>
@@ -20,7 +18,8 @@
           <div></div>
         </div>
       </div>
-      <div data-midnight="dark-title" class="row wpb_row row-fluid align-center full-width-row vc_custom_1481592392710">
+
+      <div class="row wpb_row row-fluid align-center full-width-row vc_custom_1481592392710 about-contact">
         <div class="wpb_column columns medium-12 large-7 medium-9 thb-dark-column small-12">
           <div class="vc_column-inner  ">
             <div class="wpb_wrapper">

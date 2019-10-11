@@ -220,7 +220,7 @@ p {
   height: 50px;
 }
 
-.sub-title {
+.entry-title, .sub-title {
   color: #fff;
 }
 
@@ -228,4 +228,16 @@ p {
     background: #ef173b;
     border-color: #ef173b;
     color: #fff;
+}
+
+.post-vsib {
+    background-image: url(../../content/vsib/cover.jpg) !important;
+}
+
+.about-contact {
+    margin-top: 60px !important;
+    padding-top: 10vh !important;
+    padding-right: 20px !important;
+    padding-bottom: 10vh !important;
+    padding-left: 20px !important;
 }

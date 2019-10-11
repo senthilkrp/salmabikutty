@@ -81,7 +81,7 @@
                           <img width="500" height="500"
                                src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                               data-src="http://ahmadalsultan.com/wp-content/uploads/2016/09/animated-research.gif"
+                               data-src="../content/images/animated-research.gif"
                                data-sizes="auto"/>
                         </div>
                       </div>
@@ -107,7 +107,7 @@
                           <img width="500" height="500"
                                src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                               data-src="http://ahmadalsultan.com/wp-content/uploads/2016/09/animated-ideate.gif"
+                               data-src="../content/images/animated-ideate.gif"
                                data-sizes="auto"/>
                         </div>
                       </div>
@@ -133,7 +133,7 @@
                           <img width="500" height="500"
                                src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                               data-src="http://ahmadalsultan.com/wp-content/uploads/2016/09/animated-design.gif"
+                               data-src="../content/images/animated-design.gif"
                                data-sizes="auto"/>
                         </div>
                       </div>
@@ -159,7 +159,7 @@
                           <img width="500" height="500"
                                src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                               data-src="http://ahmadalsultan.com/wp-content/uploads/2016/09/animated-test.gif"
+                               data-src="../content/images/animated-test.gif"
                                data-sizes="auto"/>
                         </div>
                       </div>
@@ -214,9 +214,8 @@
                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                        class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                        sizes="(max-width: 1437px) 100vw, 1437px"
-                       data-src="http://ahmadalsultan.com/wp-content/uploads/2016/09/1479273616109.png"
-                       data-sizes="auto"
-                       data-srcset="http://ahmadalsultan.com/wp-content/uploads/2016/09/1479273616109.png 1437w, http://ahmadalsultan.com/wp-content/uploads/2016/09/1479273616109-768x183.png 768w, http://ahmadalsultan.com/wp-content/uploads/2016/09/1479273616109-700x167.png 700w, http://ahmadalsultan.com/wp-content/uploads/2016/09/1479273616109-600x143.png 600w"/>
+                       data-src="../content/images/tools.png"
+                       data-sizes="auto"/>
                 </div>
               </div>
               <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
