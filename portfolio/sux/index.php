@@ -13,7 +13,7 @@
         <header class="portfolio-title style1 entry-header">
           <div class="row align-center">
             <div class="small-12 medium-10 large-7 columns">
-              <h1 class="entry-title" itemprop="name headline">SUX workshop</h1>                  <h3 class="sub-title">Desktop Dealer Application Redesign</h4>
+              <h1 class="entry-title" itemprop="name headline"> VAS Manager</h1>                  <h3 class="sub-title"> Service management system </h4>
              <!-- <div class="portfolio-attributes ">
                 <div class="attribute">
                   <strong>Roles: </strong>
@@ -43,28 +43,48 @@
                     <div class="vc_column-inner ">
                       <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
+                            <br>
+                              <br>
+                              <br>
                           <div class="wpb_wrapper">
-                            <h4>Overview</h4>
+                            <h4>SERVICE WORKSHOP</h4>
 
                           </div>
                         </div>
 
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
-                            <h5>INTRO</h5>
-                            <p>SUX workshop is a web application used by the CSR (Customer Service Representative) or Workshop administrator to order parts, create and maintain plans for vehicles repairs.</p>
+                            <h5>BACKGROUND</h5>
+                            <p>VAS Manager is an application where all the service request is registered, it also capability to request vehicle parts, create service plan for customers, maintain and schedule vehicle repairs 
+
+                              </p><br>
                             <!--<h5>CHALLENGES</h5>
                             <p>The site lacks the structure to represent the complexity of the store, and doesn’t
                               support an online shopping experience.</p>-->
-                            <h5>GOALS</h5>
-                            <p>The SUX workshop pre study aim to improve workshop work flow and have a seamless user experience to</p>
-                            <ul>
-                              <li>Improve customer interaction</li>
-                              <li>Better prepared orders and quotation</li>
-                              <li>Increase the number of planned visit</li>
-                              <li>Improve workshop efficiency</li>
-                            </ul>
+                            <h5>PROBLEMS</h5>
+                            <ol>
+                              <li>Obsessive features leading to complex navigation </li>
+                              <li>Data processing taking long time and unable to provide high quality service to customer</li>
+                              <li>Require too much of manual efforts to manage orders, verify details, process information and other administrative work</li>
+                              <li>Wait to receive work order confirmation and signoffs from customers</li>
+                                <li>Disjointed process of service history, warranties and claims</li>
+                                <li>Dependency of instruction and information delay the job</li>
+                            </ol>
+                              <br>
+                            <h5>DESIGN CHALLENGE</h5>
+                            <p>Improve workshop administration and develop customer interaction with scheduled visits and timely work orders </p>
+                            
+                                                            <br>
+                            <h5>MY RESPONSIBILITY</h5>
+                            <p>I worked as a sole UX designer, here my job was to first understand on the business expectation and also to determine the practical scenario of the workshop on the daily basis </p>
+                              <ol>I was responsible to <li>Conduct and deliver research insights </li>
+                                  <li>Develop wireframe and task flows based on user needs</li>
+                                  <li>Design and pilot the solution at Lundby Truck Center </li>
+                                  <li>Gather feedback and insights </li>
+                                  <li>Collaborate with BA and developer to build a useful and effective solution
 
+</li>
+                              </ol>
                           </div>
                         </div>
                       </div>
@@ -78,15 +98,20 @@
 
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
-                            <h5 id="yui_3_17_2_1_1481422080615_490">ROLES</h5>
-                            <p id="yui_3_17_2_1_1481422080615_505">UX / UI Designer</p>
+                            <h5 id="yui_3_17_2_1_1481422080615_490">ROLE</h5>
+                            <p id="yui_3_17_2_1_1481422080615_505">UX Designer</p>
+                            <h5 id="yui_3_17_2_1_1481422080615_490">TEAM</h5> 
+                            <p id="yui_3_17_2_1_1481422080615_505">Project manager, Solution architects, Business analyst, UX Designer and Developers.
+</p>
+
+
                             <h5 id="yui_3_17_2_1_1481422080615_567">PLATFORM</h5>
-                            <p> Desktop application</p>
+                            <p> Web application</p>
                             <h5 id="yui_3_17_2_1_1481422080615_525">DELIVERABLES</h5>
-                            <p>User Research, Impact mapping, User Testing, Concept design, Information architecture, Wireframes,
-                              Interactive Prototype</p>
+                            <p>User Research, User Testing Insights, Concept design, Information architecture, Wireframes,
+                              Interactive Prototype, User Feedback</p>
                             <h5 id="yui_3_17_2_1_1481422080615_541">TOOLS</h5>
-                              <p>Whiteboard, Pen and Paper, Axure RP, Adobe Illustrator, Adobe XD</p>
+                              <p>Whiteboard, Pen and Paper, Sketch, Invision</p>
 
                           </div>
                         </div>
@@ -121,29 +146,27 @@
           <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
-                <div class="vc_empty_space" style="height: 120px"><span class="vc_empty_space_inner"></span></div>
-
                 <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                 <div class="wpb_wrapper">
-                  <h4>Solution and Outcome</h4>
-                  <p>Together with the team, we conducted field research to determine the pain points and user journeys of both obtaining, and providing, workshop services. The generative research was conducted independently on the workshop dealer system to get the most objective data. We distilled the findings into personas, user flows and actionable design insights that ensured clear business value by</p>
+                  <h4>SOLUTION AND OUTCOME</h4>
+                  <p>As a team, we prioritized to investigate the internal system first and then proceed with customer experience once the system is operational and stable. In addition, we utilized an agile development methodology with short and effective sprints</p>
+                    
+                      <p>Our pilot phase test for 3 months reflected metric by</p>
                 </div>
               </div>
               </div>
             </div>
           </div>
         </div>
+          
         <div data-midnight="dark-title"
              class="row wpb_row row-fluid align-center full-width-row vc_custom_1481648881267 row-has-fill">
           <div class="wpb_column columns medium-12 large-9 medium-11 thb-light-column small-12">
             <div class="vc_column-inner  vc_custom_1481648920579">
               <div class="wpb_wrapper">
-                <div class="wpb_text_column wpb_content_element  ">
-                  <div class="wpb_wrapper">
-                    <h4>Results</h4>
-
+                <div class="wpb_text_column wpb_content_element">
                   </div>
-                </div>
+                  
                 <div class="row wpb_row vc_inner row-fluid">
                   <div class="wpb_column columns medium-4 thb-dark-column small-12">
                     <div class="vc_column-inner ">
@@ -218,6 +241,43 @@
             </div>
           </div>
         </div>
+          
+                 <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593493981">
+          <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
+                  <div class="wpb_wrapper">
+                      <h4>UX PROCESS</h4>
+                    
+                  </div>
+                </div>
+                <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+                      <div data-midnight="dark-title" class="row wpb_row row-fluid no-row-padding full-width-row no-column-padding align-center">
+          <div class="wpb_column columns large-10 medium-12 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div id="thb-image-5c7d569a6abcc" class="caption-style1  alignleft full  thb_image_link wp-caption">
+                  <div class="thb-image-inner size_100">
+                    <img width="1920" height="488"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/sux/process.jpg"
+                         data-sizes="auto"
+                         data-srcset="../../content/sux/process.jpg 1920w, ../../content/sux/process.jpg 768w, ../../content/sux/process.jpg 700w, ../../content/sux/process.jpg 600w"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+          <br>
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593493981">
           <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
             <div class="vc_column-inner  ">
@@ -225,11 +285,10 @@
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
                 <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                   <div class="wpb_wrapper">
-                    <h4>Field Research</h4>
-                    <p>We kicked off with an in-depth stakeholder interview and field study to understand the business and user goals on the SUX workshop project. The interviews with the consulting and observing operations allowed to understand culture, process and to identify the pain points they encounter on a daily basis</p>
+                    <h4>FIELD RESEARCH</h4>
+                    <p>We kicked off with an in-depth stakeholder interview and field study to understand the business and user goals on the workshop project. The interviews were based on consulting and observing their operations, understand culture, process and also to identify the pain points they encounter on a daily basis</p>
                   </div>
                 </div>
-                <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
               </div>
             </div>
           </div>
@@ -254,6 +313,27 @@
             </div>
           </div>
         </div>
+          <br><br>
+          <div data-midnight="dark-title" class="row wpb_row row-fluid no-row-padding full-width-row no-column-padding align-center">
+          <div class="wpb_column columns large-10 medium-12 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div id="thb-image-5c7d569a6abcc" class="caption-style1  alignleft full  thb_image_link wp-caption">
+                  <div class="thb-image-inner size_100">
+                    <img width="1920" height="488"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/sux/exisiting_system1.jpg"
+                         data-sizes="auto"
+                         data-srcset="../../content/sux/exisiting_system1.jpg 1920w, ../../content/sux/exisiting_system1.jpg 768w, ../../content/sux/exisiting_system1.jpg 700w, ../../content/sux/exisiting_system1.jpg 600w"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+          
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593503012">
           <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
             <div class="vc_column-inner  ">
@@ -268,7 +348,7 @@
 
                   </div>
                 </div>-->
-                <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+               
                 <!--<div id="thb-image-5c7d569a6b42c"
                      class="caption-style1 animation bottom-to-top center full  thb_image_link wp-caption">
                   <div class="thb-image-inner size_100">
@@ -284,7 +364,7 @@
 
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>Business Process Investigation</h4>
+                    <h4>MAPPING BUSINESS INTERACTION</h4>
                     <p>To improve the operation process in the workshop, it is important to investigate the administrations process, interaction of multiple system and the ways of working within the workshop. This helped in understanding the dependency of information and to explore opportunities on improving work efficiency.</p>
 
                   </div>
@@ -309,18 +389,7 @@
                 </div>
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
 
-                <div class="wpb_text_column wpb_content_element  ">
-                  <div class="wpb_wrapper">
-                    <h4>Important Insights</h4>
-                    <p>Our Key users in the administration office requires multiple desktops to view information that are stored in several legacy application, </p>
-                    <p><b>Some important painpoints were:</b></p>
-                    <ul>
-                      <li>Detail information for a parts or objects can be found in one system, but in another system that information cannot be found for the same object. This means that workshop staff is copying information between systems switching between systems, sometimes writing paper notes and sometime guessing, in order to speed up work</li>
-                      <li>Parts order have different names in different systems, It takes very long time to find information needed, not only because it is scattered in different systems, named differently, but also because of unclear information structure in each system</li>
-                      <li>Systems give poor or no support for handling constant changes that is part of the normal workflow</li>
-                    </ul>
-                  </div>
-                </div>
+                
                 <div id="thb-image-5c7d569a6b42e"
                      class="caption-style1 animation bottom-to-top center full  thb_image_link wp-caption">
                   <div class="thb-image-inner size_100">
@@ -347,8 +416,7 @@
                       <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element  ">
                           <div class="wpb_wrapper">
-                            <h4>Persona</h4>
-                            <p>The user journey and the operational service for truck customer revealed that how customers perceive that Volvo perform on the expectation when it comes to service and repair of the purchased truck. The low touch points in the journey, thus became the an area of interest and an opportunity.</p>
+                            <h4>PERSONA</h4>
 
                           </div>
                         </div>
@@ -388,7 +456,7 @@
                       <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element  ">
                           <div class="wpb_wrapper">
-                            <h4>User Journey Map</h4>
+                            <h4>USER JOURNEY</h4>
                             <p>The user journey and the operational service for truck customer revealed that how customers perceive that Volvo perform on the expectation when it comes to service and repair of the purchased truck. The low touch points in the journey, thus became the an area of interest and an opportunity.</p>
 
                           </div>
@@ -407,8 +475,8 @@
                                  data-srcset="../../content/sux/customer_journey.jpg 2129w, ../../content/sux/customer_journey.jpg 768w, ../../content/sux/customer_journey.jpg 700w, ../../content/sux/customer_journey.jpg 600w"/>
                           </div>
                         </div>
-                        <div class="vc_empty_space" style="height: 160px"><span class="vc_empty_space_inner"></span>
-                        </div>
+                          <div class="wpb_text_column wpb_content_element  "></div> <br> <br>
+                          
                       </div>
                     </div>
                   </div>
@@ -417,6 +485,43 @@
             </div>
           </div>
         </div>
+          
+          <br><br>
+          
+          <div data-midnight="dark-title"
+             class="row wpb_row row-fluid align-center full-width-row vc_custom_1481593522920">
+          <div class="wpb_column columns medium-12 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid max_width align-center">
+                  <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
+                    <div class="vc_column-inner ">
+                      <div class="wpb_wrapper">
+                        <div class="wpb_wrapper">
+                    <h4>IMPORTANT INSIGHTS</h4>
+                    <ol><li>Ambiguity in prioritizing the service orders </li>
+                            <li>Legacy system limitations beside the repeated complaints from users </li>
+                            <li>Poor communication among the internal staff</li>
+                            <li>Lack of floor resource</li><li>Administrator require multiple open screen to consolidate information </li>
+                            </ol>
+                    <ul>
+                      <li>Detail information for a parts or objects can be found in one system, but in another system that information cannot be found for the same object. This means that workshop staff is copying information between systems switching between systems, sometimes writing paper notes and sometime guessing, in order to speed up work</li>
+                      <li>Parts order have different names in different systems, It takes very long time to find information needed, not only because it is scattered in different systems, named differently, but also because of unclear information structure in each system</li>
+                      <li>Systems give poor or no support for handling constant changes that is part of the normal workflow</li>
+                    </ul>
+                  </div>
+                        
+                          <div class="wpb_text_column wpb_content_element  "></div> 
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+          
+                        
       <!--  <div data-midnight="dark-title"
              class="row wpb_row row-fluid align-center full-width-row vc_custom_1481529655316 row-has-fill">
           <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
@@ -538,20 +643,17 @@
 
                 <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                   <div class="wpb_wrapper">
-                    <h4>CONCEPTUAL SYSTEM</h4>
+                    <h4>CONCEPT DESIGN</h4>
 
                       <div class="thb-image-inner size_100">
                     <img width="2032" height="100"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 2032px) 100vw, 2032px"
-                           data-src="../../content/sux/ideation.png" data-sizes="auto"
-                         data-srcset="../../content/sux/ideation.png 2032w, ../../content/sux/ideation.png 768w, ../../content/sux/ideation.png 700w, ../../content/sux/ideation.png 600w"/>
+                           data-src="../../content/sux/ideation.jpg" data-sizes="auto"
+                         data-srcset="../../content/sux/ideation.jpg 2032w, ../../content/sux/ideation.jpg 768w, ../../content/sux/ideation.jpg 700w, ../../content/sux/ideation.jpg 600w"/>
                   </div>
-
-
-                      <br> <br></a>
-                    <p>The conceptual design prioritised the business and the user goals. This hypothesis had eliminated several system integration which are not providing greater value and costing high infrastructure maintenance. On testing this concept further led to exclude the staff to move around with hard copies, creating positive impact on operational efficiency.</p>
+                    <p>The concept design focused on the combination of business process and the user goals. This concept had included several system integration and decomissioned costing high infrastructure that were maintaining legacy application.</p>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
@@ -685,8 +787,9 @@
               <div class="wpb_wrapper">
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>High Fidelity Mockup Screens</h4>
+                    <h4>Wireframes</h4>
                     <p>After the several rounds of user testing on the lo-fi wireframes I created the final visual
+                      design of the website.</p>
                       design of the website.</p>
 
                   </div>
@@ -753,25 +856,16 @@
                       <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element  ">
                           <div class="wpb_wrapper">
-                            <h4>Deliveries</h4>
+                            <h4>DELIVERIES</h4>
                             The pre-study gives good ground for a development project by
                             <ol>
                               <li>A well defined and described definition of user needs. Defined as insights, personas and user journeys with pain points and interaction diagram.</li>
                               <li>A clear description of how the real life process deviates from the ideal process</li>
-                              <li>An <a href="https://hiq.invisionapp.com/share/ASDK37M2D">interactive prototype</a> (mockup), used to test with users</li>
-                              <li>Validation on that the conceptual design is understood and liked by users and shows great potential to create desired value for business</li>
+                              <li>Validation on that the conceptual design is agreed and liked by users and shares great value for business</li>
                             </ol>
 
 
-                            <h4>Learnings</h4>
-                            <ol>
-                              <li>Starting the project with reading up on existing material about the users situation is very efficient, since it makes it possible to define some hypothesis that can inform  the end-user study.</li>
-                              <li>Defining close collaboration with some organisational units (in this case dealers)  makes the process for defining requirement very effective, mainly because it gives a direct access to users and user context.</li>
-                              <li>Finding a heterogenous group of uses is very important in order to secure that different needs in different contexts are covered, thus increasing the quality of  the solution.</li>
-                              <li>A clear vision on how the new solution could improve the business.</li>
-                              <li>Visualising findings as customer journeys focuses discussions on the cohesive work process and customer experience, and avoids narrow data or task focus.</li>
-                              <li>Interactive prototypes are very efficient to communicate conceptual design. They also serves extremely well for learning in a very early stage about possible and necessary improvements.</li>
-                            </ol>
+                        
                         <!--    <h5></h5>
                             <h5>Error Recovery</h5>
                             <p>Error messages have been designed to clearly communicate what went wrong and how to
@@ -889,7 +983,7 @@
                         <div class="wpb_text_column wpb_content_element  ">
                           <div class="wpb_wrapper">
                             <h4>Prototype</h4>
-                            <p>A working digital prototype of SUX workshop redesigns built in
+                            <p>A working digital prototype of VAS Manager redesigns built in
                               Invision.</p>
 
                           </div>

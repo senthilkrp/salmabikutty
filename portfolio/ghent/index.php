@@ -34,6 +34,8 @@
         </div>
       </figure>
       <div class="post-content">
+          <br>
+          <br>
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
           <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
             <div class="vc_column-inner  ">
@@ -44,14 +46,15 @@
                       <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
-                            <h4>Overview</h4>
+                            <h4>PAPER INSTRUCTION</h4>
 
                           </div>
                         </div>
+                          <br>
 
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
-                            <h5>INTRO</h5>
+                            <h5>INTRODUCTION</h5>
                             <p>In the Ghent factory approximately 105 trucks are completed each day. At the final Assembly line, the truck frame is prepared and it has to pass each station to mount the major components like chassis, axle, engine, gearbox, cab etc.. for fixed duration of time. During these event, the operator has to follow the assembly instruction based on the truck type order. Assembly instruction varies for every production.</p>
                             <p>Printing paper instructions, and distributing them to right station was identified yo be inefficient and expensive process. Each year solely the printing cost adds up to 6 million</p>
                           </div>
@@ -107,7 +110,7 @@
 
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>Understanding User Context</h4>
+                    <h4>UNDERSTANDING</h4>
                   </div>
                 </div>
 
@@ -194,8 +197,8 @@
               <div class="wpb_wrapper">
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>Field Study</h4>
-                    <p>The Observation and onsite interviews included 6 Operators; 4 Team Leaders; 3 Production Engineer</p>
+                    <h4>FOCUS GROUP DISCUSSION</h4>
+                    <p>The discussion involved 6 Operators; 4 Team Leaders; 3 Production Engineer</p>
                   </div>
                 </div>
 
@@ -207,7 +210,7 @@
                 <ol>
                   <li>The instruction had many unnecessary data</li>
                   <li>The content was badly organised, scattered and hard to read</li>
-                  <li>Clarification of instruction delays the production time</li>
+                  <li>Clarification of instruction delays the production time for hours</li>
                 </ol>
                 <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
                 <div
@@ -219,7 +222,7 @@
 
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>Impact Map</h4>
+                    <h4>IMPACT MAP</h4>
                     <p>The intent on distribution of loaded paper information were not aligned to the defined objectives and the solution provided. This circumstance led  to facilitate a meeting with the management team and other key stakeholders to explore openly and map out the issues which resulted in fair understanding of the business operation and the user behaviours.</p>
                     <p>Impacts maps were used as an excellent communicators that had assumptions and detailed by user behaviours which were further grouped and prioritised. This giving the very best starting point for designing good solutions.</p>
                   </div>
@@ -240,9 +243,9 @@
 
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>Design Approach</h4>
-                    <p>The unique needs of each kind of user, business objective and more importantly the limited time (1 week) challenge pilot to apply Rapid Iterative Testing and Evaluation typically referred to as "RITE" testing method, This iterative usability method were performed together with stakeholders and the user group, worked on the content target and constructed the instruction template.</p>
-                    <p>The participants were engaged in verbal protocol and advocated the changes and the solution was getting clearer.</p>
+                    <h4>METHOD</h4>
+                    <p>The unique needs of each kind of user, business objective and more importantly the limited time (1 week) challenge pilot to apply Rapid Iterative Testing and Evaluation, This iterative usability method were performed together with business unit and the user group, worked on the content target and designed the instruction template.</p>
+                    <p>The participants were engaged in verbal protocol and advocated the changes and the solution were receiving more clarity on whats really needs.</p>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div>
@@ -251,8 +254,7 @@
                   <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
                     class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
                 </div>
-                <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
-
+               
                 <div class="wpb_column columns medium-3 thb-dark-column small-12">
                   <div class="vc_column-inner ">
                     <div class="wpb_wrapper">
@@ -270,7 +272,7 @@
                 </div>
                 <div class="wpb_text_column wpb_content_element  medium-12">
                   <div class="wpb_wrapper">
-                    <h4>Outcome</h4>
+                    <h4>OUTCOME</h4>
                       <ul>
                     <li>While validating the process the major goals for efficiently met during user test: Now operator was able to scan the information quickly and perform operations efficiently.</li>
                     <li>Our solution with paper printing cost saved by 15 lakh SEK per annum.</li></ul>
@@ -291,7 +293,7 @@
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>User Feedback</h4>                    
+                    <h4>USER FEEDBACK</h4>                    
                   </div>
                 </div>
                   <div class="wpb_video_widget wpb_content_element vc_clearfix  align-center  vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-center">
@@ -309,6 +311,7 @@
 
                 <div class="wpb_text_column wpb_content_element">
                   <div class="wpb_wrapper">
+                      <h4>PILOT CONCEPT</h4>
                     <p>Digitizing instructions reduce to the zero paper waste and increase the scope to control and handle the information efficiently.</p>
                   </div>
                 </div>
@@ -319,8 +322,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1157px) 100vw, 1157px"
-                         data-src="../../content/ghent/instruction.jpg" data-sizes="auto"
-                         data-srcset="../../content/ghent/instruction.jpg 1157w, ../../content/ghent/instruction.jpg 768w, ../../content/ghent/instruction.jpg 700w, ../../content/ghent/instruction.jpg 600w"/>
+                         data-src="../../content/ghent/newproposal.png" data-sizes="auto"
+                         data-srcset="../../content/ghent/newproposal.png 1157w, ../../content/ghent/newproposal.png 768w, ../../content/ghent/newproposal.png 700w, ../../content/ghent/newproposal.png 600w"/>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div>
@@ -363,7 +366,7 @@
             <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" width="309.1" height="162.4" viewBox="151.5 346.3 309.1 162.4" enable-background="new 151.47 346.319 309.06 162.356" xml:space="preserve"><path d="M151.5 427.5c0 4.5 2 8.8 5.5 11.7l78.5 65.9c2.9 2.4 6.4 3.6 9.8 3.6 4.4 0 8.7-1.9 11.7-5.5 5.4-6.5 4.6-16.1-1.9-21.5l-45.9-38.5H445.2c8.5 0 15.3-6.8 15.3-15.3 0-8.5-6.8-15.3-15.3-15.3H208.3l46.8-39.2c6.5-5.4 7.3-15.1 1.9-21.5 -5.4-6.5-15.1-7.3-21.5-1.9l-78.5 65.9C153.5 418.7 151.5 423 151.5 427.5z"/></svg>
             <strong>
               Previous Project (p) </strong>
-            <span>SUX Workshop</span>
+            <span>VAS Manager</span>
           </a>
         </div>
         <div class="small-2 columns center_link">
