@@ -13,7 +13,7 @@
         <header class="portfolio-title style1 entry-header">
           <div class="row align-center">
             <div class="small-12 medium-10 large-7 columns">
-              <h1 class="entry-title" itemprop="name headline">I BUY design project </h1>  <h3 class="sub-title"> Customer Management System</h3>       <!--    <h4>Volvo Truck dealership is located across 350+ location in global market and they use I-BUY relationship management (CRM) to interact with current and potential customers and also to communicate with cross functional team to enhance the driving sales growth..</h4>
+              <h1 class="entry-title" itemprop="name headline">IBUY project </h1>  <h3 class="sub-title"> Customer Sales Management System</h3>       <!--    <h4>Volvo Truck dealership is located across 350+ location in global market and they use I-BUY relationship management (CRM) to interact with current and potential customers and also to communicate with cross functional team to enhance the driving sales growth..</h4>
               <div class="portfolio-attributes ">
                 <div class="attribute">
                   <strong>Roles: </strong>
@@ -69,7 +69,7 @@
 </p>
                              <!-- <img src="../../content/ibuy/issue.jpg">
                             <figcaption> IBUY system Before </figcaption>-->
-
+<br>
 
                             <h5>BUSINESS CONCERNS</h5>
                             <ol>
@@ -78,8 +78,17 @@
                               </li>
                               <li>System throws out frequent error messages while performing routine task and repeated system updates led to downtime issues
                                 </li> </p>
-                            </ol>
-                            <div class="vc_empty_space" style="height: 65px"></div>
+                            </ol> <br>
+                            <h5>DESIGN CHALLENGE</h5>
+                            <p> A solution for dealers to connect effectively with customers in order to improve the sales business <br>
+                            <h5>MY RESPONSIBILITIES</h5> As a UX Designer, was to reveal how current users use the product, what their problems and needs are and make sure they are addressed in the new design. I was responsible for:
+                                <ol>
+                            <li>Organizing the kick-off workshop, create a research framework for our internal collaboration and research process</li>
+                            <li>Align UX research and UX design tasks</li>
+                            <li>Manage and deliver the whole UX research to design process: from writing a research plan to user recruitment, designing, testing and delivering insights to the engineering team and stakeholders</li>
+                            <li>Weekly review and status update meeting with Business stakeholders and Project members</li></ol>
+ </p>
+                        <!--    <div class="vc_empty_space" style="height: 65px"></div>-->
                           </div>
                         </div>
                       </div>
@@ -93,7 +102,7 @@
 
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
-                            <h5 id="yui_3_17_2_1_1481422080615_490">ROLES</h5>
+                            <h5 id="yui_3_17_2_1_1481422080615_490">MY ROLE</h5>
                             <p id="yui_3_17_2_1_1481422080615_505">UX Designer</p>
                                <h5 id="yui_3_17_2_1_1481422080615_541">TEAM</h5>
                             <p>Project manager, Solution architects, Business analyst, UX Designer, Visual Designers and Developers.  </p>
@@ -112,7 +121,7 @@
                     </div>
                   </div>
                 </div>
-               <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+            <!--   <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>-->
               </div>
             </div>
           </div>
@@ -199,21 +208,14 @@
                 <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
 
                 <div class="wpb_text_column wpb_content_element  ">
-                  <div class="wpb_wrapper">
-                    <h4>DESIGN CHALLENGE</h4>
-                      <p>Design a solution for dealers to connect effectively with customers in order to improve the sales business.</p>
-                    </div>
-                    <br>
-                    <br>
-
-
+        
                     <div class="wpb_wrapper">
                         <h4>RESEARCH</h4>
                     <ol>
                       <li>We begin our investigation understanding existing business process through contextual enquiry gathering insights from system analytics that provides the usage pattern as a whole</li>
-                      <li>We invited users from prime dealer location based on the sales data and conducted remote interviews and shared surveys to understand the daily routine, pain points, and their needs.
+                      <li>We invited users from prime dealer location across 4 geo location on the basis of their sales data and conducted remote interviews with 14+ participants and shared surveys to understand the daily routine, pain points, and their needs.
                       </li>
-                      <li>We also had an opportunity to meet customers stakeholder who were the business drivers and also the real customers to get their experience.
+                      <li>We also had an opportunity to meet 4 customers stakeholder who were the business drivers and also the 2 real customers to get their experience.
                       </li>
                     </ol>
 
@@ -226,8 +228,23 @@
                       <p>We conducted a workshop with business stakeholder, customer stakeholders, sales representative, product owners and our engineering team to discuss and share our findings in order to generate a common vision of the product</p>
                   </div>
                 </div>
+                
+                
+
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
                 <div id="thb-image-5c7d567e732ca" class="caption-style1  center   thb_image_link wp-caption">
+                  <div class="thb-image-inner size_100">
+                    <img width="2277" height="1561"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 2277px) 100vw, 2277px" data-src="../../content/ibuy/whiteboard.jpg"
+                         data-sizes="auto"
+                         data-srcset="../../content/ibuy/whiteboard.jpg 2277w, ../../content/ibuy/whiteboard.jpg 768w, ../../content/ibuy/whiteboard.jpg 700w, ../../content/ibuy/whiteboard.jpg 600w"/>
+                  </div>
+                </div>
+
+                <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+                  <div id="thb-image-5c7d567e732ca" class="caption-style1  center   thb_image_link wp-caption">
                   <div class="thb-image-inner size_100">
                     <img width="2277" height="1561"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -237,20 +254,7 @@
                          data-srcset="../../content/ibuy/user_journey.jpeg 2277w, ../../content/ibuy/user_journey.jpeg 768w, ../../content/ibuy/user_journey.jpeg 700w, ../../content/ibuy/user_journey.jpeg 600w"/>
                   </div>
                   </div>
-
-                <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
-                <div id="thb-image-5c7d567e732ca" class="caption-style1  center   thb_image_link wp-caption">
-                  <div class="thb-image-inner size_100">
-                    <img width="2277" height="1561"
-                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                         sizes="(max-width: 2277px) 100vw, 2277px" data-src="../../content/ibuy/whiteboard.png"
-                         data-sizes="auto"
-                         data-srcset="../../content/ibuy/whiteboard.png 2277w, ../../content/ibuy/whiteboard.png 768w, ../../content/ibuy/whiteboard.png 700w, ../../content/ibuy/whiteboard.png 600w"/>
-                  </div>
-                </div>
-
-                <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+                  <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
                 <div
                     class=" vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey">
                   <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
@@ -280,9 +284,22 @@
 
                   <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>USER AND CUSTOMER STORY</h4>
-                      <font color="red">story board here !!</font>
+                    <h4>USER STORY</h4>
+                     <p>Customer- An ABC company representative, whose goal is to get a preliminary quotation for his business arrives at dealership zone. Mathew, our Volvo Sales representative attends the customer and asks customer How can he help him? </p>
+                      <p>Customer says, he has come to identify a good truck for his business and he also mentions about their previous purchases</p>
+                      <p>Mathews request his customer to wait for some time till he gathers the customer’s records from his system in order to provide a value choice to his customer </p>
+                      <p>Mathew rushes to IBuy system to collect the records, he finds it annoying because the customer information is recorded multiple times and is very unsure which is the latest record </p>
+                      <p>On further action, Mathew receives multiple error messages and system updates request which is making Mathew feel more frustrated. </p>
+                      <p>On the other end, Customer is upset because Mathew is taking longer time than expected </p>
+                      <p>Let’s say, Mathew gets the customer’s business details, 
+He reviews the previous purchases and other opted services
+</p><p>Now, he gets backs to his customer, and discuss the customer needs, and suggest him the truck suitable to the customers business. </p><p>Now customer is unsure of how Mathew is making his recommendations and now customer probes further and enquires more details about the truck. </p> <p>Mathew now share the truck features and capabilities, </p><p>Customer shortlists 2 trucks based on the features and asks Mathew to provide a quotation and demands a hard copy </p><p>Mathew go back to a different system to prepare quotation and now the new system requires customer’s updated details to process the quotation </p>
                   </div>
+                </div>
+                   <div
+                    class=" vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey">
+                  <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
+                    class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
                 </div>
 
                 <div class="wpb_text_column wpb_content_element  ">
@@ -321,7 +338,7 @@
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
                     <h4>CONCEPT MODEL</h4>
-                    <p>The uber level concept aim to be simple and  provide effective solution to users in order to interact with their customers.
+                    <p>This uber level concept aim to be simple and  provide effective solution to users in order to interact with their customers.
                       The customer requirement section records their inputs and offers product suggestions so customers can make an informed decision.
                       This concept also allows the Volvo cross function team like marketting and customer service  to understand the current market and create opportunities to plan the strategies to enhance our business value.</p>
                   </div>
