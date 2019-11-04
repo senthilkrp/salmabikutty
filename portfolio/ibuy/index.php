@@ -13,7 +13,7 @@
         <header class="portfolio-title style1 entry-header">
           <div class="row align-center">
             <div class="small-12 medium-10 large-7 columns">
-              <h1 class="entry-title" itemprop="name headline">I BUY Strategy design</h1>  <h3 class="sub-title"> CSR Management System</h3>       <!--    <h4>Volvo Truck dealership is located across 350+ location in global market and they use I-BUY relationship management (CRM) to interact with current and potential customers and also to communicate with cross functional team to enhance the driving sales growth..</h4>
+              <h1 class="entry-title" itemprop="name headline">I BUY design project </h1>  <h3 class="sub-title"> Customer Management System</h3>       <!--    <h4>Volvo Truck dealership is located across 350+ location in global market and they use I-BUY relationship management (CRM) to interact with current and potential customers and also to communicate with cross functional team to enhance the driving sales growth..</h4>
               <div class="portfolio-attributes ">
                 <div class="attribute">
                   <strong>Roles: </strong>
@@ -49,30 +49,36 @@
                       <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
-                            <h4>Overview</h4>
+                              
+                        <br>
+                              <br>
+                              <br>
+                              
+                            <h4>IBUY - Need Analysis Usecase </h4>
 
                           </div>
                         </div>
 
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
-                            <h5>INTRO</h5>
-                            <p>Volvo Truck dealership is located across 350+ location in global market and they use
-                              I-BUY relationship management (CRM) to interact with current and potential customers and
-                              also to communicate with cross functional team to enhance the driving sales growth.</p>
-                            <h5>CHALLENGES</h5>
-                            <ul>
-                              <li>The I BUY system focused on the product offering and was not driven by customer
-                                requirements.
+                            <h5>BACKGROUND</h5>
+                            <p>Volvo Truck dealers are located at 350+ location across the global market and they use IBUY tool for the following capabilities. <ol>
+<li>IBuy has a collection of existing and prospective customer information. </li>
+<li>Ability to track customer’s inquiry, product purchase, services, opted offers and feedback information</li>
+<li>Personalize and Target marketing activities to build relationships and have a chance of creating sale </li></ol>
+</p>
+                             <!-- <img src="../../content/ibuy/issue.jpg">
+                            <figcaption> IBUY system Before </figcaption>-->
+                             
+                              
+                            <h5>BUSINESS CONCERNS</h5>
+                            <ol>
+                             <p> <li>Out of date information and time-consuming approvals to update any changes </li>
+                              <li>Customer recorded were maintained in multiple systems and identifying the right information were challenging and dull
                               </li>
-                              <li>Records were maintained in multiple legacy system and access to information required
-                                more time than expected.
-                              </li>
-                              <li>Accessible only through IE browser, frequent error messages while performing routine
-                                functions and repeated system upgrades led to downtime issues.
-                              </li>
-                            </ul>
-                            <img src="../../content/ibuy/issue.jpg">
+                              <li>System throws out frequent error messages while performing routine task and repeated system updates led to downtime issues 
+                                </li> </p>
+                            </ol>
                             <div class="vc_empty_space" style="height: 65px"></div>
                           </div>
                         </div>
@@ -84,17 +90,21 @@
                       <div class="wpb_wrapper">
                         <div class="vc_empty_space" style="height: 65px"><span class="vc_empty_space_inner"></span>
                         </div>
-
+                          
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
                             <h5 id="yui_3_17_2_1_1481422080615_490">ROLES</h5>
                             <p id="yui_3_17_2_1_1481422080615_505">UX Designer</p>
+                               <h5 id="yui_3_17_2_1_1481422080615_541">TEAM</h5>
+                            <p>Project manager, Solution architects, Business analyst, UX Designer, Visual Designers and Developers.  </p>
                             <h5 id="yui_3_17_2_1_1481422080615_567">PLATFORM</h5>
                             <p>Desktop/ Web/ Tablet</p>
                             <h5 id="yui_3_17_2_1_1481422080615_525">DELIVERABLES</h5>
-                            <p>User Research, UX Business Impact, User Testing, Concept design, Wireframes, Prototype.</p>
+                            <p>User Research, UX Business Impact, User Testing, Concept design, Wireframes, Quick Mockups</p>
                             <h5 id="yui_3_17_2_1_1481422080615_541">TOOLS</h5>
-                            <p>Whiteboard, Pen and Paper, Adobe Illustrator, InVision, </p>
+                            <p>Whiteboard, Pen and Paper, Axure RP </p>
+                             
+
 
                           </div>
                         </div>
@@ -102,12 +112,12 @@
                     </div>
                   </div>
                 </div>
-                <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+               <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
               </div>
             </div>
           </div>
         </div>
-        <div data-midnight="dark-title"
+        <!--<div data-midnight="dark-title"
              class="row wpb_row row-fluid no-row-padding full-width-row no-column-padding vc_custom_1481424435332 row-has-fill">
           <div class="wpb_column columns medium-12 thb-dark-column small-12">
             <div class="vc_column-inner  ">
@@ -116,7 +126,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595690064">
           <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
             <div class="vc_column-inner  ">
@@ -125,15 +135,16 @@
 
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>BUSINESS DRIVEN DESIGN</h4>
+                    <h4>UX PROCESS </h4>
 
                   </div>
                 </div>
 
                 <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                   <div class="wpb_wrapper">
-                    <p>It was important to understand how the system works before meeting the end user to have a fair
-                      understanding of the system operation.</p>
+                  <!--  <p>It was important to understand how the system works before meeting the end user to have a fair
+                      understanding of the system operation.
+                      Firstly, the entire business were focused on the high level context on the type of business and also with the target dealer KPI. The models were usually introduced based on the recent inventory and knowledge of the sales person. Later, the customer were given some pre set questionaire and in relevance of the inventory and KPI, the sales person would suggest a truck </p>-->
 
                   </div>
                 </div>
@@ -143,9 +154,9 @@
                     <img width="1440" height="900"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                         sizes="(max-width: 1440px) 100vw, 1440px" data-src="../../content/ibuy/before_end_user.jpeg"
+                         sizes="(max-width: 1440px) 100vw, 1440px" data-src="../../content/ibuy/ibprocess.jpg"
                          data-sizes="auto"
-                         data-srcset="../../content/ibuy/before_end_user.jpeg 1440w, ../../content/ibuy/before_end_user.jpeg 768w, ../../content/ibuy/before_end_user.jpeg 700w, ../../content/ibuy/before_end_user.jpeg 600w"/>
+                         data-srcset="../../content/ibuy/ibprocess.jpg 1440w, ../../content/ibuy/ibprocess.jpg 768w, ../../content/ibuy/ibprocess.jpg 700w, ../../content/ibuy/ibprocess.jpg 600w"/>
                   </div>
                 </div>
                <!-- <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
@@ -189,22 +200,44 @@
 
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>CONTEXTUAL RESEARCH</h4>
-                    <ul>
-                      <li>Workshop participants were the key users from prime dealer location of EUROPE and ASIA.</li>
-                      <li>The workshop with key users helped to understand the daily routine, understand the pain
-                        points, opportunities and their cross function collaboration need.
+                    <h4>PRODUCT GOAL</h4>
+                      <p>IBuy focuses to help the dealers effectively to connect better with customers in order to improve the sales business.</p>
+                    </div>
+                    <br>
+                    <br>
+                    
+                    
+                    <div class="wpb_wrapper">
+                        <h4>RESEARCH</h4>
+                    <ol>
+                      <li>We begin our investigation understanding existing business process through contextual enquiry gathering insights from system analytics that provides the usage pattern as a whole</li>
+                      <li>We invited users from prime dealer location based on the sales data and conducted remote interviews and shared surveys to understand the daily routine, pain points, and their needs. 
                       </li>
-                      <li>The workshop provided an ease to break down complex problems leading to set clear objective
-                        and metrics to build an efficient system.
+                      <li>We also had an opportunity to meet customers stakeholder who were the business drivers and also the real customers to get their experience.
                       </li>
-                      <li>This approach helped to balance the understanding among the business stakeholders and users,
-                        eliminating the guess work and development iteration.
-                      </li>
-                    </ul>
+                    </ol>
 
                   </div>
                 </div>
+                  <br>
+                  <div class="wpb_text_column wpb_content_element  ">
+                  <div class="wpb_wrapper">
+                    <h4>WORKSHOP</h4>
+                      <p>We conducted a workshop with business stakeholder, customer stakeholders, sales representative, product owners and our engineering team to discuss and share our findings in order to generate a common vision of the product</p>
+                  </div>
+                </div>
+                <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                <div id="thb-image-5c7d567e732ca" class="caption-style1  center   thb_image_link wp-caption">
+                  <div class="thb-image-inner size_100">
+                    <img width="2277" height="1561"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 2277px) 100vw, 2277px" data-src="../../content/ibuy/user_journey.jpeg"
+                         data-sizes="auto"
+                         data-srcset="../../content/ibuy/user_journey.jpeg 2277w, ../../content/ibuy/user_journey.jpeg 768w, ../../content/ibuy/user_journey.jpeg 700w, ../../content/ibuy/user_journey.jpeg 600w"/>
+                  </div>
+                  </div>
+                  
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
                 <div id="thb-image-5c7d567e732ca" class="caption-style1  center   thb_image_link wp-caption">
                   <div class="thb-image-inner size_100">
@@ -225,7 +258,7 @@
                 </div>
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>PAIN POINTS TO ADDRESS</h4>
+                    <h4>KEY CUSTOMER INSIGHTS AND PAIN POINTS</h4>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
@@ -244,10 +277,17 @@
                   <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
                     class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
                 </div>
+                  
+                  <div class="wpb_text_column wpb_content_element  ">
+                  <div class="wpb_wrapper">
+                    <h4>USER AND CUSTOMER STORY</h4>
+                      <font color="red">story board here !!</font> 
+                  </div>
+                </div>
 
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>ACTION TO ADDRESS PAIN POINTS</h4>
+                    <h4>USER NEEDS</h4>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
@@ -268,22 +308,7 @@
                 </div>
 
 
-                <div class="wpb_text_column wpb_content_element  ">
-                  <div class="wpb_wrapper">
-                    <h4>STAKEHOLDER & USER JOURNEY MAPPING</h4>
-                  </div>
-                </div>
-                <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
-                <div id="thb-image-5c7d567e732ca" class="caption-style1  center   thb_image_link wp-caption">
-                  <div class="thb-image-inner size_100">
-                    <img width="2277" height="1561"
-                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                         sizes="(max-width: 2277px) 100vw, 2277px" data-src="../../content/ibuy/user_journey.jpeg"
-                         data-sizes="auto"
-                         data-srcset="../../content/ibuy/user_journey.jpeg 2277w, ../../content/ibuy/user_journey.jpeg 768w, ../../content/ibuy/user_journey.jpeg 700w, ../../content/ibuy/user_journey.jpeg 600w"/>
-                  </div>
-                </div>
+                
 
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
 
@@ -296,12 +321,9 @@
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
                     <h4>CONCEPT MODEL</h4>
-                    <p>The concept navigation aim to be simple and effective solution providing value to business and
-                      user needs.
-                      The design gathers customer’s requirement intuitively through seamless experience on website and
-                      offers product suggestions to enable the customers to make an informed decision.
-                      This concept also allows the Volvo cross function team to understand the current market
-                      opportunities and plan the strategies to enhance the business value.</p>
+                    <p>The uber level concept aim to be simple and  provide effective solution to users in order to interact with their customers.
+                      The customer requirement section records their inputs and offers product suggestions so customers can make an informed decision.
+                      This concept also allows the Volvo cross function team like marketting and customer service  to understand the current market and create opportunities to plan the strategies to enhance our business value.</p>
                   </div>
                 </div>
 
@@ -323,7 +345,51 @@
                     class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
                 </div>
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                  
+                    <div class="wpb_text_column wpb_content_element  ">
+                  <div class="wpb_wrapper">
+                    <h4>TASK FLOW</h4>
+                  </div>
+                </div>
+                <div id="thb-image-5c7d567e73b40" class="caption-style1  center   thb_image_link wp-caption">
+                  <div class="thb-image-inner size_100">
+                    <img width="1734" height="1124"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1734px) 100vw, 1734px" data-src="../../content/ibuy/taskflow.jpg"
+                         data-sizes="auto"
+                         data-srcset="../../content/ibuy/taskflow.jpg 1734w, ../../content/ibuy/taskflow.jpg 768w, ../../content/ibuy/taskflow.jpg 700w, ../../content/ibuy/taskflow.jpg 600w"/>
+                  </div>
+                </div>
+ <div
+                    class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey">
+                  <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
+                    class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+                </div>
+                  
+                   <div class="wpb_text_column wpb_content_element  ">
+                  <div class="wpb_wrapper">
+                    <h4>ROUGH WIREFRAMES</h4>
 
+                  </div>
+                </div>
+                <div id="thb-image-5c7d567e73b40" class="caption-style1  center   thb_image_link wp-caption">
+                  <div class="thb-image-inner size_100">
+                    <img width="1734" height="1124"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1734px) 100vw, 1734px" data-src="../../content/ibuy/wireframe.jpg"
+                         data-sizes="auto"
+                         data-srcset="../../content/ibuy/wireframe.jpg 1734w, ../../content/ibuy/wireframe.jpg 768w, ../../content/ibuy/wireframe.jpg 700w, ../../content/ibuy/wireframe.jpg 600w"/>
+                  </div>
+                </div>
+                  
+                   <div
+                    class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey">
+                  <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
+                    class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+                </div>
+                  
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
                     <h4>USABILITY TEST APPROACH</h4>
@@ -343,6 +409,12 @@
                          data-srcset="../../content/ibuy/usability_test.jpeg 1734w, ../../content/ibuy/usability_test.jpeg 768w, ../../content/ibuy/usability_test.jpeg 700w, ../../content/ibuy/usability_test.jpeg 600w"/>
                   </div>
                 </div>
+                  
+                   <div
+                    class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey">
+                  <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
+                    class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+                </div>
                 <div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div>
               </div>
             </div>
@@ -359,23 +431,11 @@
                       <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element  ">
                           <div class="wpb_wrapper">
-                            <h4>WIREFRAMES ON NEED ANALYSIS</h4>
+                            <h4>MOCKUPS</h4>
                           </div>
                         </div>
                         <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span>
                         </div>
-                        <div id="thb-image-5c7d567e747c5"
-                             class="caption-style1 animation bottom-to-top alignleft full  thb_image_link wp-caption">
-                          <div class="thb-image-inner size_100">
-                            <img width="2200" height="560"
-                                 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                                 class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                                 sizes="(max-width: 2200px) 100vw, 2200px"
-                                 data-src="../../content/ibuy/wireframe_analysis_preperation.jpg" data-sizes="auto"
-                                 data-srcset="../../content/ibuy/wireframe_analysis_preperation.jpg 2200w, ../../content/ibuy/wireframe_analysis_preperation.jpg 768w, ../../content/ibuy/wireframe_analysis_preperation.jpg 700w, ../../content/ibuy/wireframe_analysis_preperation.jpg 600w"/>
-                          </div>
-                        </div>
-
                         <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span>
                         </div>
                         <div id="thb-image-5c7d567e747c5"
@@ -434,6 +494,18 @@
 
                         <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span>
                         </div>
+                          
+                            <div id="thb-image-5c7d567e747c5"
+                             class="caption-style1 animation bottom-to-top alignleft full  thb_image_link wp-caption">
+                          <div class="thb-image-inner size_100">
+                            <img width="2200" height="560"
+                                 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                 class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                                 sizes="(max-width: 2200px) 100vw, 2200px"
+                                 data-src="../../content/ibuy/wireframe_analysis_preperation.jpg" data-sizes="auto"
+                                 data-srcset="../../content/ibuy/wireframe_analysis_preperation.jpg 2200w, ../../content/ibuy/wireframe_analysis_preperation.jpg 768w, ../../content/ibuy/wireframe_analysis_preperation.jpg 700w, ../../content/ibuy/wireframe_analysis_preperation.jpg 600w"/>
+                          </div>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -473,24 +545,21 @@
 
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>LEARNINGS</h4>
+                    <h4>DESIGN OUTCOMES</h4>
                   </div>
                 </div>
 
                 <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                   <div class="wpb_wrapper">
                     <ol>
-                      <li>Design Thinking is essential to reimagine and visualise concepts</li>
-                      <li>Great setting for testing new technologies, tools and methods to ensure fast learning</li>
-                      <li>Co-location and collaboration is an effective way of building engagement and making people
-                        into advocates of the new way of working
+                      <li>Engage and improve customer experience in real time</li>
+                      <li>Average time to spend time and learn about the order quotation reduces from 2 hours to 45 mins</li>
+                      <li>Smart recommend of products and content based on business profile and customer value
                       </li>
-                      <li>A clear scope with a fixed time schedule helped with direction and prioritisation</li>
-                      <li>Collaborative decision making in cross-functional teams made people put their skills to the
-                        best use and made them comfortable enough to dare to make decisions
+                      <li>Centralizing of clean customer information data and updates directly to the marketing and customer service systems instead of manual replication of information to multiple system and eliminating the need of long standing approvals </li>
+                      <li> Accelerate  users time to value by democratize information access from a direct single source feed
                       </li>
-                      <li>An agile development process enabled early and continuous validation which ultimately led to
-                        better design for users and for business
+                      <li>Optimize organization wide initiative using customer data and supporting marketing campaigns
                       </li>
                     </ol>
                   </div>

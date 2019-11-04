@@ -241,3 +241,8 @@ p {
     padding-bottom: 10vh !important;
     padding-left: 20px !important;
 }
+
+element.style {
+    background-image: url(../../content/ibuy/cover.jpg);
+    opacity: 0.6;
+}
