@@ -100,7 +100,7 @@
                             <h5 id="yui_3_17_2_1_1481422080615_567">PLATFORM</h5>
                             <p>Desktop/ Web/ Tablet</p>
                             <h5 id="yui_3_17_2_1_1481422080615_525">DELIVERABLES</h5>
-                            <p>User Research, UX Business Impact, User Testing, Concept design, Wireframes, Quick Mockups</p>
+                            <p>Presentation deck of research and insights, Wireframes and Mockups</p>
                             <h5 id="yui_3_17_2_1_1481422080615_541">TOOLS</h5>
                             <p>Whiteboard, Pen and Paper, Axure RP </p>
 
@@ -200,8 +200,8 @@
 
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>PRODUCT GOAL</h4>
-                      <p>IBuy focuses to help the dealers effectively to connect better with customers in order to improve the sales business.</p>
+                    <h4>DESIGN CHALLENGE</h4>
+                      <p>Design a solution for dealers to connect effectively with customers in order to improve the sales business.</p>
                     </div>
                     <br>
                     <br>
