@@ -63,8 +63,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1440px) 100vw, 1440px"
-                         data-src="../../content/ghent/lady_instruction.png" data-sizes="auto"
-                         data-srcset="../../content/ghent/lady_instruction.png 1440w, ../../content/ghent/lady_instruction.png 768w, ../../content/ghent/lady_instruction.png 700w, lady_instruction.png 600w"/>
+                         data-src="../../content/ghent/lady_instruction.jpg" data-sizes="auto"
+                         data-srcset="../../content/ghent/lady_instruction.jpg 1440w, ../../content/ghent/lady_instruction.jpg 768w, ../../content/ghent/lady_instruction.jpg 700w, lady_instruction.jpg 600w"/>
                   </div>
                 </div>
 
@@ -261,7 +261,7 @@
                           <img width="250" height="589"
                                src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                class="thb_image retina_size  attachment-full thb-lazyload lazyload" alt=""
-                               data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/idea.png"
+                               data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/idea.jpg"
                                data-sizes="auto"/>
                         </div>
                       </div>
@@ -284,12 +284,17 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1157px) 100vw, 1157px"
-                         data-src="../../content/ghent/beforeafter.png" data-sizes="auto"
-                         data-srcset="../../content/ghent/beforeafter.png 1157w, ../../content/ghent/beforeafter.png 768w, ../../content/ghent/beforeafter.png 700w, ../../content/ghent/beforeafter.png 600w"/>
+                         data-src="../../content/ghent/beforeafter.jpg" data-sizes="auto"
+                         data-srcset="../../content/ghent/beforeafter.jpg 1157w, ../../content/ghent/beforeafter.jpg 768w, ../../content/ghent/beforeafter.jpg 700w, ../../content/ghent/beforeafter.jpg 600w"/>
                   </div>
                 </div>
-                  <div
-                            class="wpb_video_widget wpb_content_element vc_clearfix  align-center  vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-center">
+                <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                <div class="wpb_text_column wpb_content_element  ">
+                  <div class="wpb_wrapper">
+                    <h4>User Feedback</h4>                    
+                  </div>
+                </div>
+                  <div class="wpb_video_widget wpb_content_element vc_clearfix  align-center  vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-center">
                           <div class="wpb_wrapper">
 
 
@@ -314,8 +319,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1157px) 100vw, 1157px"
-                         data-src="../../content/ghent/instruction.png" data-sizes="auto"
-                         data-srcset="../../content/ghent/instruction.png 1157w, ../../content/ghent/instruction.png 768w, ../../content/ghent/instruction.png 700w, ../../content/ghent/instruction.png 600w"/>
+                         data-src="../../content/ghent/instruction.jpg" data-sizes="auto"
+                         data-srcset="../../content/ghent/instruction.jpg 1157w, ../../content/ghent/instruction.jpg 768w, ../../content/ghent/instruction.jpg 700w, ../../content/ghent/instruction.jpg 600w"/>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div>
