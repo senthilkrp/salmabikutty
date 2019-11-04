@@ -231,7 +231,7 @@ p {
 }
 
 .post-vsib {
-    
+
 }
 
 .about-contact {
@@ -245,4 +245,9 @@ p {
 element.style {
     background-image: url(../../content/ibuy/cover.jpg);
     opacity: 0.6;
+}
+
+#task-flow {
+  width: 400px;
+  height: 800px;
 }

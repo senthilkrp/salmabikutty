@@ -49,11 +49,11 @@
                       <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
-                              
+
                         <br>
                               <br>
                               <br>
-                              
+
                             <h4>IBUY - Need Analysis Usecase </h4>
 
                           </div>
@@ -69,14 +69,14 @@
 </p>
                              <!-- <img src="../../content/ibuy/issue.jpg">
                             <figcaption> IBUY system Before </figcaption>-->
-                             
-                              
+
+
                             <h5>BUSINESS CONCERNS</h5>
                             <ol>
                              <p> <li>Out of date information and time-consuming approvals to update any changes </li>
                               <li>Customer recorded were maintained in multiple systems and identifying the right information were challenging and dull
                               </li>
-                              <li>System throws out frequent error messages while performing routine task and repeated system updates led to downtime issues 
+                              <li>System throws out frequent error messages while performing routine task and repeated system updates led to downtime issues
                                 </li> </p>
                             </ol>
                             <div class="vc_empty_space" style="height: 65px"></div>
@@ -90,7 +90,7 @@
                       <div class="wpb_wrapper">
                         <div class="vc_empty_space" style="height: 65px"><span class="vc_empty_space_inner"></span>
                         </div>
-                          
+
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
                             <h5 id="yui_3_17_2_1_1481422080615_490">ROLES</h5>
@@ -103,7 +103,7 @@
                             <p>User Research, UX Business Impact, User Testing, Concept design, Wireframes, Quick Mockups</p>
                             <h5 id="yui_3_17_2_1_1481422080615_541">TOOLS</h5>
                             <p>Whiteboard, Pen and Paper, Axure RP </p>
-                             
+
 
 
                           </div>
@@ -205,13 +205,13 @@
                     </div>
                     <br>
                     <br>
-                    
-                    
+
+
                     <div class="wpb_wrapper">
                         <h4>RESEARCH</h4>
                     <ol>
                       <li>We begin our investigation understanding existing business process through contextual enquiry gathering insights from system analytics that provides the usage pattern as a whole</li>
-                      <li>We invited users from prime dealer location based on the sales data and conducted remote interviews and shared surveys to understand the daily routine, pain points, and their needs. 
+                      <li>We invited users from prime dealer location based on the sales data and conducted remote interviews and shared surveys to understand the daily routine, pain points, and their needs.
                       </li>
                       <li>We also had an opportunity to meet customers stakeholder who were the business drivers and also the real customers to get their experience.
                       </li>
@@ -237,7 +237,7 @@
                          data-srcset="../../content/ibuy/user_journey.jpeg 2277w, ../../content/ibuy/user_journey.jpeg 768w, ../../content/ibuy/user_journey.jpeg 700w, ../../content/ibuy/user_journey.jpeg 600w"/>
                   </div>
                   </div>
-                  
+
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
                 <div id="thb-image-5c7d567e732ca" class="caption-style1  center   thb_image_link wp-caption">
                   <div class="thb-image-inner size_100">
@@ -277,11 +277,11 @@
                   <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
                     class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
                 </div>
-                  
+
                   <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
                     <h4>USER AND CUSTOMER STORY</h4>
-                      <font color="red">story board here !!</font> 
+                      <font color="red">story board here !!</font>
                   </div>
                 </div>
 
@@ -308,7 +308,7 @@
                 </div>
 
 
-                
+
 
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
 
@@ -345,7 +345,7 @@
                     class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
                 </div>
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
-                  
+
                     <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
                     <h4>TASK FLOW</h4>
@@ -353,7 +353,7 @@
                 </div>
                 <div id="thb-image-5c7d567e73b40" class="caption-style1  center   thb_image_link wp-caption">
                   <div class="thb-image-inner size_100">
-                    <img width="1734" height="1124"
+                    <img id="task-flow"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1734px) 100vw, 1734px" data-src="../../content/ibuy/taskflow.jpg"
@@ -366,7 +366,7 @@
                   <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
                     class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
                 </div>
-                  
+
                    <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
                     <h4>ROUGH WIREFRAMES</h4>
@@ -383,13 +383,13 @@
                          data-srcset="../../content/ibuy/wireframe.jpg 1734w, ../../content/ibuy/wireframe.jpg 768w, ../../content/ibuy/wireframe.jpg 700w, ../../content/ibuy/wireframe.jpg 600w"/>
                   </div>
                 </div>
-                  
+
                    <div
                     class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey">
                   <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
                     class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
                 </div>
-                  
+
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
                     <h4>USABILITY TEST APPROACH</h4>
@@ -409,7 +409,7 @@
                          data-srcset="../../content/ibuy/usability_test.jpeg 1734w, ../../content/ibuy/usability_test.jpeg 768w, ../../content/ibuy/usability_test.jpeg 700w, ../../content/ibuy/usability_test.jpeg 600w"/>
                   </div>
                 </div>
-                  
+
                    <div
                     class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey">
                   <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
@@ -494,7 +494,7 @@
 
                         <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span>
                         </div>
-                          
+
                             <div id="thb-image-5c7d567e747c5"
                              class="caption-style1 animation bottom-to-top alignleft full  thb_image_link wp-caption">
                           <div class="thb-image-inner size_100">
