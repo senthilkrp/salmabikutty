@@ -340,7 +340,7 @@
 
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>Learnings</h4>
+                    <h4>LEARNINGS</h4>
                     <ol>
                       <li> Re-designing the content and prioritisation along with the target users developed efficiency in the design process.</li>
                       <li>Setting up the right team provided the design opportunities and understand the limitations.</li>

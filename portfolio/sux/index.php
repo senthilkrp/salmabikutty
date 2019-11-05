@@ -985,7 +985,7 @@
                       <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element  ">
                           <div class="wpb_wrapper">
-                            <h4>Prototype</h4>
+                            <h4>PROTOTYPE</h4>
                             <p>A working digital prototype of VAS Manager redesigns built in
                               Invision.</p>
 
