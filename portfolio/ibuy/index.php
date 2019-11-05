@@ -285,15 +285,16 @@
                   <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
                     <h4>USER STORY</h4>
-                     <p>Customer- An ABC company representative, whose goal is to get a preliminary quotation for his business arrives at dealership zone. Mathew, our Volvo Sales representative attends the customer and asks customer How can he help him? </p>
-                      <p>Customer says, he has come to identify a good truck for his business and he also mentions about their previous purchases</p>
-                      <p>Mathews request his customer to wait for some time till he gathers the customer’s records from his system in order to provide a value choice to his customer </p>
-                      <p>Mathew rushes to IBuy system to collect the records, he finds it annoying because the customer information is recorded multiple times and is very unsure which is the latest record </p>
-                      <p>On further action, Mathew receives multiple error messages and system updates request which is making Mathew feel more frustrated. </p>
+                      <p>Customer - An ABC company representative, whose goal is to get a preliminary quotation for his business, arrives at dealership zone. Mathew, our Volvo Sales representative attends to the customer and asks the customer how he can help him. </p>
+                      <p>Customer says he has come to identify a good truck for his business and he also mentions about their previous purchases.</p>
+                      <p>Mathews requests his customer to wait for some time till he gathers the customer’s records from his system in order to provide a value choice to his customer. </p>
+                      <p>Mathew rushes to IBuy system to collect the records but he finds it annoying because the customer information is recorded multiple times and he is very unsure which is the latest record.</p>
+                      <p>On further action, Mathew receives multiple error messages and system update requests which is making Mathew feel more frustrated.</p>
                       <p>On the other end, Customer is upset because Mathew is taking longer time than expected </p>
                       <p>Let’s say, Mathew gets the customer’s business details,
-He reviews the previous purchases and other opted services
-</p><p>Now, he gets backs to his customer, and discuss the customer needs, and suggest him the truck suitable to the customers business. </p><p>Now customer is unsure of how Mathew is making his recommendations and now customer probes further and enquires more details about the truck. </p> <p>Mathew now share the truck features and capabilities, </p><p>Customer shortlists 2 trucks based on the features and asks Mathew to provide a quotation and demands a hard copy </p><p>Mathew go back to a different system to prepare quotation and now the new system requires customer’s updated details to process the quotation </p>
+He reviews the previous purchases and other opted services.
+</p><p>Now, he gets backs to his customer to discuss the customer's needs and suggest him a truck suitable to the customer's business. </p><p>Now customer is unsure of how Mathew is making his recommendations and the customer probes further and enquires more details about the truck. </p>
+ <p>Mathew now shares the truck features and capabilities. </p><p>Customer shortlists 2 trucks based on the features and asks Mathew to provide a quotation and demands a hard copy. </p><p>Mathew goes back to a different system to prepare quotation and now the new system requires customer’s updated details to process the quotation.</p>
                   </div>
                 </div>
                    <div
@@ -483,7 +484,7 @@ He reviews the previous purchases and other opted services
                   </figure>
                   <figure>
                     <a href="../../content/ibuy/screen6.png">
-                      <img src="../../content/ibuy/mscreen6.png" class="lazyload"
+                      <img src="../../content/ibuy/screen6.png" class="lazyload"
                            alt="Mockup"/>
                     </a>
                   </figure>

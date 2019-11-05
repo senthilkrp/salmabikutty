@@ -254,7 +254,7 @@
                   <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
                     class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
                 </div>
-               
+
                 <div class="wpb_column columns medium-3 thb-dark-column small-12">
                   <div class="vc_column-inner ">
                     <div class="wpb_wrapper">
@@ -293,7 +293,7 @@
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
-                    <h4>USER FEEDBACK</h4>                    
+                    <h4>USER FEEDBACK</h4>
                   </div>
                 </div>
                   <div class="wpb_video_widget wpb_content_element vc_clearfix  align-center  vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-center">
@@ -322,8 +322,8 @@
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1157px) 100vw, 1157px"
-                         data-src="../../content/ghent/newproposal.png" data-sizes="auto"
-                         data-srcset="../../content/ghent/newproposal.png 1157w, ../../content/ghent/newproposal.png 768w, ../../content/ghent/newproposal.png 700w, ../../content/ghent/newproposal.png 600w"/>
+                         data-src="../../content/Ghent/newproposal.png" data-sizes="auto"
+                         data-srcset="../../content/Ghent/newproposal.png 1157w, ../../content/Ghent/newproposal.png 768w, ../../content/Ghent/newproposal.png 700w, ../../content/Ghent/newproposal.png 600w"/>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div>
