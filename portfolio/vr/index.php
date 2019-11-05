@@ -53,13 +53,10 @@
 
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
-                            <p> To use vr tools in the manufacturing process to deal with issues in
-                              manufacturing industries revolve around the flow of information and planning processes,
-                              and have an understanding of the intra and inter-organisations.
+                            <p> VR manufacturing process is a walkthough of End to End process of how the truck is built from the scratch until customer delivery
                             </p>
                             <p>
-                              By using Virtual Reality training, local maintenance crews can be trained and deployed for
-                              specific manufacturing and service operations, without the need of an expert trainer.
+                              This project helps to train local maintenance crews to understand end to end process of manufacturing and service operations without distrupting the production line.
                             </p>
                           </div>
                         </div>
@@ -79,15 +76,15 @@
                 <div class="wpb_text_column wpb_content_element  ">
                   <div class="wpb_wrapper">
                     <h4>Business Outcome</h4>
-                    <p>While training in Virtual Reality, the chance of damaging expensive tooling and objects on site
-                      is reduced to a minimum. This makes maintenance training in Virtual Reality a cost effective and
-                      efficient solution. Further benefits inlcuded are</p>
+                    <p>This project have given big impact in terms of educating new joinees, consultants and other employees who want to understand how each process and application are dependent on the process</p>
                     <ul>
-                      <li> Cost Reduction</li>
-                      <li>Risk Reduction</li>
-                      <li>Time reduction</li>
-                      <li>Quality Improvements</li>
-                      <li>Improved Knowledge Transfer</li>
+                      <li>All employees of Volvo are able to understand manufacturing of truck even without visiting the site </li>
+                      <li>Reduces risk of damaging any tooling or object onsite</li>
+                      <li>Zero production line distruption</li>
+                      <li> Process room helps to grasp end to end process of truck in 45 mins</li>
+                        <li> Process room reveals the backend process that are not visible in the factory premise</li>
+                        <li> Overview of how multiple application are connected with each other</li>
+                        <li> Huge cost saving on the factory visits and logistics</li>
                     </ul>
                   </div>
                   <br> <br>
@@ -152,7 +149,7 @@
 
                 </div>
                 <div><p> Built story board in reference to the actual factory process recording. This visual hierarchy
-                  helped to understand the end to end process to watch on 360 degree user viewport </p></div>
+                  helped to understand the end to end process to watch on 360 degree user viewport and full screen television </p></div>
               </div>
               <div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
               <div
@@ -198,8 +195,7 @@
               </div>
 
               <h4>Unity prototyping </h4>
-              Packaging everything 3d asset together in Unity 3D, and designing interactions with the recorded
-              manufacturing process. <br> <br>
+              Packaging every 3d asset together in Unity 3D, and designing interactions and mapping with the recorded video <br> <br>
 
               <div id="thb-image-5c7d569604ac2" class="caption-style1  center full  thb_image_link wp-caption">
                 <div class="thb-image-inner size_100 full-width">
@@ -214,8 +210,8 @@
               </div>
               <br> <br>
 
-              Throughout the development process, the experience is constantly improving based on user testing. Visual
-              hierarchy, visual/audio/interaction feedback were considered to make it useful for all group of users.
+              Throughout the development process, the experience is constantly improved based on user testing. Visual
+              hierarchy, audio/video interaction feedback were constantly monitored for seamless experience
               <br>
 
 
