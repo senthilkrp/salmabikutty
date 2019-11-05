@@ -56,7 +56,7 @@
                     </div>
                     <a href="portfolio/ibuy/" class="portfolio-link">
                       <h2><span>IBuy</span></h2>
-                      <aside class="thb-categories"><span>Desktop/Tablet</span></aside>
+                      <aside class="thb-categories"><span>Customer Sales</span></aside>
                     </a>
                   </div>
                 </div>
@@ -69,8 +69,8 @@
                            alt="" sizes="(max-width: 1229px) 100vw, 1229px" />
                     </div>
                     <a href="portfolio/sux/" class="portfolio-link">
-                      <h2><span>SUX Workshop</span></h2>
-                      <aside class="thb-categories"><span>Responsive Web application</span></aside>
+                      <h2><span>VAS Manager</span></h2>
+                      <aside class="thb-categories"><span>Web workshop service management</span></aside>
                     </a>
                   </div>
                 </div>
@@ -99,7 +99,7 @@
                     </div>
                     <a href="portfolio/vsib/" class="portfolio-link">
                       <h2><span>VSIB Transformation</span></h2>
-                      <aside class="thb-categories"><span>Responsive Web application </span></aside>
+                      <aside class="thb-categories"><span>Supplier Portal </span></aside>
                     </a>
                   </div>
                 </div>
@@ -134,7 +134,7 @@
       <div class="container">
         <!-- svgs -->
         <div class="row">
-          <h3 class="left-align">Great UX for me is: </h3>
+          <h3 class="center-align">Great UX for me is: </h3>
         </div>
         <div class="row">
           <div class="offset-md-1 col-md-3 thb-iconbox top type2 animation-true " href="#" target="" data-animation_speed="1.5">
@@ -180,7 +180,7 @@
         </div>
         <!-- description text -->
         <div class="row">
-          <p>My style to solve usability problem to obvious solution is through user centered design approach. My work is usually aligning business goals and objectives with the needs of their users.</p>
+          <p class="center-align">My style to solve usability problem to obvious solution is through user centered design approach. My work is usually aligning business goals and objectives with the needs of their users.</p>
           <p>I work closely and collaboratively with my clients, users and developers that helps to investigate. I go through various solution options, feedback, refinement and validation in my process. This allows me to deliver a useful, usable and successful experience for the users and in turn a return on investment for the business.</p>
         </div>
       </div>

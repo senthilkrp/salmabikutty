@@ -652,7 +652,7 @@
                          sizes="(max-width: 2032px) 100vw, 2032px"
                            data-src="../../content/sux/ideation.jpg" data-sizes="auto"
                          data-srcset="../../content/sux/ideation.jpg 2032w, ../../content/sux/ideation.jpg 768w, ../../content/sux/ideation.jpg 700w, ../../content/sux/ideation.jpg 600w"/>
-                  </div>
+                  </div> <br> <br>
                     <p>The concept design focused on the combination of business process and the user goals. This concept had included several system integration and decomissioned costing high infrastructure that were maintaining legacy application.</p>
                   </div>
                 </div>
@@ -780,7 +780,7 @@
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481544601069 row-has-fill">
           <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
             <div class="vc_column-inner  vc_custom_1481593853034">
@@ -846,7 +846,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593862424">
         <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
             <div class="vc_column-inner  ">
@@ -994,6 +994,10 @@
                         <div
                             class="wpb_video_widget wpb_content_element vc_clearfix  align-center  vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-center">
                           <div class="wpb_wrapper">
+                              <div class="wpb_wrapper">
+
+
+                
 
 
                            <div class="wpb_video_wrapper">
