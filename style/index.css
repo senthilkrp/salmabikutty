@@ -257,3 +257,7 @@ p {
 ul, ol {
     font-size: 18px;
 }
+
+.parallax .parallax_bg {
+  opacity: 0.5;
+}
