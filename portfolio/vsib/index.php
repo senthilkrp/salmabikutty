@@ -33,6 +33,10 @@
           <div></div>
         </div>
       </figure>
+        
+        <br>
+        <br>
+        
       <div class="post-content">
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593416410">
           <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
@@ -42,21 +46,16 @@
                   <div class="wpb_column columns medium-8 thb-dark-column small-12">
                     <div class="vc_column-inner ">
                       <div class="wpb_wrapper">
-                        <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
-                          <div class="wpb_wrapper">
-                            <h4>Overview</h4>
-
-                          </div>
-                        </div>
+                       
 
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
-                            <h5>Background</h5>
+                            <h5>BACKGROUND</h5>
                             <p>VSIB (Volvo Supplier Information Base) is a web application that provides information about the Supplier companies associated to the Volvo Group. This portal acts as a supplier Wikipedia that include all information like supplier's history with Volvo business, certificates, contracts, quality scorecard, delivery performance, audit information etc.</p>
                             <!--<h5>CHALLENGES</h5>
                             <p>The site lacks the structure to represent the complexity of the store, and doesn’t
                               support an online shopping experience.</p>-->
-                            <h5>Problem</h5>
+                            <h5>PROBLEM</h5>
                             <p>For more than 18+ years, VSIB got so complex due to implementation of features over features without addressing the right need of business and end user goals. Many such ideas got so complicated that end user find it very hard to work on a simple task.</p>
                             <p>The maintenance of the system was not useful to the end users as it faced regular down time issues and the stakeholder spent huge amount to maintain this legacy application.</p>
                             <p>The users usually rely on the hard copies print outs as the system does not work outside the Volvo network.</p>
@@ -109,7 +108,7 @@
 
                 <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                 <div class="wpb_wrapper">
-                  <h4>Outcome</h4>
+                  <h4>OUTCOME</h4>
                 </div>
               </div>
               </div>
@@ -815,7 +814,7 @@
                       <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element  ">
                           <div class="wpb_wrapper">
-                            <h4>Prototype</h4>
+                            <h4>PROTOTYPE</h4>
                             <p>A  digital prototype on the revamped solution were first shared as a draft to recieve feedback from the users </p>
 
                           </div>
