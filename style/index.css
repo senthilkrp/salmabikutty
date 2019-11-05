@@ -245,3 +245,11 @@ p {
 #wrapper ol li {
     font-size:18px;
 }
+
+.iconbox-content h5 {
+  color: #d3d3d3;
+}
+
+.center-align {
+  text-align: center;
+}

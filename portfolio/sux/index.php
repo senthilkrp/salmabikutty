@@ -55,7 +55,7 @@
                         <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                           <div class="wpb_wrapper">
                             <h5>BACKGROUND</h5>
-                            <p>VAS Manager is an application where all the service request is registered, it also capability to request vehicle parts, create service plan for customers, maintain and schedule vehicle repairs 
+                            <p>VAS Manager is an application where all the service request is registered, it also capability to request vehicle parts, create service plan for customers, maintain and schedule vehicle repairs
 
                               </p><br>
                             <!--<h5>CHALLENGES</h5>
@@ -73,7 +73,7 @@
                               <br>
                             <h5>DESIGN CHALLENGE</h5>
                             <p>Improve workshop administration and develop customer interaction with scheduled visits and timely work orders </p>
-                            
+
                                                             <br>
                             <h5>MY RESPONSIBILITY</h5>
                             <p>I worked as a sole UX designer, here my job was to first understand on the business expectation and also to determine the practical scenario of the workshop on the daily basis </p>
@@ -100,7 +100,7 @@
                           <div class="wpb_wrapper">
                             <h5 id="yui_3_17_2_1_1481422080615_490">ROLE</h5>
                             <p id="yui_3_17_2_1_1481422080615_505">UX Designer</p>
-                            <h5 id="yui_3_17_2_1_1481422080615_490">TEAM</h5> 
+                            <h5 id="yui_3_17_2_1_1481422080615_490">TEAM</h5>
                             <p id="yui_3_17_2_1_1481422080615_505">Project manager, Solution architects, Business analyst, UX Designer and Developers.
 </p>
 
@@ -150,7 +150,7 @@
                 <div class="wpb_wrapper">
                   <h4>SOLUTION AND OUTCOME</h4>
                   <p>As a team, we prioritized to investigate the internal system first and then proceed with customer experience once the system is operational and stable. In addition, we utilized an agile development methodology with short and effective sprints</p>
-                    
+
                       <p>Our pilot phase test for 3 months reflected metric by</p>
                 </div>
               </div>
@@ -158,7 +158,7 @@
             </div>
           </div>
         </div>
-          
+
         <div data-midnight="dark-title"
              class="row wpb_row row-fluid align-center full-width-row vc_custom_1481648881267 row-has-fill">
           <div class="wpb_column columns medium-12 large-9 medium-11 thb-light-column small-12">
@@ -166,7 +166,7 @@
               <div class="wpb_wrapper">
                 <div class="wpb_text_column wpb_content_element">
                   </div>
-                  
+
                 <div class="row wpb_row vc_inner row-fluid">
                   <div class="wpb_column columns medium-4 thb-dark-column small-12">
                     <div class="vc_column-inner ">
@@ -241,7 +241,7 @@
             </div>
           </div>
         </div>
-          
+
                  <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593493981">
           <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
             <div class="vc_column-inner  ">
@@ -250,7 +250,7 @@
                 <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                   <div class="wpb_wrapper">
                       <h4>UX PROCESS</h4>
-                    
+
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
@@ -258,8 +258,8 @@
             </div>
           </div>
         </div>
-                      <div data-midnight="dark-title" class="row wpb_row row-fluid no-row-padding full-width-row no-column-padding align-center">
-          <div class="wpb_column columns large-10 medium-12 thb-dark-column small-12">
+                      <div data-midnight="dark-title" class="row wpb_row row-fluid full-width-row align-center">
+          <div class="wpb_column columns large-9 medium-12 thb-dark-column small-12">
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
                 <div id="thb-image-5c7d569a6abcc" class="caption-style1  alignleft full  thb_image_link wp-caption">
@@ -294,8 +294,8 @@
           </div>
         </div>
 
-        <div data-midnight="dark-title" class="row wpb_row row-fluid no-row-padding full-width-row no-column-padding align-center">
-          <div class="wpb_column columns large-10 medium-12 thb-dark-column small-12">
+        <div data-midnight="dark-title" class="row wpb_row row-fluid full-width-row align-center">
+          <div class="wpb_column columns large-9 medium-12 thb-dark-column small-12">
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
                 <div id="thb-image-5c7d569a6abcc" class="caption-style1  alignleft full  thb_image_link wp-caption">
@@ -314,8 +314,8 @@
           </div>
         </div>
           <br><br>
-          <div data-midnight="dark-title" class="row wpb_row row-fluid no-row-padding full-width-row no-column-padding align-center">
-          <div class="wpb_column columns large-10 medium-12 thb-dark-column small-12">
+          <div data-midnight="dark-title" class="row wpb_row row-fluid full-width-row align-center">
+          <div class="wpb_column columns large-9 medium-12 thb-dark-column small-12">
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
                 <div id="thb-image-5c7d569a6abcc" class="caption-style1  alignleft full  thb_image_link wp-caption">
@@ -333,7 +333,7 @@
             </div>
           </div>
         </div>
-          
+
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593503012">
           <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
             <div class="vc_column-inner  ">
@@ -348,7 +348,7 @@
 
                   </div>
                 </div>-->
-               
+
                 <!--<div id="thb-image-5c7d569a6b42c"
                      class="caption-style1 animation bottom-to-top center full  thb_image_link wp-caption">
                   <div class="thb-image-inner size_100">
@@ -372,7 +372,7 @@
                 <div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div>
                 <div id="thb-image-5c7d569a6b42d"
                      class="caption-style1 animation bottom-to-top center full  thb_image_link wp-caption">
-                  <div class="thb-image-inner size_100">
+                  <div class="size_100">
                     <img width="2500" height="1402"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -389,7 +389,7 @@
                 </div>
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
 
-                
+
                 <div id="thb-image-5c7d569a6b42e"
                      class="caption-style1 animation bottom-to-top center full  thb_image_link wp-caption">
                   <div class="thb-image-inner size_100">
@@ -476,7 +476,7 @@
                           </div>
                         </div>
                           <div class="wpb_text_column wpb_content_element  "></div> <br> <br>
-                          
+
                       </div>
                     </div>
                   </div>
@@ -485,9 +485,9 @@
             </div>
           </div>
         </div>
-          
+
           <br><br>
-          
+
           <div data-midnight="dark-title"
              class="row wpb_row row-fluid align-center full-width-row vc_custom_1481593522920">
           <div class="wpb_column columns medium-12 thb-dark-column small-12">
@@ -510,8 +510,8 @@
                       <li>Systems give poor or no support for handling constant changes that is part of the normal workflow</li>
                     </ul>
                   </div>
-                        
-                          <div class="wpb_text_column wpb_content_element  "></div> 
+
+                          <div class="wpb_text_column wpb_content_element  "></div>
                       </div>
                     </div>
                   </div>
@@ -520,8 +520,8 @@
             </div>
           </div>
         </div>
-          
-                        
+
+
       <!--  <div data-midnight="dark-title"
              class="row wpb_row row-fluid align-center full-width-row vc_custom_1481529655316 row-has-fill">
           <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
@@ -865,7 +865,7 @@
                             </ol>
 
 
-                        
+
                         <!--    <h5></h5>
                             <h5>Error Recovery</h5>
                             <p>Error messages have been designed to clearly communicate what went wrong and how to
@@ -997,7 +997,7 @@
                               <div class="wpb_wrapper">
 
 
-                
+
 
 
                            <div class="wpb_video_wrapper">

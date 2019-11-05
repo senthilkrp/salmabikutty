@@ -208,7 +208,7 @@
                 <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
 
                 <div class="wpb_text_column wpb_content_element  ">
-        
+
                     <div class="wpb_wrapper">
                         <h4>RESEARCH</h4>
                     <ol>
@@ -228,8 +228,8 @@
                       <p>We conducted a workshop with business stakeholder, customer stakeholders, sales representative, product owners and our engineering team to discuss and share our findings in order to generate a common vision of the product</p>
                   </div>
                 </div>
-                
-                
+
+
 
                 <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
                 <div id="thb-image-5c7d567e732ca" class="caption-style1  center   thb_image_link wp-caption">
@@ -291,7 +291,7 @@
                       <p>Mathew rushes to IBuy system to collect the records, he finds it annoying because the customer information is recorded multiple times and is very unsure which is the latest record </p>
                       <p>On further action, Mathew receives multiple error messages and system updates request which is making Mathew feel more frustrated. </p>
                       <p>On the other end, Customer is upset because Mathew is taking longer time than expected </p>
-                      <p>Let’s say, Mathew gets the customer’s business details, 
+                      <p>Let’s say, Mathew gets the customer’s business details,
 He reviews the previous purchases and other opted services
 </p><p>Now, he gets backs to his customer, and discuss the customer needs, and suggest him the truck suitable to the customers business. </p><p>Now customer is unsure of how Mathew is making his recommendations and now customer probes further and enquires more details about the truck. </p> <p>Mathew now share the truck features and capabilities, </p><p>Customer shortlists 2 trucks based on the features and asks Mathew to provide a quotation and demands a hard copy </p><p>Mathew go back to a different system to prepare quotation and now the new system requires customer’s updated details to process the quotation </p>
                   </div>
@@ -437,7 +437,69 @@ He reviews the previous purchases and other opted services
             </div>
           </div>
         </div>
-        <div data-midnight="dark-title"
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481544601069 row-has-fill">
+          <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  vc_custom_1481593853034">
+              <div class="wpb_wrapper">
+                <div class="wpb_text_column wpb_content_element  ">
+                  <div class="wpb_wrapper">
+                    <h4>MOCKUPS</h4>
+                  </div>
+                </div>
+                <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+                <div id="thb-image-slider-20"
+                     class="thb-image-slider slick thb-image-slider-style2 overflow  mfp-gallery dark-arrow "
+                     data-pagination="true" data-navigation="" data-center="0" data-columns="1" data-infinite="false"
+                     data-autoplay="" data-autoplay-speed="4000">
+                  <figure>
+                    <a href="../../content/sux/mockup_1.jpg">
+                      <img src="../../content/sux/mockup_1.jpg" class="lazyload"
+                           alt="Mock up"/>
+                    </a>
+                  </figure>
+                  <figure>
+                    <a href="../../content/sux/mockup_2.jpg">
+                      <img src="../../content/sux/mockup_2.jpg" class="lazyload"
+                           alt="Mock up"/>
+                    </a>
+                  </figure>
+                  <figure>
+                    <a href="../../content/sux/mockup_3.jpg">
+                      <img src="../../content/sux/mockup_3.jpg" class="lazyload"
+                           alt="Mock up"/>
+                    </a>
+                  </figure>
+                  <figure>
+                    <a href="../../content/sux/mockup_4.jpg">
+                      <img src="../../content/sux/mockup_4.jpg" class="lazyload"
+                           alt="Mock up"/>
+                    </a>
+                  </figure>
+                  <figure>
+                    <a href="../../content/sux/mockup_5.jpg">
+                      <img src="../../content/sux/mockup_5.jpg" class="lazyload"
+                           alt="Mock up"/>
+                    </a>
+                  </figure>
+                  <figure>
+                    <a href="../../content/sux/mockup_6.jpg">
+                      <img src="../../content/sux/mockup_6.jpg" class="lazyload"
+                           alt="final-screen_0000_shopping_cart"/>
+                    </a>
+                  </figure>
+                  <figure>
+                    <a href="../../content/sux/mockup_7.jpg">
+                      <img src="../../content/sux/mockup_7.jpg" class="lazyload"
+                           alt="final-screen_0005_checkout_page5"/>
+                    </a>
+                  </figure>
+                </div>
+                <div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- <div data-midnight="dark-title"
              class="row wpb_row row-fluid align-center no-row-padding full-width-row no-column-padding vc_custom_1481442747744 row-has-fill">
           <div class="wpb_column columns medium-12 thb-dark-column small-12">
             <div class="vc_column-inner  ">
@@ -530,7 +592,7 @@ He reviews the previous purchases and other opted services
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
 
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595967751">

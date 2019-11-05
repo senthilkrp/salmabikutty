@@ -134,7 +134,7 @@
       <div class="container">
         <!-- svgs -->
         <div class="row">
-          <h3 class="center-align">Great UX for me is: </h3>
+          <h3 style="text-align:left;">Great UX for me is: </h3>
         </div>
         <div class="row">
           <div class="offset-md-1 col-md-3 thb-iconbox top type2 animation-true " href="#" target="" data-animation_speed="1.5">
@@ -180,7 +180,7 @@
         </div>
         <!-- description text -->
         <div class="row">
-          <p class="center-align">My style to solve usability problem to obvious solution is through user centered design approach. My work is usually aligning business goals and objectives with the needs of their users.</p>
+          <p>My style to solve usability problem to obvious solution is through user centered design approach. My work is usually aligning business goals and objectives with the needs of their users.</p>
           <p>I work closely and collaboratively with my clients, users and developers that helps to investigate. I go through various solution options, feedback, refinement and validation in my process. This allows me to deliver a useful, usable and successful experience for the users and in turn a return on investment for the business.</p>
         </div>
       </div>
