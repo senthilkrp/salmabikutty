@@ -253,3 +253,7 @@ p {
 .center-align {
   text-align: center;
 }
+
+ul, ol {
+    font-size: 18px;
+}

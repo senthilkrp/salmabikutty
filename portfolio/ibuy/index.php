@@ -452,45 +452,63 @@ He reviews the previous purchases and other opted services
                      data-pagination="true" data-navigation="" data-center="0" data-columns="1" data-infinite="false"
                      data-autoplay="" data-autoplay-speed="4000">
                   <figure>
-                    <a href="../../content/sux/mockup_1.jpg">
-                      <img src="../../content/sux/mockup_1.jpg" class="lazyload"
-                           alt="Mock up"/>
+                    <a href="../../content/ibuy/screen1.png">
+                      <img src="../../content/ibuy/screen1.png" class="lazyload"
+                           alt="Mockup"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_2.jpg">
-                      <img src="../../content/sux/mockup_2.jpg" class="lazyload"
-                           alt="Mock up"/>
+                    <a href="../../content/ibuy/screen2.png">
+                      <img src="../../content/ibuy/screen2.png" class="lazyload"
+                           alt="Mockup"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_3.jpg">
-                      <img src="../../content/sux/mockup_3.jpg" class="lazyload"
-                           alt="Mock up"/>
+                    <a href="../../content/ibuy/screen3.png">
+                      <img src="../../content/ibuy/screen3.png" class="lazyload"
+                           alt="Mockup"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_4.jpg">
-                      <img src="../../content/sux/mockup_4.jpg" class="lazyload"
-                           alt="Mock up"/>
+                    <a href="../../content/ibuy/screen4.png">
+                      <img src="../../content/ibuy/screen4.png" class="lazyload"
+                           alt="Mockup"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_5.jpg">
-                      <img src="../../content/sux/mockup_5.jpg" class="lazyload"
-                           alt="Mock up"/>
+                    <a href="../../content/ibuy/screen5.png">
+                      <img src="../../content/ibuy/screen5.png" class="lazyload"
+                           alt="Mockup"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_6.jpg">
-                      <img src="../../content/sux/mockup_6.jpg" class="lazyload"
-                           alt="final-screen_0000_shopping_cart"/>
+                    <a href="../../content/ibuy/screen6.png">
+                      <img src="../../content/ibuy/mscreen6.png" class="lazyload"
+                           alt="Mockup"/>
                     </a>
                   </figure>
                   <figure>
-                    <a href="../../content/sux/mockup_7.jpg">
-                      <img src="../../content/sux/mockup_7.jpg" class="lazyload"
-                           alt="final-screen_0005_checkout_page5"/>
+                    <a href="../../content/ibuy/screen7.png">
+                      <img src="../../content/ibuy/screen7.png" class="lazyload"
+                           alt="Mockup"/>
+                    </a>
+                  </figure>
+                    <figure>
+                    <a href="../../content/ibuy/screen8.png">
+                      <img src="../../content/ibuy/screen8.png" class="lazyload"
+                           alt="Mockup"/>
+                    </a>
+                  </figure>
+                    <figure>
+                    <a href="../../content/ibuy/screen9.png">
+                      <img src="../../content/ibuy/screen9.png" class="lazyload"
+                           alt="Mockup"/>
+                    </a>
+                  </figure>
+                    <figure>
+                    <a href="../../content/ibuy/screen10.png">
+                      <img src="../../content/ibuy/screen10.png" class="lazyload"
+                           alt="Mockup"/>
                     </a>
                   </figure>
                 </div>

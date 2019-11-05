@@ -502,13 +502,16 @@
                     <ol><li>Ambiguity in prioritizing the service orders </li>
                             <li>Legacy system limitations beside the repeated complaints from users </li>
                             <li>Poor communication among the internal staff</li>
-                            <li>Lack of floor resource</li><li>Administrator require multiple open screen to consolidate information </li>
+                            <li>Lack of floor resource</li>
+                            <li>Administrator require multiple open screen to consolidate information 
+                                <ul>
+                                      <li>Detail information for a parts or objects can be found in one system, but in another system that information cannot be found for the same object. This means that workshop staff is copying information between systems switching between systems, sometimes writing paper notes and sometime guessing, in order to speed up work</li>
+                                      <li>Parts order have different names in different systems, It takes very long time to find information needed, not only because it is scattered in different systems, named differently, but also because of unclear information structure in each system</li>
+                                      <li>Systems give poor or no support for handling constant changes that is part of the normal workflow</li>
+                                </ul>
+                            </li>
                             </ol>
-                    <ul>
-                      <li>Detail information for a parts or objects can be found in one system, but in another system that information cannot be found for the same object. This means that workshop staff is copying information between systems switching between systems, sometimes writing paper notes and sometime guessing, in order to speed up work</li>
-                      <li>Parts order have different names in different systems, It takes very long time to find information needed, not only because it is scattered in different systems, named differently, but also because of unclear information structure in each system</li>
-                      <li>Systems give poor or no support for handling constant changes that is part of the normal workflow</li>
-                    </ul>
+                  
                   </div>
 
                           <div class="wpb_text_column wpb_content_element  "></div>
