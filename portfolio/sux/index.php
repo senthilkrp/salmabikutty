@@ -850,6 +850,23 @@
             </div>
           </div>
         </div> -->
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593862424">
+        <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid">
+                    <div class="vc_column-inner ">
+                      <div class="wpb_wrapper">
+                        <div class="wpb_text_column wpb_content_element  ">
+                          <div class="wpb_wrapper">
+                            <h4>DELIVERIES</h4>
+                            The pre-study gives good ground for a development project by
+                            <ol>
+                              <li>A well defined and described definition of user needs. Defined as insights, personas and user journeys with pain points and interaction diagram.</li>
+                              <li>A clear description of how the real life process deviates from the ideal process</li>
+                              <li>Validation on that the conceptual design is agreed and liked by users and shares great value for business</li>
+                            </ol>
+
 
 
                         <!--    <h5></h5>
@@ -960,46 +977,7 @@
                       </div>
                     </div>
                   </div> -->
-            <div data-midnight="dark-title"
-             class="row wpb_row row-fluid align-center full-width-row vc_custom_1481593522920">
-          <div class="wpb_column columns medium-12 thb-dark-column small-12">
-            <div class="vc_column-inner  ">
-              <div class="wpb_wrapper">
-                <div class="row wpb_row vc_inner row-fluid max_width align-center">
-                  <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
-                    <div class="vc_column-inner ">
-                      <div class="wpb_wrapper">
-                        <div class="wpb_text_column wpb_content_element  ">
-                          <div class="wpb_wrapper">
-                              <h4>ROUGH WIREFRAMES</h4>
-
-                          </div>
-                        </div>
-                        <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span>
-                        </div>
-                        <div id="thb-image-5c7d569a6cdc2"
-                             class="caption-style1 animation bottom-to-top alignleft full  thb_image_link wp-caption">
-                          <div class="thb-image-inner size_100">
-                            <img width="2129" height="560"
-                                 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                                 class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                                 sizes="(max-width: 2129px) 100vw, 2129px"
-                                 data-src="../../content/sux/rough_wireframe.png"
-                                 data-sizes="auto"
-                                 data-srcset="../../content/sux/rough_wireframe.png 2129w, ../../content/sux/rough_wireframe.png 768w, ../../content/sux/rough_wireframe.png 700w, ../../content/sux/rough_wireframe.png 600w"/>
-                          </div>
-                        </div>
-                          <div class="wpb_text_column wpb_content_element  "></div> <br> <br>
-
-                      </div>
-                    </div>
-                  </div>
                 </div>
-              </div>
-            </div>
-          </div>
-        </div>
-                
                 <div class="vc_empty_space" style="height: 80px"><span class="vc_empty_space_inner"></span></div>
                 <div class="row wpb_row vc_inner row-fluid">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
@@ -1053,25 +1031,6 @@
                   <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
                     class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
                 </div>
-                  
-                          <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593862424">
-        <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
-            <div class="vc_column-inner  ">
-              <div class="wpb_wrapper">
-                <div class="row wpb_row vc_inner row-fluid">
-                    <div class="vc_column-inner ">
-                      <div class="wpb_wrapper">
-                        <div class="wpb_text_column wpb_content_element  ">
-                          <div class="wpb_wrapper">
-                            <h4>DELIVERIES</h4>
-                            The pre-study gives good ground for a development project by
-                            <ol>
-                              <li>A well defined and described definition of user needs. Defined as insights, personas and user journeys with pain points and interaction diagram.</li>
-                              <li>A clear description of how the real life process deviates from the ideal process</li>
-                              <li>Validation on that the conceptual design is agreed and liked by users and shares great value for business</li>
-                            </ol>
-                            </div>
-
              <!--   <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
                 <div class="row wpb_row vc_inner row-fluid">
                   <div class="wpb_column columns medium-3 thb-dark-column small-12">
