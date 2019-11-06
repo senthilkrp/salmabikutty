@@ -503,7 +503,7 @@
                             <li>Legacy system limitations beside the repeated complaints from users </li>
                             <li>Poor communication among the internal staff</li>
                             <li>Lack of floor resource</li>
-                            <li>Administrator require multiple open screen to consolidate information 
+                            <li>Administrator require multiple open screen to consolidate information
                                 <ul>
                                       <li>Detail information for a parts or objects can be found in one system, but in another system that information cannot be found for the same object. This means that workshop staff is copying information between systems switching between systems, sometimes writing paper notes and sometime guessing, in order to speed up work</li>
                                       <li>Parts order have different names in different systems, It takes very long time to find information needed, not only because it is scattered in different systems, named differently, but also because of unclear information structure in each system</li>
@@ -511,7 +511,7 @@
                                 </ul>
                             </li>
                             </ol>
-                  
+
                   </div>
 
                           <div class="wpb_text_column wpb_content_element  "></div>
@@ -671,326 +671,66 @@
                          data-srcset="../../content/sux/concept_design.jpg 2032w, ../../content/sux/concept_design.jpg 768w, ../../content/sux/concept_design.jpg 700w, ../../content/sux/concept_design.jpg 600w"/>
                   </div>
                 </div>
-                <div class="vc_empty_space" style="height: 160px"><span class="vc_empty_space_inner"></span></div>
+                <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
               </div>
             </div>
           </div>
         </div>
-       <!-- <div data-midnight="dark-title" class="row wpb_row row-fluid no-row-padding full-width-row no-column-padding">
-          <div class="wpb_column columns medium-12 thb-dark-column small-12">
+
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593787477">
+          <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
-                <div id="thb-image-5c7d569a6f7c0" class="caption-style1  alignleft full  thb_image_link wp-caption">
-                  <div class="thb-image-inner size_100">
-                    <img width="1800" height="1023"
-                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                         sizes="(max-width: 1800px) 100vw, 1800px"
-                         data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/card_sorting.jpg"
-                         data-sizes="auto"
-                         data-srcset="http://ahmadalsultan.com/wp-content/uploads/2016/12/card_sorting.jpg 1800w, http://ahmadalsultan.com/wp-content/uploads/2016/12/card_sorting-768x436.jpg 768w, http://ahmadalsultan.com/wp-content/uploads/2016/12/card_sorting-700x398.jpg 700w, http://ahmadalsultan.com/wp-content/uploads/2016/12/card_sorting-600x341.jpg 600w"/>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593823784">
-          <div class="wpb_column columns animation bottom-to-top medium-12 large-9 medium-10 thb-dark-column small-12">
-            <div class="vc_column-inner  ">
-              <div class="wpb_wrapper">
-                <div class="wpb_text_column wpb_content_element  ">
-                  <div class="wpb_wrapper">
-                    <h4>Card Sorting &amp; Sitemap</h4>
-
-                  </div>
-                </div>
-
-                <div class="wpb_text_column wpb_content_element  ">
-                  <div class="wpb_wrapper">
-                    <p>To ensure that the site&#8217;s structure matches the user&#8217;s thinking. I asked users to
-                      group items into predetermined categories. This helped me form a site map for the website
-                      displaying the layout of the categories on the homepage.</p>
-
-                  </div>
-                </div>
-                <div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div>
-
-                <div class="wpb_text_column wpb_content_element  ">
-                  <div class="wpb_wrapper">
-                    <h4>Site Map</h4>
-
-                  </div>
-                </div>
-                <div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div>
-                <div id="thb-image-5c7d569a70057"
-                     class="caption-style1 animation bottom-to-top alignleft full  thb_image_link wp-caption">
-                  <div class="thb-image-inner size_100">
-                    <img width="1394" height="759"
-                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                         sizes="(max-width: 1394px) 100vw, 1394px"
-                         data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap.png" data-sizes="auto"
-                         data-srcset="http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap.png 1394w, http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap-768x418.png 768w, http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap-700x381.png 700w, http://ahmadalsultan.com/wp-content/uploads/2016/12/sitemap-600x327.png 600w"/>
-                  </div>
-                </div>
                 <div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div data-midnight="dark-title"
-             class="row wpb_row row-fluid align-center full-width-row vc_custom_1481593967381 row-has-fill">
-          <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
-            <div class="vc_column-inner  vc_custom_1481593838089">
-              <div class="wpb_wrapper">
-                <div class="row wpb_row vc_inner row-fluid">
-                  <div class="wpb_column columns medium-8 thb-dark-column small-12">
-                    <div class="vc_column-inner ">
-                      <div class="wpb_wrapper">
-                        <div class="wpb_text_column wpb_content_element  ">
-                          <div class="wpb_wrapper">
-                            <h4>Low Fidelity Wireframes</h4>
-                            <p>To improve the overall experience, when looking for a book, an easy and accessible search
-                              system will show up at all times, providing results filtered by books or authors.</p>
-                            <p>The user can discover new books by browsing through related content, which improves a
-                              reader’s experience and allows them to ultimately create their own wish lists.</p>
 
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                    <div class="vc_column-inner ">
-                      <div class="wpb_wrapper">
-                        <div id="thb-image-5c7d569a70b63"
-                             class="caption-style1 animation bottom-to-top right full  thb_image_link wp-caption">
-                          <div class="thb-image-inner size_100">
-                            <img width="600" height="599"
-                                 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                                 class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                                 sizes="(max-width: 600px) 100vw, 600px"
-                                 data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/low-fid.jpg"
-                                 data-sizes="auto"
-                                 data-srcset="http://ahmadalsultan.com/wp-content/uploads/2016/12/low-fid.jpg 600w, http://ahmadalsultan.com/wp-content/uploads/2016/12/low-fid-150x150.jpg 150w, http://ahmadalsultan.com/wp-content/uploads/2016/12/low-fid-300x300.jpg 300w"/>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481544601069 row-has-fill">
-          <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
-            <div class="vc_column-inner  vc_custom_1481593853034">
-              <div class="wpb_wrapper">
-                <div class="wpb_text_column wpb_content_element  ">
+                <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                   <div class="wpb_wrapper">
-                    <h4>Wireframes</h4>
-                    <p>After the several rounds of user testing on the lo-fi wireframes I created the final visual
-                      design of the website.</p>
-                      design of the website.</p>
+                    <h4>ROUGH WIREFRAMES</h4>
 
+                      <div class="thb-image-inner size_100">
+                    <img width="2032" height="100"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 2032px) 100vw, 2032px"
+                           data-src="../../content/sux/rough_wireframe.png" data-sizes="auto"
+                         data-srcset="../../content/sux/rough_wireframe.png 2032w, ../../content/sux/rough_wireframe.png 768w, ../../content/sux/rough_wireframe.png 700w, ../../content/sux/rough_wireframe.png 600w"/>
+                  </div> <br> <br>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
-                <div id="thb-image-slider-20"
-                     class="thb-image-slider slick thb-image-slider-style2 overflow  mfp-gallery dark-arrow "
-                     data-pagination="true" data-navigation="" data-center="0" data-columns="1" data-infinite="false"
-                     data-autoplay="" data-autoplay-speed="4000">
-                  <figure>
-                    <a href="../../content/sux/mockup_1.jpg">
-                      <img src="../../content/sux/mockup_1.jpg" class="lazyload"
-                           alt="Mock up"/>
-                    </a>
-                  </figure>
-                  <figure>
-                    <a href="../../content/sux/mockup_2.jpg">
-                      <img src="../../content/sux/mockup_2.jpg" class="lazyload"
-                           alt="Mock up"/>
-                    </a>
-                  </figure>
-                  <figure>
-                    <a href="../../content/sux/mockup_3.jpg">
-                      <img src="../../content/sux/mockup_3.jpg" class="lazyload"
-                           alt="Mock up"/>
-                    </a>
-                  </figure>
-                  <figure>
-                    <a href="../../content/sux/mockup_4.jpg">
-                      <img src="../../content/sux/mockup_4.jpg" class="lazyload"
-                           alt="Mock up"/>
-                    </a>
-                  </figure>
-                  <figure>
-                    <a href="../../content/sux/mockup_5.jpg">
-                      <img src="../../content/sux/mockup_5.jpg" class="lazyload"
-                           alt="Mock up"/>
-                    </a>
-                  </figure>
-                  <figure>
-                    <a href="../../content/sux/mockup_6.jpg">
-                      <img src="../../content/sux/mockup_6.jpg" class="lazyload"
-                           alt="final-screen_0000_shopping_cart"/>
-                    </a>
-                  </figure>
-                  <figure>
-                    <a href="../../content/sux/mockup_7.jpg">
-                      <img src="../../content/sux/mockup_7.jpg" class="lazyload"
-                           alt="final-screen_0005_checkout_page5"/>
-                    </a>
-                  </figure>
-                </div>
-                <div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-              </div>
-            </div>
-          </div>
-        </div> -->
-        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593862424">
-        <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
-            <div class="vc_column-inner  ">
-              <div class="wpb_wrapper">
-                <div class="row wpb_row vc_inner row-fluid">
-                    <div class="vc_column-inner ">
-                      <div class="wpb_wrapper">
-                        <div class="wpb_text_column wpb_content_element  ">
-                          <div class="wpb_wrapper">
-                            <h4>DELIVERIES</h4>
-                            The pre-study gives good ground for a development project by
-                            <ol>
-                              <li>A well defined and described definition of user needs. Defined as insights, personas and user journeys with pain points and interaction diagram.</li>
-                              <li>A clear description of how the real life process deviates from the ideal process</li>
-                              <li>Validation on that the conceptual design is agreed and liked by users and shares great value for business</li>
-                            </ol>
-
-
-
-                        <!--    <h5></h5>
-                            <h5>Error Recovery</h5>
-                            <p>Error messages have been designed to clearly communicate what went wrong and how to
-                              recover from it. Use of conversational language reduces frustration by taking the blame
-                              away from users.</p>
-
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                    <div class="vc_column-inner ">
-                      <div class="wpb_wrapper">
-                        <div id="thb-image-5c7d569a722fd"
-                             class="caption-style1 animation bottom-to-top right full  thb_image_link wp-caption">
-                          <div class="thb-image-inner size_100">
-                            <img width="606" height="540"
-                                 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                                 class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                                 data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/mvp.gif"
-                                 data-sizes="auto"/>
-                          </div>
-                        </div>
-                        <div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span>
-                        </div>
-                        <div id="thb-image-5c7d569a7260a"
-                             class="caption-style1 animation bottom-to-top alignleft full  thb_image_link wp-caption">
-                          <div class="thb-image-inner size_100">
-                            <img width="260" height="199"
-                                 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                                 class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                                 data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/error.jpg"
-                                 data-sizes="auto"/>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
         </div>
-        <div data-midnight="dark-title"
-             class="row wpb_row row-fluid no-row-padding full-width-row no-column-padding vc_custom_1481536445299 row-has-fill">
-          <div class="wpb_column columns medium-12 thb-dark-column small-12">
-            <div class="vc_column-inner  ">
-              <div class="wpb_wrapper">
-                <div id="thb-image-5c7d569a72b6f" class="caption-style1  alignleft full  thb_image_link wp-caption">
-                  <div class="thb-image-inner size_100">
-                    <img width="2700" height="1507"
-                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                         sizes="(max-width: 2700px) 100vw, 2700px"
-                         data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/user_testing.jpg"
-                         data-sizes="auto"
-                         data-srcset="http://ahmadalsultan.com/wp-content/uploads/2016/12/user_testing.jpg 2700w, http://ahmadalsultan.com/wp-content/uploads/2016/12/user_testing-768x429.jpg 768w, http://ahmadalsultan.com/wp-content/uploads/2016/12/user_testing-700x391.jpg 700w, http://ahmadalsultan.com/wp-content/uploads/2016/12/user_testing-600x335.jpg 600w"/>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481544328268 row-has-fill">
+
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593493981">
           <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
-            <div class="vc_column-inner  vc_custom_1481593872457">
+            <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
-                <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
-
-                <div class="wpb_text_column wpb_content_element  ">
-                  <div class="wpb_wrapper">
-                    <h4>User Testing</h4>
-                    <p>User testing with a clickable prototype helped identify user frustrations to address how to
-                      improve the page designs, navigation and flow. Here is some of the feedback and observations
-                      received from user testing:</p>
-
-                  </div>
+                <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
+                <div class="wpb_wrapper">
+                  <h4>PROTOTYPE</h4>
                 </div>
-                <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
+              </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593862424">
+        <div class="wpb_column columns medium-12 large-11 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid">
-                  <div class="wpb_column columns medium-6 thb-dark-column small-12">
                     <div class="vc_column-inner ">
                       <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element  ">
-                          <div class="wpb_wrapper">
-                            <h5>USER 1:</h5>
-                            <p>&#8211; He did not know how many items he added to the cart.</p>
 
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="wpb_column columns medium-6 thb-dark-column small-12">
-                    <div class="vc_column-inner ">
-                      <div class="wpb_wrapper">
-                        <div class="wpb_text_column wpb_content_element  ">
-                          <div class="wpb_wrapper">
-                            <h5>USER 2:</h5>
-                            <p>&#8211; She had a hard time finding about books she browsed and wanted to keep an eye
-                              on.</p>
-
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div> -->
-                </div>
-                <div class="vc_empty_space" style="height: 80px"><span class="vc_empty_space_inner"></span></div>
                 <div class="row wpb_row vc_inner row-fluid">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <div class="vc_column-inner ">
                       <div class="wpb_wrapper">
-                        <div class="wpb_text_column wpb_content_element  ">
-                          <div class="wpb_wrapper">
-                            <h4>PROTOTYPE</h4>
-                            <p>A working digital prototype of VAS Manager redesigns built in
-                              Invision.</p>
 
-                          </div>
-                        </div>
                         <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span>
                         </div>
 
@@ -998,10 +738,6 @@
                             class="wpb_video_widget wpb_content_element vc_clearfix  align-center  vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-center">
                           <div class="wpb_wrapper">
                               <div class="wpb_wrapper">
-
-
-
-
 
                            <div class="wpb_video_wrapper">
                               <div class="flex-video widescreen youtube">
@@ -1022,62 +758,32 @@
             </div>
           </div>
         </div>
-        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593883042">
-          <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
-            <div class="vc_column-inner  vc_custom_1481546343500">
-              <div class="wpb_wrapper">
-                <div
-                    class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey">
-                  <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span
-                    class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
-                </div>
-             <!--   <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
-                <div class="row wpb_row vc_inner row-fluid">
-                  <div class="wpb_column columns medium-3 thb-dark-column small-12">
-                    <div class="vc_column-inner ">
-                      <div class="wpb_wrapper">
-                        <div id="thb-image-5c7d569a74940"
-                             class="caption-style1 animation bottom-to-top alignleft   thb_image_link wp-caption">
-                          <div class="thb-image-inner size_100">
-                            <img width="500" height="497"
-                                 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                                 class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                                 sizes="(max-width: 500px) 100vw, 500px"
-                                 data-src="http://ahmadalsultan.com/wp-content/uploads/2016/12/continue_work.png"
-                                 data-sizes="auto"
-                                 data-srcset="http://ahmadalsultan.com/wp-content/uploads/2016/12/continue_work.png 500w, http://ahmadalsultan.com/wp-content/uploads/2016/12/continue_work-150x150.png 150w"/>
-                          </div>
-                        </div>
-                        <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="wpb_column columns medium-9 thb-dark-column small-12">
-                    <div class="vc_column-inner ">
-                      <div class="wpb_wrapper">
-                        <div class="wpb_text_column wpb_content_element  ">
-                          <div class="wpb_wrapper">
-                            <h4>Continuing Work</h4>
-                            <p>A next step would be to conduct more research on how people use the website, and how the
-                              interface should change based on their behaviors.</p>
-                            <h5>Business Pivot: Moving Into Mobile Platforms</h5>
-                            <p>To change is to grow. As The Last Bookstore is scaling, they may face a lot of
-                              challenges. With people switching to mobile devices and apps, it became increasingly
-                              important to prioritize development efforts and focus on strong points. As a result, a
-                              mobile app should be considered.</p>
 
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>-->
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
+
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481593493981">
+          <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
+                <div class="wpb_wrapper">
+                  <h4>DELIVERIES</h4>
+                  The pre-study gives good ground for a development project by
+                  <ol>
+                    <li>A well defined and described definition of user needs. Defined as insights, personas and user journeys with pain points and interaction diagram.</li>
+                    <li>A clear description of how the real life process deviates from the ideal process</li>
+                    <li>Validation on that the conceptual design is agreed and liked by users and shares great value for business</li>
+                  </ol>
+                </div>
+              </div>
+              </div>
+            </div>
+          </div>
+        </div>
     </article>
 
     <div class="portfolio_nav">
