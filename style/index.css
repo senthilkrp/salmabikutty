@@ -271,15 +271,15 @@ ul, ol {
     background-color: #f4f4f4;
 }
 
-.moderation h5  {
+.moderation h5, .recovery h5  {
     font-weight: 400;
     margin-top: 20px;
 }
-.moderation .post-content.black-bg h5 {
+.moderation .post-content.black-bg h5, .recovery .post-content.black-bg h5 {
     color:#bababa;
 }
 
-.moderation .quote {
+.moderation .quote, .recovery .quote {
     color: #4b8eca;
     font-weight: 600;
     text-align: center;
@@ -294,23 +294,23 @@ ul, ol {
     text-align: center
 }
 
-.moderation h2 {
+.moderation h2, .recovery h2 {
     color: white;
     text-align: left;
     font-weight: 400;
     margin-bottom: 0px;
 }
 
-.moderation h1 {
+.moderation h1, .recovery h1 {
     text-align: left;
     display: block;
 }
 
-.moderation .entry-header {
+.moderation .entry-header, .recovery .entry-header {
     margin-top: 200px;
 }
 
-.moderation .quoter {
+.moderation .quoter, .recovery .quoter {
     text-align: center;
     margin-bottom: 20px;
 }
@@ -333,3 +333,8 @@ ul, ol {
 .moderation .quote.appreciation {
     font-size: 1.1em;
 }
+
+.recovery h6 {
+    text-align: left;
+}
+

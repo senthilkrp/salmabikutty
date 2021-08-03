@@ -1,5 +1,5 @@
 <?php include '../../common/header.php';?>
-  <div role="main" class="cf">
+  <div role="main" class="recovery">
     <article itemscope itemtype="http://schema.org/Article"
              class="post portfolio-detail  post-831 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-category-tvos portfolio-category-ux-ui"
              role="article">
@@ -9,10 +9,11 @@
         <div class="parallax_bg"
              data-top-bottom="transform: translate3d(0px, 40%, 0px);"
              data-top="transform: translate3d(0px, 0%, 0px);"
-             style="background-image: url(../../content/vr/me.jpg);"></div>
+             style="background-image: url(../../content/moderation/cover.jpg);"></div>
         <header class="portfolio-title style1 entry-header">
           <div class="row align-center">
-            <div class="small-12 medium-10 large-7 columns">
+            <div class="small-12 medium-10 large-10 columns">
+              <h2>Redesign of</h2>
               <h1 class="entry-title" itemprop="name headline">Account Damage Recovery on Linkedin Profile</h1>                 <!-- <h4>Smart home
               control system – on your TV!</h4> -->
               <!-- <div class="portfolio-attributes ">
@@ -34,56 +35,145 @@
           <div></div>
         </div>
       </figure>
-      <div class="post-content">
+      <div class="post-content black-bg">
+                            
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
-          <div class="wpb_column columns medium-12 large-9 medium-10 thb-dark-column small-12">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left">
                     
-                  <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                      <h4>My role</h4>
-                  </div>
-                  <div class="wpb_column columns medium-8 thb-dark-column small-12">
-                      <p>I was the lead designer throughout the project cycle that includes project planning, conducting user research, concept ideation, aligning key stakeholders and cross functional team on design goals and functionalities, designing user flows, mocks, prototyping, user testing, incorporating user feedback into design iterations, and reviewing developer UI.</p>
+                    
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12 overview">
+                      <h5>OVERVIEW</h5>
+                      <p>
+Linkedin content moderation tool is one of the most critical tools used by GCO and TNS organisations for resolving member support requests and moderation of member reported content and profiles which are violating LinkedIn terms of service respectively. More than 2000 employees access this tool on a daily basis and this includes Contractors and Full-time employees.</p>
+
+<p>This is a multi phased project for ensuring that we make the right decision when redesigning the next generation content moderation tool, a platform used by the Trust and Safety team for threat prevention and responsive, abusive content enforecement, premium fraud mitigation and program management </p>
                   </div>
                     
-                  <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                      <h4>Project Summary</h4>
+                <div class="wpb_column columns medium-4 thb-dark-column small-12">
+                    <h5>ROLE</h5>
+                    <p>Product designer,<br>Full time</p>
+
+                </div>
+                <div class="wpb_column columns medium-8 thb-dark-column small-12">
+                    <h5>PERIOD</h5>
+                    <p>Phase 1 - Jan 2020 to Dec 2020<br>
+                    Phase 2 - Jan 2021 - Ongoing</p>
+                </div>
+                    
+                <div class="wpb_column columns medium-4 thb-dark-column small-12">
+                    <h5>PLATFORM</h5>
+                    <p>Web Application</p>
+
+                </div>
+                <div class="wpb_column columns medium-8 thb-dark-column small-12">
+                    <h5>ORGANISATION</h5>
+                    <p>Trust and Safety at Linkedin </p>                    
+                </div>
+        </div></div></div></div></div></div>
+                    
+        <div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+      
+                    
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                    <h5>MISSION</h5>
+                    <p>Redesigning to maximize content moderation efficiency and effectiveness</p>
+                </div>
+                    
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>My role</h5>
                   </div>
-                  <div class="wpb_column columns medium-8 thb-dark-column small-12">
-                      <p>With more than half a billion members on the platform, LinkedIn has become a lucrative target for bad actors to launch and spread phishing attacks, scams, and spam. We restrict more than 100K accounts and notice 2.1K account compromise every week, which impacts our members as well as damages trust in Linkedin.</p>
-                      <p>This project is to create a service for LI agents to revoke sessions used by bad actor on member profile in Linkedin platform to mitigate the damage to their reputation</p>
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">                      
+<p>I was the lead designer throughout the project cycle that includes project planning, conducting user research, concept ideation, aligning key stakeholders and cross functional team on design goals and functionalities, designing user flows, mocks, prototyping, user testing, incorporating user feedback into design iterations, and reviewing developer UI.</p>
+                  </div>
+                </div></div></div></div></div></div>
+                    
+        <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+      
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>Project Summary</h5>
+                  </div>
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">         
+<p>With more than half a billion members on the platform, LinkedIn has become a lucrative target for bad actors to launch and spread phishing attacks, scams, and spam. We restrict more than 100K accounts and notice 2.1K account compromise every week, which impacts our members as well as damages trust in Linkedin.</p>
+
+<p>This project is to create a service for LI agents to revoke sessions used by bad actor on member profile in Linkedin platform to mitigate the damage to their reputation</p>
                   </div>
                     
-                  <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                      <h4>The Problem</h4>
+                </div></div></div></div></div></div>
+                    
+        <div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                    
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>The Problem</h5>
                   </div>
-                  <div class="wpb_column columns medium-8 thb-dark-column small-12">
-                      <p>Every Account Takeover (ATO) or a Account Compromise (ACO) incident leads to a loss in the trust that the member has on our platform and also a bad member experience for the victim of the account takeover as well as for other members who interact with the compromised account.These bad actors do a variety of damage to the member’s account. And today, Linkedin does not have an option to undo a majority of the damage done to their connections or their Linkedin profile.</p>
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <p>Every Account Takeover (ATO) or a Account Compromise (ACO) incident leads to a loss in the trust that the member has on our platform and also a bad member experience for the victim of the account takeover as well as for other members who interact with the compromised account.These bad actors do a variety of damage to the member’s account. And today, Linkedin does not have an option to undo a majority of the damage done to their connections or their Linkedin profile.</p>                      
+                  </div>                  
+                  </div></div></div></div></div></div>
+                    
+        <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                    
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>User requirement</h5>
+<p>The user base for this project are from the Member and Safety recovery team at Linkedin who verify and interact with members. They usually help members to regain access to their profile when their account is compromised or restricted. The main requirement from MSR team is to enable functionality in the tool to clean up bad activities on the member profile.</p>
+                  </div>                                    
+                </div></div></div></div></div></div>
+                    
+        <div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                    
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>Member voice</h5>
+                      <p class="quote">“I am getting numerous in-mails as I am sending them. <b>It is fraud messages that are killing my reputation!!! Please, resolve it ASAP!"</b></p>                      
+                      <p class="quote">“Hi please note that I received an email on July 25th, 2020 that my password has been changed though it wasn't done by me. I reset the password and logged in and noticed that my profile pic was updated and many fake messages were sent from my account to unknown connections and to my friends as well. Today on July 26, 2020 I logged in back and I am seeing still some activities being done from my account and messages are sent (which is not me obviously) though I have already reset my password and also turned on two factor authentication. <b>Please check if someone still has access to my account and how to get rid of the messages, please let me know next steps”</b></p>
+                      <p class="quote">“September 18, 2019 my account was hacked and a very large number of messages were sent under my account. I reported this as Case: 1OBFUSCATED_PHONE. LinkedIn quickly secured my account but <b>indicated that there was no way to retrieve the messages that the hacker sent.</b> Ever since them that message keeps popping up when I receive notifications about birthdays, job changes, promotions, etc. So I then have to explain the hacker situation at the same time that I send the congratulations message. After all, I do want people to take my messages, and my company, seriously. I am preparing for a major new product announcement so I went looking for ways to find the hacked messages and correct the situation. I found that if I archive all more recent messages in my inbox I could eventually get back to those messages sent on Sep 18th and send a message to let my contact know what we really do. That was going well until retrieving messages stopped working. If I search for Field-Agent which is a term that the hacker used I can get back as far as Oct 2, 2019 and then the message retrieval process seems like it gets stuck”</p>
+                      
                   </div>
                     
-                  <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                      <h4>User requirement</h4>
-                  </div>
-                  <div class="wpb_column columns medium-8 thb-dark-column small-12">
-                      <p>The user base for this project are from the Member and Safety recovery team at Linkedin who verify and interact with members. They usually help members to regain access to their profile when their account is compromised or restricted. The main requirement from MSR team is to enable functionality in the tool to clean up bad activities on the member profile.</p>                      
-                  </div>
+                </div></div></div></div></div></div>
                     
-                  <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                      <h4>Member voice</h4>
-                  </div>
-                  <div class="wpb_column columns medium-8 thb-dark-column small-12">
-                      <p><i>“I am getting numerous in-mails as I am sending them. <b>It is fraud messages that are killing my reputation!!! Please, resolve it ASAP!</b>"</i></p>                      
-                      <p><i>“Hi please note that I received an email on July 25th, 2020 that my password has been changed though it wasn't done by me. I reset the password and logged in and noticed that my profile pic was updated and many fake messages were sent from my account to unknown connections and to my friends as well. Today on July 26, 2020 I logged in back and I am seeing still some activities being done from my account and messages are sent (which is not me obviously) though I have already reset my password and also turned on two factor authentication. <b>Please check if someone still has access to my account and how to get rid of the messages, please let me know next steps</b>” </i></p>
-                      <p><i>“September 18, 2019 my account was hacked and a very large number of messages were sent under my account. I reported this as Case: 1OBFUSCATED_PHONE. LinkedIn quickly secured my account but <b>indicated that there was no way to retrieve the messages that the hacker sent</b>. Ever since them that message keeps popping up when I receive notifications about birthdays, job changes, promotions, etc. So I then have to explain the hacker situation at the same time that I send the congratulations message. After all, I do want people to take my messages, and my company, seriously. I am preparing for a major new product announcement so I went looking for ways to find the hacked messages and correct the situation. I found that if I archive all more recent messages in my inbox I could eventually get back to those messages sent on Sep 18th and send a message to let my contact know what we really do. That was going well until retrieving messages stopped working. If I search for Field-Agent which is a term that the hacker used I can get back as far as Oct 2, 2019 and then the message retrieval process seems like it gets stuck”</i></p>
-                  </div>
-                  
-                  <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                      <h4>Approach</h4>
-                  </div>
-                  <div class="wpb_column columns medium-8 thb-dark-column small-12">
-                      <h5>Research - Scope definition and limitation - Design - Review - Iterate - Test </h5>
+        <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                    
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>Approach </h5>                                            
+                      <h6>Research - Scope definition and limitation - Design - Review - Iterate - Test</h6>
                       <p>I started my investigation by reading and analysing member's requests and messages on suspicious activities on their profile or requesting for access on their restricted accounts. This helped me to understand how they knew about their account being hacked.</p>                                            
                       <ul>
                           Typically Linkedin blocks the account if the
@@ -91,84 +181,97 @@
                         <li>Other members reports the content </li>
                         <li>Member themself realise their account is been hacked</li>
                       </ul>
-                   </div>   
-                <div class="wpb_column columns large-12 medium-12 ">
-                  <div class="thb-image-inner size_100 full-width">
-                    <img width="1920" height="1052"
+                      <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/stages.png" data-sizes="auto"
                          data-srcset="../../content/recovery/stages.png 1920w, ../../content/recovery/stages.png 768w, ../../recovery/stages.png 700w, ../../recovery/stages.png 600w"/>
+                      
+                      <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                        <p>Then I continued to probe the current process on how the members’ request was addressed. This gave me an understanding of the standard process followed on various instances.</p>
 
+                        <p>Today, Linkedin supports members to regain access to their hacked account and suggest to secure their account by resetting the PW on the email service provider and LI account. However, Linkedin today is unable to clean up the damage created by the bad actor and member’s need to deal with their profile damage on their own.</p>
+                        </div>
                   </div>
-                </div>
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12">
-                <p>Then I continued to probe the current process on how the members’ request was addressed. This gave me an understanding of the standard process followed on various instances.</p>
-
-                <p>Today, Linkedin supports members to regain access to their hacked account and suggest to secure their account by resetting the PW on the email service provider and LI account. However, Linkedin today is unable to clean up the damage created by the bad actor and member’s need to deal with their profile damage on their own.</p>
-                </div>
-                <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                <div class="wpb_column columns large-12 medium-12 ">
-                  <div class="thb-image-inner size_100 full-width">
+                    
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                    
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                    <div class="thb-image-inner size_100 full-width">
                     <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/ato_current.png" data-sizes="auto"
                          data-srcset="../../content/recovery/ato_current.png 1920w, ../../content/recovery/ato_current.png 768w, ../../recovery/ato_current.png 700w, ../../recovery/ato_current.png 600w"/>
+                    <p>The next step involved to understand what the extended process should be like - </p>
+
+                    <p>The product manager helped to bring in stakeholders and reps who were associated with this product and we conducted several meetings to define the process, limitations and align on the scope for this project.</p>
 
                   </div>
-                </div>
-                </div>
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12">                
-                <p>The next step involved to understand what the extended process should be like - </p>
-
-                <p>The product manager helped to bring in stakeholders and reps who were associated with this product and we conducted several meetings to define the process, limitations and align on the scope for this project.</p>
-                </div>
-                
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                <h5>Project scope</h5>
-                </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12">                      
+                  </div> 
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                       <h5>Project scope</h5>
+<p>When a member recovers access to their account after restriction then provide an option to members ability to initiate a damage recovery request through Linkedin help center.</p>
+                      <p>
+                          For simple and easy understanding, i created storyboard so i and the team can understand the overall scenario on how the extended service will be like.
+                      </p>
+                  </div>
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>Member perspective</h5>
                       
-                <p>When a member recovers access to their account after restriction then provide an option to members ability to initiate a damage recovery request through Linkedin help center.</p>                      
-                <p>For simple and easy understanding, i created storyboard so i and the team can understand the overall scenario on how the extended service will be like.</p>
-                </div>
-                
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                <h5>Member perspective</h5>
-                </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12"></div>                
-                <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                <img width="1920" height="1052"
+                      <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/member_perspective.png" data-sizes="auto"
-                         data-srcset="../../content/recovery/member_perspective.png 1920w, ../../content/recovery/member_perspective.png 768w, ../../recovery/member_perspective.png 700w, ../../recovery/member_perspective.png 600w"/>
-                <br><br>
-                </div>                
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                <h5>LI Agent perspective</h5>
-                </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12"></div>
-                <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                <img width="1920" height="1052"
+                         data-srcset="../../content/recovery/member_perspective.png 1920w, ../../content/recovery/member_perspective.png 768w, ../../recovery/member_perspective.png 700w, ../../recovery/member_perspective.png 600w"/><br><br>
+                  </div>
+                 </div></div></div></div></div></div>
+                    
+        <div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>LI Agent perspective</h5>
+                      <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/li_agent_perspective.png" data-sizes="auto"
                          data-srcset="../../content/recovery/li_agent_perspective.png 1920w, ../../content/recovery/li_agent_perspective.png 768w, ../../recovery/li_agent_perspective.png 700w, ../../recovery/li_agent_perspective.png 600w"/>
-                <br><br>
-                </div>
-                <div class="wpb_column columns medium-4 thb-dark-column small-12"></div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12">
-                <p>I created flow on the potential use cases and conducted meeting with product partners to verify and discuss the gaps involved the process </p>
+                      <p>I created flow on the potential use cases and conducted meeting with product partners to verify and discuss the gaps involved the process </p>
                       
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -235,26 +338,40 @@
 <li>What will happen to the record when the session is revoked ? Engg confirmed there will be a duplicate session ID with newer insights </li>
 
 That’s not something we need as part of good experience. Such scenario can lead to confusion for reviewers and might need to verify with date and action on the latest query</ol>
-                </div>                
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                <h5>Iteration: 1</h5>
-                </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12">                
-<p>Went back to the drawing board and came up with newer approach of tab solution to introduced Revoke history page</p>
+                      
+                  </div>
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>Iteration: 1</h5>
+                      <p>Went back to the drawing board and came up with newer approach of tab solution to introduced Revoke history page</p>
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/iteration_1.png" data-sizes="auto"
                          data-srcset="../../content/recovery/iteration_1.png 1920w, ../../content/recovery/iteration_1.png 768w, ../../recovery/iteration_1.png 700w, ../../recovery/iteration_1.png 600w"/>
-                <br><br>
-                </div>                
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                <h5>Iteration: 2 </h5>
-                </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12">                
-                                
-<p>This version included filter requirement because the session can hold data upto 3 months and for the revoke history page for new actions to retry and undo the action.</p>
+                <br><br>                                            
+                  </div>
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12 wireframes">
+                      <h5>Iteration: 2 </h5>
+                      <p>This version included filter requirement because the session can hold data upto 3 months and for the revoke history page for new actions to retry and undo the action.</p>
                  <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -262,12 +379,19 @@ That’s not something we need as part of good experience. Such scenario can lea
                          data-src="../../content/recovery/iteration_2.png" data-sizes="auto"
                          data-srcset="../../content/recovery/iteration_2.png 1920w, ../../content/recovery/iteration_2.png 768w, ../../recovery/iteration_2.png 700w, ../../recovery/iteration_2.png 600w"/>
                 <br><br>
-                </div>                
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                <h5>Iteration: 3 </h5>
-                </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12">                                
-                <p>The activity view was changed from list of activities to insights</p>
+                  </div>
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>Iteration: 3</h5>
+                      <p>The activity view was changed from list of activities to insights</p>
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -275,13 +399,20 @@ That’s not something we need as part of good experience. Such scenario can lea
                          data-src="../../content/recovery/iteration_3.png" data-sizes="auto"
                          data-srcset="../../content/recovery/iteration_3.png 1920w, ../../content/recovery/iteration_3.png 768w, ../../recovery/iteration_3.png 700w, ../../recovery/iteration_3.png 600w"/>
                 <br><br>
-                </div>                
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                <h5>Iteration: 4</h5>
-                </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12">                                
-                
-<p>The insights in the viewer made MSR agents happy to see the useful information. This gave them an ability to judge the profile and also confidence to communicate with member</p>
+                  </div>
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>Iteration: 4</h5>
+
+                     <p>The insights in the viewer made MSR agents happy to see the useful information. This gave them an ability to judge the profile and also confidence to communicate with member</p>
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -289,12 +420,23 @@ That’s not something we need as part of good experience. Such scenario can lea
                          data-src="../../content/recovery/iteration_4.png" data-sizes="auto"
                          data-srcset="../../content/recovery/iteration_4.png 1920w, ../../content/recovery/iteration_4.png 768w, ../../recovery/iteration_4.png 700w, ../../recovery/iteration_4.png 600w"/>
                 <br><br>
-                    </div>                
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                <h5>Iteration: 5</h5>
-                </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12">                                                                    
-<p>Now since communicating the insights were possible, then communicating the status also became a requirement. Design included status over activity count as we learnt the activity count was not so useful information to have on the table view</p>
+
+                      
+                   </div>                   
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                    <h5>Iteration: 5</h5>
+
+                    
+                    <p>Now since communicating the insights were possible, then communicating the status also became a requirement. Design included status over activity count as we learnt the activity count was not so useful information to have on the table view</p>
                   <img width="1920" height="1052"
                      src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                      class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -309,11 +451,20 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <p>To my surprise, Engineering and product agreed to build the product from scratch, because it involved the same effort and adapting to the newer UI can help to build the product faster using the Linkedin library components.</p>
 
                 <p>It was a task for me to redo all the screens but still was a satisfactory task to complete. This way, the project got the Linkedin design system with a better UI experience.</p>
-                </div>                
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
+                </div>    
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">
                 <h5>Sample view: </h5>
                 </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12">                                                                                           
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">                                                                                           
                 <img width="1920" height="1052"
                      src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                      class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -321,13 +472,20 @@ That’s not something we need as part of good experience. Such scenario can lea
                      data-src="../../content/recovery/revoke_successful.png" data-sizes="auto"
                      data-srcset="../../content/recovery/revoke_successful.png 1920w, ../../content/recovery/revoke_successful.png 768w, ../../recovery/revoke_successful.png 700w, ../../recovery/revoke_successful.png 600w"/>
                 <br><br>
-                </div>                
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                <h5>All screens: </h5>
                 </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12">                                        
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">
                 
-<p>This was definitely not a final iteration process—we had to account for every team and continual feedback from leadership. We also did in-person and remote testing which helped to make sure we were solving actual problems for our users. I conducted weekly sessions that helped us to validate, test ideas and iterate quickly.</p>
+                <h5>All screens:</h5>
+                   <p>This was definitely not a final iteration process—we had to account for every team and continual feedback from leadership. We also did in-person and remote testing which helped to make sure we were solving actual problems for our users. I conducted weekly sessions that helped us to validate, test ideas and iterate quickly.</p>
                 <img width="1920" height="1052"
                      src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                      class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -335,13 +493,20 @@ That’s not something we need as part of good experience. Such scenario can lea
                      data-src="../../content/recovery/all_screens.png" data-sizes="auto"
                      data-srcset="../../content/recovery/all_screens.png 1920w, ../../content/recovery/all_screens.png 768w, ../../recovery/all_screens.png 700w, ../../recovery/all_screens.png 600w"/>
                 
-                <br><br>
-                </div>                
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                <h5>High fidelity prototype:</h5>
-                </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12">                                         
+                <br><br>     
 
+                </div>
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                    <h5>High fidelity prototype:</h5>
 <p>Finally, we asked three participants from each location to test out a high fidelity prototype. We asked each of them to complete 3 tasks to revoke, retry and undo tasks that utilizes primary features of the app and to think aloud the experience, thoughts or ideas regarding the prototype.</p>
                 <a href="#">Prototype link here</a>
                 <p>Over all, the project received good feedback and on signing off on design, the development team kickstarted on the design. Where I got involved to review the dev version of the design and hoping to have this experience launched in a month or so.</p>
@@ -354,31 +519,39 @@ That’s not something we need as part of good experience. Such scenario can lea
                      data-srcset="../../content/recovery/issues.png 1920w, ../../content/recovery/issues.png 768w, ../../recovery/issues.png 700w, ../../recovery/issues.png 600w"/>
                 
                 <br><br>
-                </div>                
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                <h5>Key metrics after launch</h5>
-                </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12">                                                                               
 
-                      <ul>
+                </div>
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                    <h5>Key metrics after launch</h5>
+ <ul>
                           <li>Damage recovery rate (%Members initiating damage recovery)</li>
                           <li>MVP: Qualitative member interviews to understand feedback + Quantitative survey to understand satisfaction (depending on MR bandwidth)  Post damage recovery engagement rate</li>
                           <li>TTR (time to resolve) for tracking only</li>
                       </ul>
+                </div>
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                    <h5>Learnings:</h5>
                 </div>                
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                <h5>Learnings:</h5>
-                </div>
-                <div class="wpb_column columns medium-8 thb-dark-column small-12">                                                        
-
-                </div>                 
-
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>            
+                </div></div></div></div></div></div>
+                   
   </article>
 
   <div class="portfolio_nav">
