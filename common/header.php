@@ -13,6 +13,10 @@
   <link rel='dns-prefetch' href='http://s.w.org/'/>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <script type="text/javascript">
+    window.onload = function() {
+        var elements = document.querySelectorAll( '.thb_image' );
+        Intense( elements );
+    }
     window._wpemojiSettings = {
       "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/",
       "ext": ".png",
@@ -292,6 +296,7 @@
   </script>
   <script src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.mine248.js?ver=3.5.4'></script>
   <script src='/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-carte23c.js?ver=5.7'></script>
+  <script src='/wp-includes/js/intense.min.js'></script>
   <script src='https://use.typekit.net/sxn8doo.js'></script>
   <script type='text/javascript'>
     try {

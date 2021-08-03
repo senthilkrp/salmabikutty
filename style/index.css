@@ -246,7 +246,7 @@ p {
     font-size:18px;
 }
 
-.iconbox-content h5 {
+.iconbox-content h5 {    
   color: #d3d3d3;
 }
 
@@ -260,4 +260,76 @@ ul, ol {
 
 .parallax .parallax_bg {
   opacity: 0.5;
+}
+
+.post-content.black-bg {
+    background-color: black;
+    color: #b7b7b7;
+}
+
+.post-content.grey-bg {
+    background-color: #f4f4f4;
+}
+
+.moderation h5  {
+    font-weight: 400;
+    margin-top: 20px;
+}
+.moderation .post-content.black-bg h5 {
+    color:#bababa;
+}
+
+.moderation .quote {
+    color: #4b8eca;
+    font-weight: 600;
+    text-align: center;
+    font-size: 1.4em;
+    margin-top: 20px;
+    font-style: italic; 
+    margin-bottom: 10px;
+}
+
+.moderation .not-well {
+    margin-top: 5px;
+    text-align: center
+}
+
+.moderation h2 {
+    color: white;
+    text-align: left;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+
+.moderation h1 {
+    text-align: left;
+    display: block;
+}
+
+.moderation .entry-header {
+    margin-top: 200px;
+}
+
+.moderation .quoter {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.moderation td {
+    text-align: center;
+}
+
+.moderation .wireframes img {
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+.moderation .quoter.appreciation {
+    font-weight: 400;
+    font-size: 1.1em;
+    margin-bottom: 60px;
+}
+
+.moderation .quote.appreciation {
+    font-size: 1.1em;
 }
