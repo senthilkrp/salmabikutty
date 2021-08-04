@@ -202,13 +202,13 @@
         <h6>SOME CLIENTS I WORKED WITH</h6>
       </div>
       <div class="row product-logos">
-        <div class="product-logo offset-md-2 col-md-2">
-          <img class="linkedin-logo" src="content/brand_logo/linkedin_logo.png"/>
+        <div class="product-logo col-md-2">
+          <img class="linkedin-logo" src="content/brand_logo/linkedin.jpg"/>
         </div>
-        <div class="product-logo offset-md-2 col-md-2">
-          <img class="vmware-logo" src="content/brand_logo/vmware_logo.png"/>
+        <div class="product-logo col-md-2">
+          <img class="vmware-logo" src="content/brand_logo/vmware.jpg"/>
         </div>
-        <div class="product-logo offset-md-2 col-md-2">
+        <div class="product-logo col-md-2">
           <img class="volvo-logo" src="content/brand_logo/volvo_logo.png"/>
         </div>
         <div class="product-logo col-md-2">
