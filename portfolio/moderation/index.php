@@ -219,11 +219,15 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                 <div class="row wpb_row vc_inner row-fluid text-left">
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <p class="quote">“I absolutely love it. I feel like I am  making a difference because I am taking that stuff down for others not to see.  It is very rewarding.”</p>
-                      <div class="quoter">Reviewer</div>
-                      <p class="quote">“This job is a fun and interesting way to see how the world is interacting with each other.”</p>
-                      <div class="quoter">Reviewer</div>                                            
-                  </div>
+                      <div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote">“I absolutely love it. I feel like I am  making a difference because I am taking that stuff down for others not to see.  It is very rewarding.”</p></blockquote>
+                            <cite><span>Reviewer</span><br><br></cite></div></div>                                                      
+                      <div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote">“This job is a fun and interesting way to see how the world is interacting with each other.”</p></blockquote>
+                      <cite><span>Reviewer</span><br><br>                                                      
+                          </div></div>
                     </div></div></div></div></div></div>
                     
         <div class="post-content grey-bg">
@@ -491,10 +495,16 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          data-srcset="../../content/moderation/critical_high_pri.png 1920w, ../../content/moderation/critical_high_pri.png 768w, ../../content/moderation/critical_high_pri.png 700w, ../../content/moderation/critical_high_pri.png 600w"/>
                       </div><br>
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <p class="quote">“Just tell me which ones need to be worked.”</p>
-                      <div class="quoter">Reviewer</div>
-                      <p class="quote">“The easiest way for me to get unassigned, unworked tickets that are getting out of SLA.  The quicker I can get access to that list and the less I have to click the better.”</p>
-                      <div class="quoter">Reviewer</div>
+                      <div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote">“Just tell me which ones need to be worked.”</p></blockquote>
+                      <cite><span>Reviewer</span><br><br></cite>
+                          </div></div>
+                      <div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote">“The easiest way for me to get unassigned, unworked tickets that are getting out of SLA.  The quicker I can get access to that list and the less I have to click the better.”</p></blockquote>
+                      <cite><span>Reviewer</span><br><br></cite>
+                          </div></div>
                       </div>
                       
                    </div>                   
@@ -555,10 +565,14 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          data-src="../../content/moderation/translation_quality.png" data-sizes="auto"
                          data-srcset="../../content/moderation/translation_quality.png 1920w, ../../content/moderation/translation_quality.png 768w, ../../content/moderation/translation_quality.png 700w, ../../content/moderation/translation_quality.png 600w"/>
                     
-                <p class="quote">“Sometimes it can get overwhelming when you have 10 tabs open at the same time.”</p>
-                <div class="quoter">Reviewer</div>
-                <p class="quote">“If something happens and the reviewer is unable to continue to work on the queue, there is no way to unassign the items.” </p>
-                <div class="quoter">Reviewer</div>
+                <div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote">Sometimes it can get overwhelming when you have 10 tabs open at the same time.”</p></blockquote>
+                            <cite><span>Reviewer</span><br><br></cite></div></div>
+                <div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote">If something happens and the reviewer is unable to continue to work on the queue, there is no way to unassign the items.” </p></blockquote>
+                            <cite><span>Reviewer</span><br><br></cite></div></div>
 
                 </div>
                     </div></div></div></div></div></div>
@@ -712,10 +726,14 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                         <li>CSAT has improved from 2.9 to 3.5 due to the Auto blur/Auto grayscale feature and launch of a new workbench.</li>
                     </ul>
                     <h5>USER FEEDBACK</h5>
-                    <p class="quote">“I wanted to reach out and thank all those responsible for making Workbench such a great tool to work with! I personally find it easier and less time consuming than the other options available. Job well done, team” </p>
-                    <div class="quoter">Reviewer</div>
-                    <p class="quote">“ I've been working on the Workbench since a quarter now. What I've noticed as one of the initial reviewers: an improvement in the UI, and few integrations of important functionalities of inspector. The member section of the WB is surely helpful by limiting cursor travel to different tabs. The visual organisation of basic information required for a review is a huge step up from inspector. Lastly, ability to translate content within the tool is a lifesaver. Kudos to the team for that.” </p>
-                    <div class="quoter">Reviewer</div>
+                    <div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote">I wanted to reach out and thank all those responsible for making Workbench such a great tool to work with! I personally find it easier and less time consuming than the other options available. Job well done, team” </p></blockquote>
+                            <cite><span>Reviewer</span><br><br></cite></div></div>
+                    <div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote">I've been working on the Workbench since a quarter now. What I've noticed as one of the initial reviewers: an improvement in the UI, and few integrations of important functionalities of inspector. The member section of the WB is surely helpful by limiting cursor travel to different tabs. The visual organisation of basic information required for a review is a huge step up from inspector. Lastly, ability to translate content within the tool is a lifesaver. Kudos to the team for that.” </p></blockquote>
+                            <cite><span>Reviewer</span><br><br></cite></div></div>
 
                 </div>
                 </div></div></div></div></div></div>
@@ -748,18 +766,28 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>APPRECIATION</h5>
                     <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                    <p class="quote appreciation">“Hello Salma! Just wanted to say a BIG THANKS for a job very well done. The deck was clear, concise, and easy to understand. The demo and mock ups brought the amazing progress of the team to life. More important, I've heard many times since the meeting the presentation and progress by the team referenced. We'll call that SUCCESS! Thank you all for the work that went into it!”</p>
-                    <p class="quoter appreciation">Product Vice President</p>
+                    <div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote appreciation">“Hello Salma! Just wanted to say a BIG THANKS for a job very well done. The deck was clear, concise, and easy to understand. The demo and mock ups brought the amazing progress of the team to life. More important, I've heard many times since the meeting the presentation and progress by the team referenced. We'll call that SUCCESS! Thank you all for the work that went into it!”</p></blockquote>
+                            <cite><span>Product Vice President</span><br><br></cite></div></div>
  
-<p class="quote appreciation">The Trust Council Meeting where we reviewed Neuron 1.0 truly demonstrated how amazing a job you are doing on a huge, complex and high-profile project. The thoughtful process of working closely with our TnS users has truly led to an amazing upgrade to the experience that will fundamentally change the work-lives of many of our coworkers and the impact will be evident across the ecosystem. Thank you so much for your hard work and congrats on an awesome review with the Trust Council! They were singing your praises!  </p>
-                        <p class="quoter appreciation">Design Manager</p>
+<div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote appreciation">The Trust Council Meeting where we reviewed Neuron 1.0 truly demonstrated how amazing a job you are doing on a huge, complex and high-profile project. The thoughtful process of working closely with our TnS users has truly led to an amazing upgrade to the experience that will fundamentally change the work-lives of many of our coworkers and the impact will be evident across the ecosystem. Thank you so much for your hard work and congrats on an awesome review with the Trust Council! They were singing your praises!  </p></blockquote>
+                            <cite><span>Design Manager</span><br><br></cite></div></div>
 
-<p class="quote appreciation">Salma joined the Neuron Crew at a crucial time where the team was figuring out on the scope of the project and translating the user research feedback to requirements, she came up to speed in less turnaround time, embraced the domain and made significant progress!!! Keep up your great work Salma!! 
- </p><p class="quoter appreciation">Project Manager</p>
+<div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote appreciation">Salma joined the Neuron Crew at a crucial time where the team was figuring out on the scope of the project and translating the user research feedback to requirements, she came up to speed in less turnaround time, embraced the domain and made significant progress!!! Keep up your great work Salma!! 
+                                </p></blockquote><cite><span>Project Manager</span><br><br></cite></div></div>
 
-<p class="quote appreciation">“Salma has been nothing short of exceptional since the day she has joined us. Despite being the only designer for a 20+ member engineering team she has hardly said no to anything that has come her way. Her Contribution and dedication on Project Neuron has been extraordinary. She is a wonderful collaborator and has formed some amazing bonds with the folks she has worked with. I have always appreciated her for her calm demeanor and for handling all the pressure situations with great poise. A marathon project like Neuron has stayed green because of her relentless efforts and thoughtfulness to everything she has picked. One of the most key players of the Neuron team who inspires excellence to each one of us.” </p><p class="quoter appreciation">Engineering Manager</p>
+<div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote appreciation">“Salma has been nothing short of exceptional since the day she has joined us. Despite being the only designer for a 20+ member engineering team she has hardly said no to anything that has come her way. Her Contribution and dedication on Project Neuron has been extraordinary. She is a wonderful collaborator and has formed some amazing bonds with the folks she has worked with. I have always appreciated her for her calm demeanor and for handling all the pressure situations with great poise. A marathon project like Neuron has stayed green because of her relentless efforts and thoughtfulness to everything she has picked. One of the most key players of the Neuron team who inspires excellence to each one of us.” </p></blockquote><cite><span>Engineering Manager</span><br><br></cite></div></div>
 
-<p class="quote appreciation">“Cheers, Salma, Your work was critical for the success of Neuron workbench 1.0, you went above and beyond spending a lot of your time (including personal time) to meet many of our unrealistic requests during the course of the project. This helped us reach our milestones and deliver a product and a user experience that we can be proud of. Thanks again for the countless hours you spend gathering and clarifying requirements, and coming up with mocks for features that were not originally in scope. Looking forward to Workbench 2.0 :)”</p><p class="quoter appreciation">Engineering Lead</p>
+<div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote appreciation">“Cheers, Salma, Your work was critical for the success of Neuron workbench 1.0, you went above and beyond spending a lot of your time (including personal time) to meet many of our unrealistic requests during the course of the project. This helped us reach our milestones and deliver a product and a user experience that we can be proud of. Thanks again for the countless hours you spend gathering and clarifying requirements, and coming up with mocks for features that were not originally in scope. Looking forward to Workbench 2.0 :)”</p></blockquote><cite><span>Engineering Lead</span><br><br></cite></div></div>
 
                 </div>                
                 </div>

@@ -274,6 +274,7 @@ ul, ol {
 .moderation h5, .recovery h5  {
     font-weight: 400;
     margin-top: 20px;
+    text-transform: uppercase;
 }
 .moderation .post-content.black-bg h5, .recovery .post-content.black-bg h5 {
     color:#bababa;
@@ -282,14 +283,14 @@ ul, ol {
 .moderation .quote, .recovery .quote {
     color: #4b8eca;
     font-weight: 600;
-    text-align: center;
-    font-size: 1.4em;
+    text-align: justify;
+    font-size: 1.3em;
     margin-top: 20px;
     font-style: italic; 
     margin-bottom: 10px;
 }
 
-.moderation .not-well {
+.recovery .not-well, .moderation .not-well {
     margin-top: 5px;
     text-align: center
 }
@@ -304,7 +305,9 @@ ul, ol {
 .moderation h1, .recovery h1 {
     text-align: left;
     display: block;
+    font-size: 36px;
 }
+
 
 .moderation .entry-header, .recovery .entry-header {
     margin-top: 200px;
@@ -334,7 +337,111 @@ ul, ol {
     font-size: 1.1em;
 }
 
-.recovery h6 {
+.moderation h6, .recovery h6 {
     text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+.moderation .testimonial-quote, .recovery .testimonial-quote {
+  font-size: 16px;
+}
+
+.moderation .testimonial-quote blockquote, .recovery .testimonial-quote blockquote {
+  /* Negate theme styles */
+  border: 0;
+  margin: 0;
+  padding: 0;
+  background: none;
+  color: gray;
+  font-family: Georgia, serif;
+  font-size: 1.5em;
+  font-style: italic;
+  line-height: 1.4 !important;
+  margin: 0;
+  position: relative;
+  text-shadow: 0 1px white;
+  z-index: 600;
+}
+
+.moderation .testimonial-quote blockquote *, .recovery .testimonial-quote blockquote * {
+  box-sizing: border-box;
+}
+
+.moderation .testimonial-quote blockquote p, .recovery .testimonial-quote blockquote p {
+    color: #75808a;
+    line-height: 1.4 !important;
+    text-align: justify;
+    font-weight: 400;
+    font-size: 0.8em;
+}
+
+.moderation .testimonial-quote blockquote p:first-child:before, .recovery .testimonial-quote blockquote p:first-child:before {
+  content: '\201C';
+  color: #81bedb;
+  font-size: 7.5em;
+  font-weight: 700;
+  opacity: .3;
+  position: absolute;
+  top: -.4em;
+  left: -.2em;
+  text-shadow: none;
+  z-index: -300;
+}
+
+.moderation .testimonial-quote img, .recovery .testimonial-quote img {
+  border: 3px solid #9CC1D3;
+  border-radius: 50%;
+  display: block;
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  top: -.2em;
+  left: 0;
+}
+
+.moderation .testimonial-quote cite, .recovery .testimonial-quote cite {
+  color: gray;
+  display: block;
+  font-size: .8em;
+}
+
+.moderation .testimonial-quote cite span, .recovery .testimonial-quote cite span {
+  color: #5e5e5e;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-shadow: 0 1px white;
+}
+
+.moderation .testimonial-quote, .recovery .testimonial-quote {
+  position: relative;
+}
+
+.moderation .testimonial-quote .quote-container, .recovery .testimonial-quote .quote-container {
+  padding-left: 10px;
+}
+
+.moderation .testimonial-quote.right .quote-container, .recovery .testimonial-quote.right .quote-container {
+  padding-left: 0;
+  padding-right: 160px;
+}
+
+.moderation .testimonial-quote.right img, .recovery .testimonial-quote.right img {
+  left: auto;
+  right: 0;
+}
+
+.moderation .testimonial-quote.right cite, .recovery .testimonial-quote.right cite {
+  text-align: right;
+}
+
+.moderation .testimonial-quote blockquote p {
+    color: #4b8eca;
+    font-weight: 600;
 }
 
