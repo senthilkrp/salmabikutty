@@ -1,3 +1,8 @@
+<? 
+require_once '../../protect.php';
+Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
+?>
+
 <?php include '../../common/header.php';?>
   <div role="main" class="moderation">
     <article itemscope itemtype="http://schema.org/Article"
@@ -337,6 +342,18 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                       <h5>QUEST CONTINUES....</h5>
 <p>I did have an high level understanding on the review process both from user’s and system perspective and it was now important to dig deep into the review process.  As a next step, i started to meet more an more reviewers, did many shadow session and focus group discussion to identify the problems, gaps and understand the system impact.</p>
                       
+                                </div>
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-12 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      
                       <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -381,14 +398,33 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                       
                       <h5>DETAILED FLOW EXPERIENCE</h5>
 <p>On the basis of high level concept flow and combining the user requirement, i detaield out the possible experience that is required to perform review.</p>
+                      
+                    </div></div></div></div></div></div></div>
+                    
+        <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-12 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                      <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/detailed_flow.png" data-sizes="auto"
-                         data-srcset="../../content/moderation/detailed_flow.png 1920w, ../../content/moderation/detailed_flow.png 768w, ../../content/moderation/detailed_flow.png 700w, ../../content/moderation/detailed_flow.png 600w"/>
-                  </div>
-                  <div class="wpb_column columns medium-12 thb-dark-column small-12 wireframes">
+                           data-srcset="../../content/moderation/detailed_flow.png 1920w, ../../content/moderation/detailed_flow.png 768w, ../../content/moderation/detailed_flow.png 700w, ../../content/moderation/detailed_flow.png 600w"/></div>
+                  </div></div></div></div></div></div>
+            
+         <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>WIREFRAME EXPLORATION</h5>
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
@@ -463,10 +499,67 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                       </div>
                       </div>
                   </div>
+                    </div></div></div></div></div></div>
+                    
+        <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <h5>DETAILING  EXPLORATION</h5>
+                      <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>DETAILING EXPLORATION</h5>
+                      <div class="wpb_column columns medium-6 thb-dark-column small-12">
+                      <img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/moderation/detail1.png" data-sizes="auto"
+                         data-srcset="../../content/moderation/detail1.png 1920w, ../../content/moderation/detail1.png 768w, ../../content/moderation/detail1.png 700w, ../../content/moderation/detail1.png 600w"/>
+                      <p>Item Review and Author view component</p><br><br>
+                      </div>
+                      <div class="wpb_column columns medium-6 thb-dark-column small-12">
+                      <img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/moderation/detail2.png" data-sizes="auto"
+                         data-srcset="../../content/moderation/detail2.png 1920w, ../../content/moderation/detail2.png 768w, ../../content/moderation/detail2.png 700w, ../../content/moderation/detail2.png 600w"/>
+                      </div>
+                    </div>
+                  </div>
+                     <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <div class="wpb_column columns medium-6 thb-dark-column small-12">
+                      <img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/moderation/detail3.png" data-sizes="auto"
+                         data-srcset="../../content/moderation/detail3.png 1920w, ../../content/moderation/detail3.png 768w, ../../content/moderation/detail3.png 700w, ../../content/moderation/detail3.png 600w"/>
+                        <ul class="moderation-detail">
+                            <li>One click solution to assign item to the review</li>
+                            <li>Central pool can push and pull the item when the reviewer is online that acts as an indicator.</li>
+                            <li>Reviewer can turn off the toggle to end the assignment. The assigned item will revert back to the pool</li>                            
+                        </ul>
+                      </div>
+                      <div class="wpb_column columns medium-6 thb-dark-column small-12">
+                      <img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/moderation/detail4.png" data-sizes="auto"
+                         data-srcset="../../content/moderation/detail4.png 1920w, ../../content/moderation/detail4.png 768w, ../../content/moderation/detail4.png 700w, ../../content/moderation/wireframe_8.png 600w"/>
+                        <ul class="moderation-detail">
+                            <li>Side navigation good for future use case </li>
+                            <li>Labelling experience</li>
+                        </ul>
+                      </div>
+                        <p>&nbsp;<br><br>&nbsp;</p>
                   </div>
                     </div></div></div></div></div></div>
+            
                     
         <div class="post-content">
                             

@@ -27,7 +27,7 @@
           <div class="subfooter-container">
             <div class="row no-padding">
               <div class="small-12 medium-6 thb-copyright columns">
-                <p>© 2019 Salmabi Kutty</p></div>
+                <p>© 2021 Salmabi Kutty</p></div>
               <div class="small-12 medium-6 thb-social columns">
                 <aside class="socials"><a href="https://www.linkedin.com/in/salmabikutty" class="social linkedin"
                                           target="_blank"><i class="fa fa-linkedin"></i></a></aside>

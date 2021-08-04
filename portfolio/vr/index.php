@@ -1,8 +1,3 @@
-<? 
-require_once '../../protect.php';
-Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
-?>
-
 <?php include '../../common/header.php';?>
   <div role="main" class="cf">
     <article itemscope itemtype="http://schema.org/Article"

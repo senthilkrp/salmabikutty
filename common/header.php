@@ -427,7 +427,7 @@
             </ul>
             <div class="menu-footer">
               <div>
-                <p>© 2019 Salmabi Kutty. All rights reserved. <br/>Made in India</p></div>
+                <p>© 2021 Salmabi Kutty. All rights reserved. <br/>Made in India</p></div>
             </div>
           </div>
         </div>

@@ -12,6 +12,10 @@
   margin: 0 auto;
 }
 
+img.linkedin-logo, img.vmware-logo {
+    width: 150px;
+}
+
 .product-logo img:hover {
   filter: unset;
   opacity: 1;
@@ -334,7 +338,7 @@ ul, ol {
 }
 
 .moderation .quote.appreciation {
-    font-size: 1.1em;
+    font-size: 0.8em;
 }
 
 .moderation h6, .recovery h6 {
@@ -444,4 +448,6 @@ ul, ol {
     color: #4b8eca;
     font-weight: 600;
 }
-
+.moderation-detail {   
+    font-size: 16px;
+}

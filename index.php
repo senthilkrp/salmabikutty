@@ -117,7 +117,7 @@
                 </div>
                 
                 <div class="columns type-portfolio portfolio col-md-6 padding-1 title-topleft thb-animate-from-bottom has-post-thumbnail"
-                     id="portfolio-vsib">
+                     id="portfolio-vr">
                   <div class="portfolio-holder">
                     <div class="thb-placeholder first">
                       <img src="/content/images/cover/vr.jpg"
@@ -199,14 +199,14 @@
       </div>
       <!-- logos -->
       <div class="row heading">
-        <h6>SOME CLIENTS I WORKED WITH</h6>
+        <h6>SOME BRANDS I WORKED WITH</h6>
       </div>
       <div class="row product-logos">
         <div class="product-logo col-md-2">
-          <img class="linkedin-logo" src="content/brand_logo/linkedin.jpg"/>
+          <img class="linkedin-logo" src="content/brand_logo/linkedin.png"/>
         </div>
         <div class="product-logo col-md-2">
-          <img class="vmware-logo" src="content/brand_logo/vmware.jpg"/>
+          <img class="vmware-logo" src="content/brand_logo/vmware.png"/>
         </div>
         <div class="product-logo col-md-2">
           <img class="volvo-logo" src="content/brand_logo/volvo_logo.png"/>
