@@ -45,6 +45,14 @@
     max-height: 30px;
 }
 
+.thb-portfolio #portfolio-ato.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link {
+    background:#f69626;
+}
+
+.thb-portfolio #portfolio-content.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link {
+    background:#f4b400;
+}
+
 .thb-portfolio #portfolio-vr.type-portfolio:not(.thb-gradient-hover):not(.thb-corner-hover) .portfolio-link {
     background:#76b131;
 }

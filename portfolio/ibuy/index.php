@@ -705,8 +705,16 @@ He reviews the previous purchases and other opted services.
 
   <div class="portfolio_nav">
     <div class="row full-width-row">
-      <div class="small-5 columns">
-      </div>
+        <div class="small-5 columns">
+        <a href="../recovery/" class="post_nav_link prev">
+          <div class="inner"><img src="../../content/images/cover/ato.png"
+                                  alt="Account Recovery"/></div>
+          <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" width="309.1" height="162.4" viewBox="151.5 346.3 309.1 162.4" enable-background="new 151.47 346.319 309.06 162.356" xml:space="preserve"><path d="M151.5 427.5c0 4.5 2 8.8 5.5 11.7l78.5 65.9c2.9 2.4 6.4 3.6 9.8 3.6 4.4 0 8.7-1.9 11.7-5.5 5.4-6.5 4.6-16.1-1.9-21.5l-45.9-38.5H445.2c8.5 0 15.3-6.8 15.3-15.3 0-8.5-6.8-15.3-15.3-15.3H208.3l46.8-39.2c6.5-5.4 7.3-15.1 1.9-21.5 -5.4-6.5-15.1-7.3-21.5-1.9l-78.5 65.9C153.5 418.7 151.5 423 151.5 427.5z"/></svg>
+          <strong>
+            Previous Project (p) </strong>
+          <span>Account Recovery</span>
+        </a>
+      </div>    
       <div class="small-2 columns center_link">
         <a href="../../projects-2/" title="Back">
           <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" width="20" height="20" viewBox="296.5 494.5 20 20" enable-background="new 296.5 494.5 20 20" xml:space="preserve"><path fill-rule="evenodd" clip-rule="evenodd" d="M296.5 494.5h8v8h-8V494.5z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M308.5 494.5h8v8h-8V494.5z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M296.5 506.5h8v8h-8V506.5z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M308.5 506.5h8v8h-8V506.5z"/></svg>

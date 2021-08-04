@@ -48,6 +48,32 @@
               <div class="row expanded thb-portfolio masonry thb-filter-style1 no-padding" id="portfolio-section-337"
                    data-thb-animation="thb-animate-from-bottom" data-thb-animation-speed="0.5">
                 <div class="columns type-portfolio portfolio col-md-6 padding-1 title-topleft thb-animate-from-bottom has-post-thumbnail"
+                    id="portfolio-content">
+                  <div class="portfolio-holder">
+                    <div class="thb-placeholder first">
+                      <img src="content/images/cover/content.png" class="attachment-werkstatt-masonry-3x size-werkstatt-masonry-3x thb-lazyload lazyload wp-post-image"
+                                                            alt="" sizes="(max-width: 1229px) 100vw, 1229px" />
+                    </div>
+                    <a href="portfolio/moderation/" class="portfolio-link">
+                      <h2><span>Linkedin Content Moderation Tool</span></h2>
+                      <aside class="thb-categories"><span>Web Application</span></aside>
+                    </a>
+                  </div>
+                </div>
+                <div class="columns type-portfolio portfolio col-md-6 padding-1 title-topleft thb-animate-from-bottom has-post-thumbnail"
+                    id="portfolio-ato">
+                  <div class="portfolio-holder">
+                    <div class="thb-placeholder first">
+                      <img src="content/images/cover/ato.png" class="attachment-werkstatt-masonry-3x size-werkstatt-masonry-3x thb-lazyload lazyload wp-post-image"
+                                                            alt="" sizes="(max-width: 1229px) 100vw, 1229px" />
+                    </div>
+                    <a href="portfolio/recovery/" class="portfolio-link">
+                      <h2><span>Account Damage Recovery</span></h2>
+                      <aside class="thb-categories"><span>Web Application</span></aside>
+                    </a>
+                  </div>
+                </div>
+                <div class="columns type-portfolio portfolio col-md-6 padding-1 title-topleft thb-animate-from-bottom has-post-thumbnail"
                     id="portfolio-ibuy">
                   <div class="portfolio-holder">
                     <div class="thb-placeholder first">
@@ -89,20 +115,7 @@
                     </a>
                   </div>
                 </div>
-                <div class="columns type-portfolio portfolio col-md-6 padding-1 title-topleft thb-animate-from-bottom has-post-thumbnail"
-                    id="portfolio-vsib">
-                  <div class="portfolio-holder">
-                    <div class="thb-placeholder first">
-                      <img src="/content/images/cover/vsib1.jpg"
-                           class="attachment-werkstatt-masonry-3x size-werkstatt-masonry-3x thb-lazyload lazyload wp-post-image"
-                           alt="" sizes="(max-width: 1229px) 100vw, 1229px" />
-                    </div>
-                    <a href="portfolio/vsib/" class="portfolio-link">
-                      <h2><span>VSIB Transformation</span></h2>
-                      <aside class="thb-categories"><span>Supplier Portal </span></aside>
-                    </a>
-                  </div>
-                </div>
+                
                 <div class="columns type-portfolio portfolio col-md-6 padding-1 title-topleft thb-animate-from-bottom has-post-thumbnail"
                      id="portfolio-vsib">
                   <div class="portfolio-holder">
@@ -189,6 +202,12 @@
         <h6>SOME CLIENTS I WORKED WITH</h6>
       </div>
       <div class="row product-logos">
+        <div class="product-logo offset-md-2 col-md-2">
+          <img class="linkedin-logo" src="content/brand_logo/linkedin_logo.png"/>
+        </div>
+        <div class="product-logo offset-md-2 col-md-2">
+          <img class="vmware-logo" src="content/brand_logo/vmware_logo.png"/>
+        </div>
         <div class="product-logo offset-md-2 col-md-2">
           <img class="volvo-logo" src="content/brand_logo/volvo_logo.png"/>
         </div>
