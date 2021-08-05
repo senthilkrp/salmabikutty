@@ -172,7 +172,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>Approach </h5>                                                                  
-                      <p>I started my investigation by reading and analysing member's requests and messages on suspicious activities on their profile or requesting for access on their restricted accounts. This helped me to understand how they knew about their account being hacked.</p>                                                                  
+                      <p>I started my investigation by reading and analysing member's requests and messages when they report suspicious activities on their profile or when requesting for access on their restricted accounts.</p>                                                                  
                           Typically Linkedin blocks the account if the <br><br>
                           
                           <div class="wpb_column columns medium-12 thb-dark-column small-12">
@@ -190,6 +190,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                               </div>                          
                           </div>                      
                       <h5><p>&nbsp;</p><br>Member's Journey</h5>
+                          <p> I decided to probe the current process on how the members’ request was addressed. This gave me an understanding of the standard procedure followed by Linkedin agents on various instances.</p>
                       <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -198,9 +199,9 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                          data-srcset="../../content/recovery/stages.png 1920w, ../../content/recovery/stages.png 768w, ../../recovery/stages.png 700w, ../../recovery/stages.png 600w"/>
                       
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                        <p>Then I continued to probe the current process on how the members’ request was addressed. This gave me an understanding of the standard process followed on various instances.</p>
+                        
 
-                        <p>Today, Linkedin supports members to regain access to their hacked account and suggest to secure their account by resetting the PW on the email service provider and LI account. However, Linkedin today is unable to clean up the damage created by the bad actor and member’s need to deal with their profile damage on their own.</p>
+                        <p>Today, Linkedin supports members to regain access to their hacked account and recommends to secure their account by resetting the password and to enable the 2 factor authentication on the email service provider and Linkedin account. However, Linkedin today is unable to clean up the damage created by the bad actor and member’s need to deal with their profile damage on their own.</p>
                         </div>
                   </div>
                     
@@ -222,7 +223,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/ato_current.png" data-sizes="auto"
                          data-srcset="../../content/recovery/ato_current.png 1920w, ../../content/recovery/ato_current.png 768w, ../../recovery/ato_current.png 700w, ../../recovery/ato_current.png 600w"/>
-                    <p>The next step involved to understand what the extended process should be like - The product manager helped to bring in stakeholders and reps who were associated with this product and we conducted several meetings to define the process, limitations and align on the scope for this project.</p>
+                    <p>The next step was to identify or decide what should be the extended process to support damage recovery - The product manager helped to bring in stakeholders and reps who were associated with this product and we conducted several meetings to define the process, limitations and align on the scope for this project.</p>
 
                   </div>
                   </div> 
@@ -238,6 +239,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                        <h5>Project scope</h5>
 <p>When a member recovers access to their account after restriction then provide an option to members ability to initiate a damage recovery request through Linkedin help center.</p>
+ <p> Enable the capability to Member and Safety recovery team to mitigate the damage created by the bad actor </p>
                       <p>
                           For simple and easy understanding, i created storyboard so i and the team can understand the overall scenario on how the extended service will be like.
                       </p>
@@ -297,9 +299,9 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                          data-srcset="../../content/recovery/new_process.png 1920w, ../../content/recovery/new_process.png 768w, ../../recovery/new_process.png 700w, ../../recovery/new_process.png 600w"/>
                 <br><br>
                       
-                <p>The biggest gap involved stitching the existing and old process. On highlighting this call out, the Product team helped to resolve by simply modifying the email content to members by introducing the new service that Linkedin was offering and that was a quick win :)</p>
+                <p>The biggest gap involved stitching the existing and old process. On highlighting this call out, the Product team helped to resolve by introducing the new option to members on the Linkedin help and support page and that was a quick win for me :)</p>
 
-                <p>Since the new solution is part of the existing process, I analyzed the current structure of the interface. I gathered usage and engagement data from the current experience. I went back to the agents to understand their pain points and also to know what was going well.</p>  
+                <p>As the new solution is part of the existing process, I started to analyze the current structure of the workflow. I had many 1:1 interviews and group reviews with MSR agents to identify what was going well and what was not?</p>  
                 <!-- background FFDCBD -->
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -310,10 +312,9 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                 
                 <br><br>
                 
-                <p>On gathering insights from the Data science team, I learnt the maximum damage was reported on the invitation (~65%) and messaging (~30%). Others were the (~5%) posts and comments. </p>
+                <p>In mean time, I learnt an enggineering limitation on revoke request. To elaborate when messages and comments revoke action get intiated at the same time, the request goes to 2 different team and the dependency to restore changes will be different time depending on the team resolution queue.  This means we can't confirm our member's in real time that the issue will be resolved but can take upt0 24 hours to confirm the initiated process. This led to a scenario to prioritise which content type is critical for members? So we met the Data science team and learnt the maximum damage was reported on the invitation (~65%) and messaging (~30%). Others were the (~5%) for posts and comments. </p>
                       
-                <p>With these insights and pain points i created high level design estimation. And the product decided to prioritise the scope limited to the new functionalities and not the end to end experience for MSR agents and we agreed on roughly a quarter’s time to deliver design mocks and specs.</p>
-                
+                <p>With the known inputs now, i created the workflow for MSR agents to support damage recovery process.</p>
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
