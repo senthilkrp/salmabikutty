@@ -324,13 +324,12 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                 
                 <br><br>
                 
-                <p>Another bigger decision was to understand if we needed a solution from scratch or re-use to modify the existing page.</p>
+                <p>The connected solution to initiate request was already in place under the legacy tool which is used by many different teams. Session viewer was part of the big old tool. This was the opportunity for this project to explore and inpire other team to transform their application to a better version.</p>
 
-                <p>I recommended designing the solution from scratch but by then the engg team came up with their estimation and called out that it will take more time to re-design from scratch than to modify the existing solution. I tried to convince engg and product on how the new solution will be valuable for agents sharing e.g.: to have an upgraded experience over legacy application, can overcome A11y issues, follow Linkedin design system, flexibility to include better interaction etc. But I failed.</p>
+                <p>I recommended upgrading the solution in the tool by redesigning completely. This suggestion was not considered because the assumption to initiate request on the exisiting tool was quite minimal and product or the stakeholders dint want to invest resource and time for something small. I discuss on the possible scenario's that is dependent on the revoke process but i guess i wasn't able to give them a full picture on possible dependencies or may be i was'nt fully  prepared to defend  .</p>
 
-                <p>Although I strongly believed I had stronger justification to transform into a new experience, it didn't work well. All i was looking forward for stronger opinion to convince the team</p>
-
-                <p>So i started working on the rough wireframe mostly making smaller changes in the existing solutions</p>
+                 
+                <p>However,  i started working on the rough wireframe mostly making smaller changes in the existing solutions </p>
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -364,7 +363,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                          data-srcset="../../content/recovery/session_history_4.png 1920w, ../../content/recovery/session_history_4.png 768w, ../../recovery/session_history_4.png 700w, ../../recovery/session_history_4.png 600w"/>
                 <br><br>
                       
-                <p>Conducted the review meeting with MSR team, product and engineering rep to review the early version of the design</p>
+                <p>Conducted the review meeting with MSR team, product and engineering rep to review the first version of the design</p>
 
 <ol>Major Feedback are: 
 <li>List in the activity log for each session could be exhaustive, not really require the list view but the total insights will be useful </li>
@@ -384,7 +383,7 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>Iteration: 1</h5>
-                      <p>Went back to the drawing board and came up with newer approach of tab solution to introduced Revoke history page</p>
+                      <p>Went back to the drawing board and came up with newer approach that supported tab solution to introduce Revoke history page and their associated actions like undo and redo request. The concept also included real time progress details after request initiation</p>
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -404,7 +403,7 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12 wireframes">
                       <h5>Iteration: 2 </h5>
-                      <p>This version included filter requirement because the session can hold data upto 3 months and for the revoke history page for new actions to retry and undo the action.</p>
+                      <p>In this version neccessary filter to identify the session to match the member request. On further design review and enquiry on the data policy, they suggested each the session can hold data upto 3 months of activity</p>
                  <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -426,7 +425,7 @@ That’s not something we need as part of good experience. Such scenario can lea
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>Iteration: 3</h5>
 
-                     <p>The insights in the viewer made MSR agents happy to see the useful information. This gave them an ability to judge the profile and also confidence to communicate with member</p>
+                     <p>This version, we optimised the MSR review experience to the insight full data summary over the long list of activity viewer. This gave MSR an ability to judge the profile and also confidence to communicate with member with exact count of what is revokable or which is due to policy limitations</p>
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -454,7 +453,7 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12 wireframes">
                       <h5>Iteration: 4 </h5>
-                      <p>Put some text here</p>
+                      <p> In each review, the user scenario and related edge cases were just growing to a complicated experience. Given that we had limitation, how will we communicate to memebrs, Will the recovery be 100% successful? How will the agent know that the task is completed etc..etc.. which led to many use cases such as partial successful, error scenario, successful, inprogress etc. </p>
                  <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -475,20 +474,13 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <div class="row wpb_row vc_inner row-fluid text-left">
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                 <h5>Result</h5>
-                    <div class="testimonial-quote group">
-                        <div class="quote-container">
-                            <blockquote><p>I think this a drastic improvement over what i knew Session viewer could do, because i was totally thinking that i will have to count every activity, keep a note on numbers by myself. This  let me quickly search and let me take informed decision. This would definitely save a lot of time ”</p>
-                            </blockquote>
-                            <cite><span>Linkedin MSR agent</span><br><br>                                
-                            </cite>                    
-                        </div></div>
-                </div>                    
-                <div class="wpb_column columns medium-12 thb-dark-column small-12">                                                          
-                    <p>Overall the requirement and scope was increased, which also means - the engg effort also increased and I got another chance to ask the engg team to compare the effort on the design from scratch vs design modification. </p>
+                                      
+                                                                         
+                    <p>Overall the requirement and scope was increased, which also means - the engg effort also increased and I got another chance to request the engg team to compare the effort on the design from scratch vs design modification. </p>
 
-<p>To my surprise, Engineering and product agreed to build the product from scratch, because it involved the same effort and adapting to the newer UI can help to build the product faster using the Linkedin library components. </p>
+<p>Interestingly, Engineering and product agreed to build the product from scratch, because it involved the same effort and adapting to newer UI  can build the product faster using the defined Linkedin library components. </p>
 
-<p>It was a task for me to redo all the screens but still was a satisfactory task to complete. This way, the project got the Linkedin design system with a better UI experience.</p>
+<p>It was a task for me to redo all the screens but still gave me a good feeling to redesign and complete. This way, the project got the Linkedin design system and accessibility compliant</p>
                 <img width="1920" height="1052"
                      src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                      class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -496,7 +488,16 @@ That’s not something we need as part of good experience. Such scenario can lea
                      data-src="../../content/recovery/revoke_successful.png" data-sizes="auto"
                      data-srcset="../../content/recovery/revoke_successful.png 1920w, ../../content/recovery/revoke_successful.png 768w, ../../recovery/revoke_successful.png 700w, ../../recovery/revoke_successful.png 600w"/>
                 <br><br>
-                </div>
+                </div> <br> <br>
+                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                        <div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p>I think this a drastic improvement over what i knew Session viewer could do, because i was totally thinking that i will have to count every activity, keep a note on numbers by myself. This  let me quickly search and let me take informed decision. This would definitely save a lot of time ”</p>
+                            </blockquote>
+                            <cite><span>Linkedin MSR agent</span><br><br>                                
+                            </cite>                    
+                        </div></div>
+                </div> 
                     </div></div></div></div></div></div>
                     
         <div class="post-content">
@@ -509,7 +510,7 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                 
                 <h5>All screens:</h5>
-                   <p>This was definitely not a final iteration process—we had to account for every team and continual feedback from leadership. We also did in-person and remote testing which helped to make sure we were solving actual problems for our users. I conducted weekly sessions that helped us to validate, test ideas and iterate quickly.</p>
+                   <p>This was definitely not a final iteration process— I  reviewed with every user groups, design, engg, product, stakeholders and  their continual feedback improved the overall product experience. There was no researcher for this project so I conducted full fledge remote testing which helped to verify the flow and experiences. I conducted sprint sessions that helped us to validate, test ideas and iterate quickly.</p>
                 <img width="1920" height="1052"
                      src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                      class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -531,7 +532,7 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <div class="row wpb_row vc_inner row-fluid text-left">
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>High fidelity prototype:</h5>
-<p>Finally, we asked three participants from each location to test out a high fidelity prototype. We asked each of them to complete 3 tasks to revoke, retry and undo tasks that utilizes primary features of the app and to think aloud the experience, thoughts or ideas regarding the prototype.</p>
+<p>As a final check, we asked three participants from each location to test out a high fidelity prototype. We asked each of them to complete 3 tasks to revoke, retry and undo tasks that utilizes primary features of the app and to think aloud the experience, thoughts or ideas regarding the prototype.</p>
                 </div></div></div></div></div></div>
                     
         <div class="post-content">
@@ -556,7 +557,7 @@ That’s not something we need as part of good experience. Such scenario can lea
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left"
-                <p>Over all, the project received good feedback and on signing off on design, the development team kickstarted on the design. Where I got involved to review the dev version of the design and hoping to have this experience launched in a month or so.</p>
+                
                 
                 </div></div></div></div></div></div>
                     
@@ -567,6 +568,7 @@ That’s not something we need as part of good experience. Such scenario can lea
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left">
+                <p>Over all, the project received good feedback and on signing off on design, the development team kickstarted on the design development. Where I got involved to review the dev version of the design and excited for have launch of this process in a month or so.</p>
                 <img width="1920" height="1052"
                      src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                      class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -606,7 +608,7 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>Learnings:</h5>
                     <h6>Pressure to ship quickly:</h6>
-<p>Even when they’re clear sign of bad UX in re-iterating the existing system, i continued the trajectory as there are too much emphasis on hitting the vision goal vs shipping high quality release. With a focus on speed, usuability was not a priority. This makes measuring a lot harder and date comes in at a later time.</p>
+<p>Even when they’re clear sign of bad UX in re-iterating the existing system, i continued the trajectory as there are too much emphasis on hitting the vision goal vs shipping high quality release. With a focus on speed, usuability was not a priority. This makes effort and exploration a lot harder when the date comes first.</p>
 
 <h6>In highlight:</h6><p> We should be bold enought to pause, rethink and emphathise on the feedback that user gave us. Thought there were internal employees, ship an out comes over ship on time makes the effort and time more valuable  over training the bad UX on system. We need to balance between optimising for users outcomes over deadlines</p>
 
@@ -614,7 +616,7 @@ That’s not something we need as part of good experience. Such scenario can lea
 <h6>Isolate change and monitor it closely:</h6>
 <p>Since the process was not fully established and the limitation to use exisiting system was complicating and challenging to define new information architecture, conceptual modal and over all user experience </p>
 
-<p>Despite the various efforts in the doing cohorts, sequencing the changes allowed me to show the effort and user reaction on the design.  Which transformed a bigger change to re-design the structure modifying something existing . However, some trade off was still done over the end to end experience and positively hoping that this be addressed in future projects</p>
+<p>Despite the various efforts in the doing cohorts, sequencing the changes allowed me to show the effort and user reaction on the design.  Which transformed a bigger change to re-design the structure over modifying something existing . However, some trade off was still done over the end to end experience and positively hoping that this be addressed in future projects</p>
                 </div>                
                 </div></div></div></div></div></div>
                    
