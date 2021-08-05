@@ -34,9 +34,9 @@
                                src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                                sizes="(max-width: 659px) 100vw, 659px"
-                               data-src="../../salmabikutty/content/download.jpg"
+                               data-src="../content/download.jpg"
                                data-sizes="auto"
-                               data-srcset="../../salmabikutty/content/download.jpg 659w, ../../salmabikutty/content/download.jpg 600w"/>
+                               data-srcset="../content/download.jpg 659w, ../content/download.jpg 600w"/>
                         </div>
                       </div>
                       <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
@@ -98,9 +98,9 @@ Creative-wise:  Sewing, Baking, Interior Design and Doodling.  </p>
                           <img width="190" height="234"
                                src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                               data-src="../../salmabikutty/content/coffee.png"
+                               data-src="../content/coffee.png"
                                data-sizes="auto"
-                               data-srcset="../../salmabikutty/content/coffee.png 659w, ../../salmabikutty/content/coffee.png 600w"/> 
+                               data-srcset="../content/coffee.png 659w, ../content/coffee.png 600w"/> 
   
                         </div>
                       </div>

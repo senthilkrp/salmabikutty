@@ -429,73 +429,73 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>WIREFRAME EXPLORATION</h5>
                         <p> Out many stages of the review process, starting from entry point to the decision stage, the place where the content gets reviewed will be the most significant part of this application. I strated to explore on how the content and where the content can be reviewed </p>
-                      <br><div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         class="wireframe thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/wireframe_1.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_1.png 1920w, ../../content/moderation/wireframe_1.png 768w, ../../content/moderation/wireframe_1.png 700w, ../../content/moderation/wireframe_1.png 600w"/>
-                      </div><br>
+                      </div>
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         class="wireframe thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/wireframe_2.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_2.png 1920w, ../../content/moderation/wireframe_2.png 768w, ../../content/moderation/wireframe_2.png 700w, ../../content/moderation/wireframe_2.png 600w"/>
                       </div>
-                      </div> <br>
+                      </div>
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         class="wireframe thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/wireframe_3.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_3.png 1920w, ../../content/moderation/wireframe_3.png 768w, ../../content/moderation/wireframe_3.png 700w, ../../content/moderation/wireframe_3.png 600w"/>
-                      </div><br>
+                      </div>
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         class="wireframe thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/wireframe_4.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_4.png 1920w, ../../content/moderation/wireframe_4.png 768w, ../../content/moderation/wireframe_4.png 700w, ../../content/moderation/wireframe_4.png 600w"/>
                       </div>
-                      </div><br>
+                      </div>
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         class="wireframe thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/wireframe_5.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_5.png 1920w, ../../content/moderation/wireframe_5.png 768w, ../../content/moderation/wireframe_5.png 700w, ../../content/moderation/wireframe_5.png 600w"/>
-                      </div><br>
+                      </div>
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         class="wireframe thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/wireframe_6.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_6.png 1920w, ../../content/moderation/wireframe_6.png 768w, ../../content/moderation/wireframe_6.png 700w, ../../content/moderation/wireframe_6.png 600w"/>
                       </div>
-                      </div><br>
+                      </div>
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         class="wireframe thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/wireframe_7.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_7.png 1920w, ../../content/moderation/wireframe_7.png 768w, ../../content/moderation/wireframe_7.png 700w, ../../content/moderation/wireframe_7.png 600w"/>
-                      </div> <br>
+                      </div>
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         class="wireframe thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/wireframe_8.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_8.png 1920w, ../../content/moderation/wireframe_8.png 768w, ../../content/moderation/wireframe_8.png 700w, ../../content/moderation/wireframe_8.png 600w"/>
