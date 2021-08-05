@@ -34,9 +34,9 @@
                                src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                                sizes="(max-width: 659px) 100vw, 659px"
-                               data-src="../../salmabikutty/content/download.png"
+                               data-src="../../salmabikutty/content/download.jpg"
                                data-sizes="auto"
-                               data-srcset="../../salmabikutty/content/download.png 659w, ../../salmabikutty/content/download.png 600w"/>
+                               data-srcset="../../salmabikutty/content/download.jpg 659w, ../../salmabikutty/content/download.jpg 600w"/>
                         </div>
                       </div>
                       <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
@@ -49,17 +49,23 @@
                       <div class="wpb_text_column wpb_content_element animation bottom-to-top ">
                         <div class="wpb_wrapper">
                           <h4 id="yui_3_17_2_4_1481461662221_1870">Salmabi Kutty<br/>
-                            <p id="yui_3_17_2_4_1481461662221_1882">– A curious designer</p></h4>
-                          <p>&nbsp;</p>
-                          <p>Indian talent is woven into the core of the software technologies most people use every day and I am born and living in this city that has a nickname  "Silicon valley of India" called Bengaluru and this city has inspired me to be a designer with various experience i gatherered on various diverse culture and inclusiveness throughout my life </p>
+                            <p id="yui_3_17_2_4_1481461662221_1882">– Product designer based in Bengaluru, India</p></h4>
+                          <p>Hello! 
+I am Salma, born and raised in Bangalore, India. I am product designer currently working at Linkedin Trust team. I have 7+ years of experience working on Digital products at start ups, large corporations and with lot many freelance projects. I practices human centered design principles, delivering seamless, intuitive, and meaningful experiences on digital products. I seek clarity, communicate with understanding, and collaborate with teams using compassion and shared respect. </p>
 
-                          <p>I'm a creative user experience specialist who practices human-centered design
-                            principles, delivering seamless, intuitive, and meaningful experiences on digital products.
-                            I seek clarity, communicate with understanding, and collaborate with teams using compassion
-                            and shared respect.</p>
-                          <p>A designer steeped in UX with 5+ years of experience working on digital products at
-                            startups and large corporations. My work focuses on bringing an Agile design process to
-                            business strategy, research and design methodologies to product development demonstrating
+<p>Outside work I love to travel, read and cook and I suffer from the pros and cons of having a lot of interests: tech, gadgets and cats. I love sci-fi and comics and movies.</p>
+<p><b>Favorite things you like to do outside of work?</b> <br>
+ Fitness: Playing Squash, Swimming and Dancing <br>
+Adventure:  Walk along the Great wall of China, Trekking, Scuba diving in Nicobar islands, Kayaking, Hoping to sky diving to the list in the next year+. <br>
+Creative-wise:  Sewing, Baking, Interior Design and Doodling.  </p>
+
+<p><b>What are you currently reading? </b><br>
+ <a href="https://www.amazon.in/Custodians-Internet-Platforms-Moderation-Decisions/dp/030017313X">Custodians of internet by Tarleton Gillespie</a> </p>
+
+
+                          
+<!--My work focuses on bringing an Agile design process to
+                             business strategy, research and design methodologies to product development demonstrating
                             the direct impact design have on user satisfaction and business goals.</p>
                           <p>I demonstrates a proven record of success in leading design projects, streamlining design
                             processes, identifying user and business values behind decisions and managing multiple
@@ -68,7 +74,7 @@
                           <p>Coming up with simple, practical solutions that provide the best possible user experience.
                             I endlessly strives for crafting ideas that are conceptually grounded and have been pushed,
                             fine-tuned and sculpted to create engaging experiences with a high level of quality and
-                            detail.</p>
+                            detail.</p> -->
 
                         </div>
                       </div>
@@ -92,8 +98,10 @@
                           <img width="190" height="234"
                                src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                                class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                               data-src="http://ahmadalsultan.com/wp-content/uploads/2016/09/1476486214864.png"
-                               data-sizes="auto"/>
+                               data-src="../../salmabikutty/content/coffee.png"
+                               data-sizes="auto"
+                               data-srcset="../../salmabikutty/content/coffee.png 659w, ../../salmabikutty/content/coffee.png 600w"/> 
+  
                         </div>
                       </div>
                       <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>

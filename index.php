@@ -194,7 +194,7 @@
         <!-- description text -->
         <div class="row">
           <p>My style to solve usability problem to obvious solution is through user centered design approach. My work is usually aligning business goals and objectives with the needs of their users.</p>
-          <p>I work closely and collaboratively with my clients, users and developers that helps to investigate. I go through various solution options, feedback, refinement and validation in my process. This allows me to deliver a useful, usable and successful experience for the users and in turn a return on investment for the business.</p>
+          <p>I work closely and collaboratively with my stakeholders, product, users and developers that helps to investigate. I go through various solution options, feedback, refinement and validation in my process. This allows me to deliver a useful, usable and successful experience for the users and in turn a return on investment for the business.</p>
         </div>
       </div>
       <!-- logos -->

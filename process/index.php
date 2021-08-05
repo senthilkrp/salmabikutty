@@ -37,7 +37,7 @@
                     expression. Designers are the solution to solving problems that enable people, businesses, and
                     technology to impact how the world works. Through personal experience, experiments, and research,
                     I’ve evolved from being an artist into a scientific designer. Designers who are systematic,
-                    methodic, and process driven innovate more strategically.</p>
+                    methodic, and process driven to innovate solutions more strategically.</p>
 
                 </div>
               </div>
@@ -59,7 +59,7 @@
               <div class="wpb_text_column wpb_content_element  ">
                 <div class="wpb_wrapper">
                   <p>My process is about gaining an understanding of the big picture, identifying goals and pain-points,
-                    and taking a User-Centered approach in designing usable solutions. The methods and techniques I use
+                    and taking a User-Centered approach in designing usable and desirable solutions. The methods and techniques I use
                     within each phase of my process may vary depending on the design challenges.</p>
 
                 </div>

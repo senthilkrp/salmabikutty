@@ -106,9 +106,10 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                             <li>Sprint planning and share Bi-weekly updates to the Execs and Senior Trust partners and stakeholders</li>
                             <li>Partner with research team understand the process and gather insights</li>
                             <li>Analyse the current process, understand user needs and requirements</li>
-                            <li>Brainstrom and review concepts with other Designers, Project developers, User reps and Product leaders </li>
+                            <li>Brainstrom and review concepts with other Designers, Researchers, Developers, User reps and Product leaders </li>
+                            <li>Review concepts, scenarios with Users, Product and cross functional partners such as TnS reps, Legal and Policy team
                             <li>Perform usability testing, gather and review user feedback and iterate design solutions.</li>
-                            <li>Communicate and share designs with design team and project for early feedback and sign offs</li>
+       
                             <li>Provide design specs and participate in bug bash review in the development phase.</li>
                           </ol>
                   </div>
@@ -148,14 +149,14 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                   </div>
                   <div class="wpb_column columns medium-8 thb-dark-column small-12">
                       <h5>Content reviewers</h5>
-                      <h5>(Full time employees and Contractors)</h5>
+                      <h6>(Full time employees and Contractors)</h6>
 
                         <p>Moderators who review the content which is either flagged by LinkedIn members or enqueued by Machine models. Human reviewers can either be Full-time employees of LinkedIn or Contractors.</p>
                   </div>
                     
                   <div class="wpb_column columns medium-8 thb-dark-column small-12">
                       <h5>Business Partners </h5>
-                      <h5>(TnS Managers, PMO,QA, Audit):</h5>
+                      <h6>(TnS Managers, PMO,QA, Audit):</h6>
 
 <p>The users of this group are LinkedIn employees who organize content moderation, Plan and Perform Quality audits, Train & Evaluate moderator’s performance.</p>
                   </div>
@@ -174,7 +175,8 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>THE KICKSTART</h5>
-<p>All I knew, that i am suppose to build a web platform for content review moderators which will replace the exisiting tool in coming days.  As a next step, i partnered with the Researcher for this project and we discussed how should we begin and then we agreed to explore and understand the end to end workflow of our moderator and listen to their story to learn their process, their painpoints and unmet needs.  </p>
+<p>As a first step, I started to meet team members to introduct myself, establish relationship and learn their perspective on the tool. I was just doing this meet and greet while i was completing my onboarding activities. Meanwhile, i learnt Product team is busy preparing project requirements and estimations. </p>
+<p> And then I met the User researcher of the team to understand the status and learn about the research activities that is planned. We identified an opportunity to begin research early and  discussed to brainstorm and define the research objectivies/ We soon agreed to explore and understand the end to end workflow of our moderator and listen to their story to learn their process, their painpoints and unmet needs.  </p>
                   </div>                  
                   <div class="wpb_column columns medium-4 thb-dark-column small-12">
                       <img src="../../content/moderation/main_conversation_small.png"/>
@@ -203,7 +205,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>REVIEWER’S PERSPECTIVE</h5>
-                      <p>High level view of the review workflow</p>
+                      <p>High level diagram of the reviewer's workflow</p>
                       <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -278,8 +280,8 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                       <h5>DEFINED PROCESS</h5>
-<p>I was curious to learn beyond  user’s perspective, I wanted to know how the system is defined and how it works from the point of the content being reported till the completion of review. For this, i met policy team and Engineering team to understsand the process of how content get reported and what happens after reviewers determine the content. This way, i was able to connect the dots end to end on the content lifecycle.</p>
+                       <h5>CURRENT PROCESS</h5>
+<p>I was curious to learn beyond user’s perspective, I wanted to know how the system is defined and how it works from the point when and how the content gets reported till the outcome of the review. For this, i met policy team  and Engineering team to understsand the process of content lifecyle and how do reviewer's determine the content. This way, i was able to connect the dots end to end on the content atleast theoretically.</p>
                       <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -295,7 +297,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          data-srcset="../../content/moderation/defined_2.png 1920w, ../../content/moderation/defined_2.png 768w, ../../content/moderation/defined_2.png 700w, ../../content/moderation/defined_2.png 600w"/><br><br>
                       
                       
-                    <p>It was interesting to know how the content flows in to the queue and reviewers decision on user reported content impacts the content on the platform and the review decision on the machine classified content are used to train the data model to improve the AI Algorithm precision.  Later, met data science team to collect the facts to understand how many items are reported and how many of them get reviewed and looking at these number, it amazed me and felt truly proud for doing their best to keep Linkedin platform safe. No wonder why Linkedin stands is the most trusted social plarform </p>
+                    <p>It was interesting to know how the different types of content flows and qualifies to the review queue. When a reviewer reviews user reportant content, the outcome of the decision is resulted directly on Linkedin Platform immediately and when they review Machine flagged content, the decision is used to train the data model to improve the precision of the AI Algorithm. This info encouraged me to meet data science team to collect the facts and learn about the numbers behind the review items and It truly amazed me to know the results, I felt very proud to know how Linkedin is doing their best to keep Linkedin platform safe and professional. No wonder why <a href="https://www.businessinsider.com/linkedin-pinterest-instagram-top-spots-2019-digital-trust-report-facebook-stays-last?IR=T">Linkedin stands as the most trusted social plarform </a> </p>
                       
                     <div class="wpb_column columns medium-6 thb-dark-column small-12">
                         <img width="1920" height="1052"
@@ -340,7 +342,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>QUEST CONTINUES....</h5>
-<p>I did have an high level understanding on the review process both from user’s and system perspective and it was now important to dig deep into the review process.  As a next step, i started to meet more an more reviewers, did many shadow session and focus group discussion to identify the problems, gaps and understand the system impact.</p>
+<p>With my high level understanding on the review process both from user’s and system perspective and it was now important to dig deep into the review process.  As a next step, i started to meet more an more reviewers, did many shadow session and focus group discussion to identify the problems, gaps and opportunities.</p>
                       
                                 </div>
                     </div></div></div></div></div></div>
@@ -372,7 +374,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>PROBLEM STATEMENT</h5>
-<p>On analysing and categorising the research insights, the challenges, needs , painpoints and gaps in the system. We narrowed down to the following problem statement which was brainstromed together with product, engineering and Trust reps and TnS manager in the session.  </p>
+<p>By now, Product had their priorities and I began to analyse and categorise the research insights, the challenges, needs , painpoints and gaps in the system in alignment of the product goals. This led to narrow down on the following problem statement where we brainstromed ideas, solutions together with product, engineering leads and Ace in the session.  </p>
                       <ol>
 <li>How might we simplify the manual assignment workflow?</li>
 <li>How might we optimise review experience?</li>
@@ -388,7 +390,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <h5>PROPOSED CONCEPT FLOW</h5>
+                      <h5>HIGH LEVEL CONCEPT FLOW</h5>
                       <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -396,8 +398,8 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          data-src="../../content/moderation/proposed_concept.png" data-sizes="auto"
                          data-srcset="../../content/moderation/proposed_concept.png 1920w, ../../content/moderation/proposed_concept.png 768w, ../../content/moderation/proposed_concept.png 700w, ../../content/moderation/proposed_concept.png 600w"/>
                       
-                      <h5>DETAILED FLOW EXPERIENCE</h5>
-<p>On the basis of high level concept flow and combining the user requirement, i detaield out the possible experience that is required to perform review.</p>
+                      <h5>DETAIL FLOW EXPERIENCE</h5>
+<p>To progress from the high level concept, I tried adding the user requirement as part of the experience, I also detaield out the other experience that could be the potential screens for future usecases.</p>
                       
                     </div></div></div></div></div></div></div>
                     
@@ -426,7 +428,8 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>WIREFRAME EXPLORATION</h5>
-                      <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                        <p> Out many stages of the review process, starting from entry point to the decision stage, the place where the content gets reviewed will be the most significant part of this application. I strated to explore on how the content and where the content can be reviewed </p>
+                      <br><div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -434,7 +437,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/wireframe_1.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_1.png 1920w, ../../content/moderation/wireframe_1.png 768w, ../../content/moderation/wireframe_1.png 700w, ../../content/moderation/wireframe_1.png 600w"/>
-                      </div>
+                      </div><br>
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -443,7 +446,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          data-src="../../content/moderation/wireframe_2.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_2.png 1920w, ../../content/moderation/wireframe_2.png 768w, ../../content/moderation/wireframe_2.png 700w, ../../content/moderation/wireframe_2.png 600w"/>
                       </div>
-                      </div>
+                      </div> <br>
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
@@ -452,7 +455,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/wireframe_3.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_3.png 1920w, ../../content/moderation/wireframe_3.png 768w, ../../content/moderation/wireframe_3.png 700w, ../../content/moderation/wireframe_3.png 600w"/>
-                      </div>
+                      </div><br>
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -461,7 +464,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          data-src="../../content/moderation/wireframe_4.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_4.png 1920w, ../../content/moderation/wireframe_4.png 768w, ../../content/moderation/wireframe_4.png 700w, ../../content/moderation/wireframe_4.png 600w"/>
                       </div>
-                      </div>
+                      </div><br>
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
@@ -470,7 +473,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/wireframe_5.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_5.png 1920w, ../../content/moderation/wireframe_5.png 768w, ../../content/moderation/wireframe_5.png 700w, ../../content/moderation/wireframe_5.png 600w"/>
-                      </div>
+                      </div><br>
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -479,7 +482,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          data-src="../../content/moderation/wireframe_6.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_6.png 1920w, ../../content/moderation/wireframe_6.png 768w, ../../content/moderation/wireframe_6.png 700w, ../../content/moderation/wireframe_6.png 600w"/>
                       </div>
-                      </div>
+                      </div><br>
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
@@ -488,7 +491,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/wireframe_7.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_7.png 1920w, ../../content/moderation/wireframe_7.png 768w, ../../content/moderation/wireframe_7.png 700w, ../../content/moderation/wireframe_7.png 600w"/>
-                      </div>
+                      </div> <br>
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -497,7 +500,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          data-src="../../content/moderation/wireframe_8.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_8.png 1920w, ../../content/moderation/wireframe_8.png 768w, ../../content/moderation/wireframe_8.png 700w, ../../content/moderation/wireframe_8.png 600w"/>
                       </div>
-                      </div>
+                      </div> <br>
                   </div>
                     </div></div></div></div></div></div>
                     
@@ -510,7 +513,8 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <h5>DETAILING EXPLORATION</h5>
+                      <h5>EXPLORATION ON DETAILS</h5>
+                        <p>Wireframing placeholders was a good start to put the inital thoughts and it gave lot of good ideas on how the new content moderation experience will be like. I picked few choices in wireframes and started to detail out to design the content that's required during the review process </>
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                       <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -550,7 +554,8 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/detail4.png" data-sizes="auto"
-                         data-srcset="../../content/moderation/detail4.png 1920w, ../../content/moderation/detail4.png 768w, ../../content/moderation/detail4.png 700w, ../../content/moderation/wireframe_8.png 600w"/>
+                         data-srcset="../../content/moderation/detail4.png 1920w, ../../content/moderation/detail4.png 768w, ../../content/moderation/detail4.png 700w, ../../content/moderation/                         data-src="../../content/moderation/detail4.png" data-sizes="auto"
+.png 600w"/>
                         <ul class="moderation-detail">
                             <li>Side navigation good for future use case </li>
                             <li>Labelling experience</li>
@@ -570,7 +575,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>ASSIGNMENT EXPERIENCE : BEFORE</h5>
-<p>The manual assignment workflow, designed to meet SLAs, is forcing reviewers to expend extra time in their workflow.</p>
+<p>The manual assignment workflow, designed to meet SLAs, is forcing reviewers to expend extra time in their workflow. This approach of manual assignment made each reviewers to spend atleast 15-25 mins per day per person just to set up the filters and monitor their skillset item manually.</p>
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -612,7 +617,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                 <div class="row wpb_row vc_inner row-fluid text-left">
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>ASSIGNMENT EXPERIENCE : AFTER</h5>
-<p>Our proposal enables reviewers to self-assign items with just one click on the assignment pane and eliminate all the filter actions that were required to review the item. When the reviewers enable “Assign me item” they receive 3 items to their assignment list. As they complete each item, a new item gets populated in their queue. </p>
+<p>Our proposal enables reviewers to self-assign items with just one click on the assignment pane and this eliminate all the filter actions that were required to view and manual assign review the item. When the reviewers enable “Assign me item” toggle they receive 3 items to their assignment list based on their expertise and fair distribution among all reviewers. As they complete each item, a new item gets populated in their queue. </p>
                     <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -640,7 +645,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                 
                 <h5>MISSING CAPABILITIES IN THE PLATFORM: BEFORE</h5>
-<p>Key capabilities are missing in the platform, impacting review quality and adding extra stress such as translation and Media rendering experience</p>
+<p>Key capabilities such as translation integration were missing in the platform, this was impacting review quality and time. Sometimes, it created added stress to reviewers identifying the origin language and failed rendering experience</p>
                 
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -679,7 +684,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                 <div class="row wpb_row vc_inner row-fluid text-left">
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>MISSING CAPABILITIES IN THE PLATFORM: AFTER</h5>
-<p>Solution includes an inbuilt Microsoft translator that enables our reviewers to translate within the product using a single click and zero window hops. </p>
+<p>The proposed solution include an inbuilt Microsoft translator that enables our reviewers to translate within the product using a single click and zero window hops. </p>
                     
                     <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -724,7 +729,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                 <div class="row wpb_row vc_inner row-fluid text-left">
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>MEDIA WELLNESS :  AFTER</h5>
-<p>Solution includes an inbuilt Microsoft translator that enables our reviewers to translate within the product using a single click and zero window hops. </p>
+<p>The Solution proposal had all objection media content to be grey scaled and blurred when content opens up in the review queue. Reviewers will be able to clear the blur and grey scale on hovering on the image or open the image in the full screen mode. </p>
                      <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -733,7 +738,6 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          data-srcset="../../content/moderation/well.gif 1920w, ../../content/moderation/well.gif 768w, ../../content/moderation/well.gif 700w, ../../content/moderation/well.gif 600w"/>
                     <h5>IMPACT</h5>
                     <ul>
-<li>Objectionable images are identified and reviewers view grayscale and blur media content and clear up when the reviewer hover or clicks the media content. </li>
 <li>This helps to reduce the mental stress caused by shocking images on  daily basis</li>
 <li>High quality attachment will be rendered and be verified for threat or malware content </li>
                         </ul>
@@ -745,8 +749,9 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/moderation/ezgif.png" data-sizes="auto"
-                         data-srcset="../../content/moderation/ezgif.png 1920w, ../../content/moderation/ezgif.png 768w, ../../content/moderation/ezgif.png 700w, ../../content/moderation/ezgif.png 600w"/> <br><br>                   
+               
+                         data-src="../../content/moderation/ezgif.gif" data-sizes="auto"
+                         data-srcset="../../content/moderation/ezgif.gif 1920w, ../../content/moderation/ezgif.gif 768w, ../../content/moderation/ezgif.gif 700w, ../../content/moderation/ezgif.gif 600w"/> <br><br>                   
 
                 </div>
                 </div></div></div></div></div></div>
@@ -780,7 +785,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                 <div class="row wpb_row vc_inner row-fluid text-left">
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>LABELS :  AFTER</h5>
-<p>Solution includes an inbuilt Microsoft translator that enables our reviewers to translate within the product using a single click and zero window hops. </p>
+<p>Reviewer will be able review content using the label option in one click option in the new tool and they have an ability to search supported by typeahead search experience the label instead to scan and identify the right label in the long list of labelling reasons </p>
                     <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -841,7 +846,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">                    
                     <h5>CHALLENGES AND LEARNING</h5>
                     <ul>
-<li>There were many ad-hoc requests from stakeholders which were not planned for the quarter. It was a challenge to get a full understanding of the project requirements, scope and to divide time between multiple projects. I overcame this challenge by setting a clear expectation on the effort required to deliver the tasks and reprioritized the tasks by negotiating with the product and stakeholders.</li>
+<li>There were many ad-hoc requests from stakeholders when I use to review concepts which were not planned by the product partner in the quarter. It was a challenge to get a full understanding of the actual requirements, scope and to divide time between multiple projects. I overcame this challenge by setting a clear expectation on the effort required to deliver the tasks and reprioritized the tasks by negotiating with the product and stakeholders.</li>
 
 <li>The scope of project Neuron was usually large with limited resources and time. It was very challenging to deliver the project in the limited time without compromising on the quality of work. I mitigated the challenge by calling out the risks in various meetings and requested for additional resources to keep the project on schedule.</li>
 
