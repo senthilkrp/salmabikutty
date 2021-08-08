@@ -18,8 +18,8 @@ Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
         <header class="portfolio-title style1 entry-header">
           <div class="row align-center">
             <div class="small-12 medium-10 large-10 columns">
-              <h2>Redesign of</h2>
-              <h1 class="entry-title" itemprop="name headline">Linkedin Content Moderation Tool</h1>                 <!-- <h4>Smart home
+              <h2>Linkedin</h2> 
+              <h1 class="entry-title" itemprop="name headline">Content Moderation Tool</h1>                 <!-- <h4>Smart home
               control system – on your TV!</h4> -->
               <!-- <div class="portfolio-attributes ">
                 <div class="attribute">
@@ -52,20 +52,22 @@ Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
                   <div class="wpb_column columns medium-12 thb-dark-column small-12 overview">
                       <h5>OVERVIEW</h5>
                       <p>
-Linkedin content moderation tool is one of the most critical tools used by GCO and TNS organisations for resolving member support requests and moderation of member reported content and profiles which are violating LinkedIn terms of service respectively. More than 2000 employees access this tool on a daily basis and this includes Contractors and Full-time employees.</p>
+ <!--Inspector is a platform used by the Trust and Safety team for threat prevention and threat responsive team, abusive content enforecement (Content reviewers), premium fraud mitigation (Jobs, Ads, Payment abuse), policy enforecement and program management (QA, training and Resource planner). More than 2000 employees access this tool on a daily basis.</p>
 
-<p>This is a multi phased project for ensuring that we make the right decision when redesigning the next generation content moderation tool, a platform used by the Trust and Safety team for threat prevention and responsive, abusive content enforecement, premium fraud mitigation and program management </p>
-                  </div>
+<p>This project aims to build a new platform for Abusive content enforecement or simply known as content reviewers in the Trust and Safety organisation to resolve member support requests and moderation of member reported content and profiles which are violating Linkedin terms of service respectively. This is a multi phased project to design the next generation content moderation tool which will be a  platform used by the Trust and Safety team for threat prevention and responsive, abusive content enforecement, premium fraud mitigation and program management </p> -->
+ <p> More than 760 million members globally use LinkedIn for professional networking, enhance professsional reputation and career development to find jobs, learn new skills etc. Members on this platform expect and deserve a safe and trusted community where they can express themselves professionally. Trust & Safety operations is responsible for manually moderating and enforcing a safe, trusted and professional environment. 
+</p>
+<p> The project aims to build a next generation content moderation tool which will be used daily by 2000+ and growing employees under Linkedin Trust and Safety team for threat prevention and responses, abusive content moderation (Content reviewers), premium fraud mitigation (Jobs, Ads and payment abuse), policy enforcement and program management (QA, training and resouce planner). <br> This is a multi phased project, the current objective is to develop an efficient solutions for Abusive content enforecement team to resolve member support request and moderation of member reported content and profiles that are violating Linkedin terms of service respectively. <p>                 </div>
                     
-                <div class="wpb_column columns medium-4 thb-dark-column small-12">
+                <div class="wpb_column columns medium-4 thb-dark-column small-12"> 
                     <h5>ROLE</h5>
-                    <p>Product designer,<br>Full time</p>
+                    <p>Lead designer</p>
 
                 </div>
                 <div class="wpb_column columns medium-8 thb-dark-column small-12">
                     <h5>PERIOD</h5>
-                    <p>Phase 1 - Jan 2020 to Dec 2020<br>
-                    Phase 2 - Jan 2021 - Ongoing</p>
+                    <p>Phase 1 - March 2020 to June 2020 (MVP and Messaging content)<br>
+                    Phase 2 - July 2020 - July 2021 (UGC and Features) <br> Phase 3 - Aug 2021 - March 2022 (Jobs, Ads and Member profile) </p>
                 </div>
                     
                 <div class="wpb_column columns medium-4 thb-dark-column small-12">
@@ -90,41 +92,42 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                     
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>MISSION</h5>
-                    <p>Redesigning to maximize content moderation efficiency and effectiveness</p>
+                    <p>Empower Trust and safety reps with the right set of information to handle a request efficiently; and enable teams to be more productive via process optimization, automation and measurement; while maintaining strong data security and protecting member privacy
+</p>
                 </div>
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>My role</h5>
                   </div>
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">                      
-<p>I joined Linkedin in March 2020 and the discussion on the phase 1 of this project had already begun. At that time, I was setting myself up to learn, build relationship and understand the environment. </p>
+<p>I joined Linkedin in March 2020 and the discussion on the phase 1 of this project had just begun. At that time, I was setting myself up to learn, build relationship and understand the environment. </p>
 
-<p>Very soon, i took the charge on this project as a lead designer to design this content moderation tool and my major responsibilities in the project include:</p>
+<p>Very soon, i took the charge on this project as a lead designer and worked on the following activities: </p>
                         <ol>
                           
                             <li>Project scoping and task prioritisation </li>
-                            <li>Sprint planning and share Bi-weekly updates to the Execs and Senior Trust partners and stakeholders</li>
                             <li>Partner with research team understand the process and gather insights</li>
                             <li>Analyse the current process, understand user needs and requirements</li>
-                            <li>Brainstrom and review concepts with other Designers, Researchers, Developers, User reps and Product leaders </li>
+                            <li>Brainstrom and review concepts with other Designers, Researchers, Developers, TnS reps and Product leaders </li>
                             <li>Review concepts, scenarios with Users, Product and cross functional partners such as TnS reps, Legal and Policy team
                             <li>Perform usability testing, gather and review user feedback and iterate design solutions.</li>
-       
+                            <li>Design presentation and share Bi-weekly updates to the Execs and Senior Trust partners and stakeholders</li>
                             <li>Provide design specs and participate in bug bash review in the development phase.</li>
                           </ol>
                   </div>
                 
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <h5>CHALLENGE</h5>
+                      <h5>WHY are we doing this?</h5>
                   </div>
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">         
-<p>The tool used for content moderation, has a poorly designed UI and lacks important features and capabilities.  As a result, the review process is highly inefficient, reviewers experience mental stress, and the potential for security breaches is heightened.</p>
+<ol><li>The existing tool used for content moderation has build on legacy application, upgrading request and new feature on the application is often time consuming and led to several complications </li>
+<li> The system is based on older library script has many limitations and with poorly designed UI and lacks important features and capabilities.  As a result, the review process is highly inefficient, reviewers experience cause mental stress, and the potential for security breaches is heightened.</li>
 
-<ul>There is huge pressure on the team to get better at scaling content moderation and improving quality.
-<li>Threats brought forward by LinkedIn’s exponential growth in the volume and sources of content;</li>
-<li>Increased focus of regulators and new regulations.</li> </ul>
+<li>There is huge pressure on the team to get better at scaling content moderation and improving quality.<br>
+Threats brought forward by LinkedIn’s exponential growth in the volume and sources of content;<br>
+Increased focus of regulators and new regulations.
 
-<p>The new redesign have to address the inefficiencies in the current tool used by reviewers and moderators to monitor our platform for unprofessional and harmful activities such as spam, scam or harassment, reviewing the quality of ads, jobs, and reviewing potential fake accounts. Improving this tool is very important to support all future content growth and safety on Linkedin.</p>
+<!--The new tool have to address the inefficiencies in the current tool used by reviewers and moderators to monitor our platform for unprofessional and harmful activities such as spam, scam or harassment, reviewing the quality of ads, jobs, and reviewing potential fake accounts. --> <li> The new tool should support all future content growth and keep up the safety on Linkedin platform.</li> </ol>
                   </div>
                     
                 </div></div></div></div></div></div>
@@ -148,22 +151,39 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                       <img src="../../content/moderation/coworkers_small.png"/>
                   </div>
                   <div class="wpb_column columns medium-8 thb-dark-column small-12">
-                      <h5>Content reviewers</h5>
-                      <h6>(Full time employees and Contractors)</h6>
+                      <h6>Content reviewers</h6>
+                      <h7>(Full time employees and Contractors)</h7>
 
                         <p>Moderators who review the content which is either flagged by LinkedIn members or enqueued by Machine models. Human reviewers can either be Full-time employees of LinkedIn or Contractors.</p>
                   </div>
                     
                   <div class="wpb_column columns medium-8 thb-dark-column small-12">
-                      <h5>Business Partners </h5>
-                      <h6>(TnS Managers, PMO,QA, Audit):</h6>
+                      <h6>Program Partners </h6>
+                      <h7>(TnS Managers, PMO,QA, Audit):</h7>
 
 <p>The users of this group are LinkedIn employees who organize content moderation, Plan and Perform Quality audits, Train & Evaluate moderator’s performance.</p>
                   </div>
                     <div class="wpb_column columns medium-4 thb-dark-column small-12">
                         <img src="../../content/moderation/main_coworkers_small.png"/>
                     </div>
-                  </div></div></div></div></div></div>
+
+<div class="wpb_column columns medium-8 thb-dark-column small-8">
+                  <h5>Success criteria</h5>  </div>
+                  <div class="wpb_column columns medium-6 thb-dark-column small-6">      
+  <h6>For content moderators </h6> <li>Reduced effort to handle a case </li>
+<li> Improve reviewer's satisfaction score by X </li> </div>
+<div class="wpb_column columns medium-6 thb-dark-column small-6">
+<h6>For Partners </h6>
+<li> CPH (Case per hour ) Increase #case handled per hour </li>
+<li> AHT (Average handling time) Reduct AHT by X% </li>
+<li> Error rate- Reduction in error rate </li>
+<li> Quality score >95 % of accuracy </li>
+  </div>  &nbsp
+                
+                  </div></div></div></div></div></div> 
+ 
+
+
                     
         <div class="post-content">
                             
@@ -193,7 +213,7 @@ Linkedin content moderation tool is one of the most critical tools used by GCO a
                           </ul>
                       
                   </div>
-                </div></div></div></div></div></div>
+                </div></div></div></div></div></div> <br>
                     
         <div class="post-content grey-bg">
                             
