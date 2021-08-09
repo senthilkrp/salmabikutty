@@ -57,7 +57,7 @@ Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
 <p>This project aims to build a new platform for Abusive content enforecement or simply known as content reviewers in the Trust and Safety organisation to resolve member support requests and moderation of member reported content and profiles which are violating Linkedin terms of service respectively. This is a multi phased project to design the next generation content moderation tool which will be a  platform used by the Trust and Safety team for threat prevention and responsive, abusive content enforecement, premium fraud mitigation and program management </p> -->
  <p> More than 760 million members globally use LinkedIn for professional networking, enhance professsional reputation and career development to find jobs, learn new skills etc. Members on this platform expect and deserve a safe and trusted community where they can express themselves professionally. Trust & Safety operations is responsible for manually moderating and enforcing a safe, trusted and professional environment. 
 </p>
-<p> The project aims to build a next generation content moderation tool which will be used daily by 2000+ and growing employees under Linkedin Trust and Safety team for threat prevention and responses, abusive content moderation (Content reviewers), premium fraud mitigation (Jobs, Ads and payment abuse), policy enforcement and program management (QA, training and resouce planner). <br> This is a multi phased project, the current objective is to develop an efficient solutions for Abusive content enforecement team to resolve member support request and moderation of member reported content and profiles that are violating Linkedin terms of service respectively. <p>                 </div>
+<p> The project aims to build a next generation content moderation tool which will be used daily by 2000+ and growing employees under Linkedin Trust and Safety team for threat prevention and responses, abusive content moderation (Content reviewers), premium fraud mitigation (Jobs, Ads and payment abuse), policy enforcement and program management (QA, training and resouce planner). <br> This is a multi phased project, the current objective is to develop an efficient solutions for Abusive content enforcement team to resolve member support request and moderation of member reported content and profiles that are violating Linkedin terms of service respectively. <p>                 </div>
                     
                 <div class="wpb_column columns medium-4 thb-dark-column small-12"> 
                     <h5>ROLE</h5>
@@ -91,9 +91,14 @@ Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
       
                     
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                    <h5>MISSION</h5>
-                    <p>Empower Trust and safety reps with the right set of information to handle a request efficiently; and enable teams to be more productive via process optimization, automation and measurement; while maintaining strong data security and protecting member privacy
-</p>
+                    <h5> MISSION</h5>
+                    <hp>  Empower Trust and safety reps with the right set of information to handle a request efficiently; and enable teams to be more productive via process optimization, automation and measurement; while maintaining strong data security and protecting member privacy
+                    <li> Drive Efficiency by improved reviewer experience </li>
+                    <li> Drive real-time Analytics for operations monitoring, forecasting and performance management​ </li>
+                    <li> Drive platform Stability, Data Integrity, Performance and Agility to adapt to changing business needs​</li>
+                    <li> Drive Wellness by providing resiliency features​ </li>
+                      
+                    </p>
                 </div>
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
@@ -175,7 +180,7 @@ Increased focus of regulators and new regulations.
 <div class="wpb_column columns medium-6 thb-dark-column small-6">
 <h6>For Partners </h6>
 <li> CPH (Case per hour ) Increase #case handled per hour </li>
-<li> AHT (Average handling time) Reduct AHT by X% </li>
+<li> AHT (Average handling time) Reduce AHT  </li>
 <li> Error rate- Reduction in error rate </li>
 <li> Quality score >95 % of accuracy </li>
   </div>  &nbsp
@@ -195,16 +200,15 @@ Increased focus of regulators and new regulations.
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>THE KICKSTART</h5>
-<p>As a first step, I started to meet team members to introduct myself, establish relationship and learn their perspective on the tool. I was just doing this meet and greet while i was completing my onboarding activities. Meanwhile, i learnt Product team is busy preparing project requirements and estimations. </p>
-<p> And then I met the User researcher of the team to understand the status and learn about the research activities that is planned. We identified an opportunity to begin research early and  discussed to brainstorm and define the research objectivies/ We soon agreed to explore and understand the end to end workflow of our moderator and listen to their story to learn their process, their painpoints and unmet needs.  </p>
+<p>As a first step, I started to meet my own project team mainly to interact, establish relationship and learn their perspective on the project. I learnt Product team was busy prepping to developing project stratergies, scope and assumptions. I wanted to particpate but then i had no knowledge or a strong opinion without understanding the end to end story of reviewers. </p>
+<p> So I met the User researcher of our team and who was also new to the project. We discussed to begin research activity and I shared my thoughts on the research objectives and we agreed to explore and understand the end to end workflow of our moderators and listen to their story to learn their process, their painpoints and unmet needs.  </p>
                   </div>                  
                   <div class="wpb_column columns medium-4 thb-dark-column small-12">
                       <img src="../../content/moderation/main_conversation_small.png"/>
                   </div>
                   <div class="wpb_column columns medium-8 thb-dark-column small-12">
                       <h5>METHOD</h5>
-                      <ul>
-                      In depth interviews 
+                       In depth interviews having 1:1 sessions <ul>
 <li>1.5-hour sessions, with the focus on workflows, usage of tools/resources, pain points and unmet needs, 
 <li>A total of 12 moderators </li>
 <li>Mix of FTE and Contractors </li>
@@ -226,6 +230,7 @@ Increased focus of regulators and new regulations.
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>REVIEWER’S PERSPECTIVE</h5>
                       <p>High level diagram of the reviewer's workflow</p>
+                        
                       <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -255,7 +260,21 @@ Increased focus of regulators and new regulations.
                             <blockquote><p class="quote">“This job is a fun and interesting way to see how the world is interacting with each other.”</p></blockquote>
                       <cite><span>Reviewer</span><br><br>                                                      
                           </div></div>
-                    </div></div></div></div></div></div>
+
+
+                        <div class="wpb_column columns medium-10 thb-dark-column small-10">
+                        <h7> <b> Proud Accomplishments together as a team for FY19: </b> </h7> </div>
+
+                            <div class="wpb_column columns medium-6 thb-dark-column small-6">
+                            <li> 4.2 M Members protected from account takeover </li>
+                            <li> 388 K suspicious accounts were restricted </li> 
+                            <li> 3 suicides prevented </li> </div>  <br>
+                             <div class="wpb_column columns medium-6 thb-dark-column small-6">
+                            <li> 2.9 M USD revenue protected </li>
+                            <li> 39 cases of child predators reported to NCMEC</li> </div> 
+
+                            
+                    </div></div></div></div></div></div> &nbsp
                     
         <div class="post-content grey-bg">
                             
@@ -266,7 +285,7 @@ Increased focus of regulators and new regulations.
                 <div class="row wpb_row vc_inner row-fluid text-left">
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <h5>WHAT’s NOT GOING WELL?</h5>
+                      <h5>RESEARCH INSIGHTS</h5>
                       <p>We observed and heard numerous issues. They fall into 5 areas.</p>                      
                       <div class="wpb_column columns medium-4 thb-dark-column small-12">
                           <img src="../../content/moderation/manual.png" style="display:block;margin:auto;"/>
@@ -394,11 +413,12 @@ Increased focus of regulators and new regulations.
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>PROBLEM STATEMENT</h5>
-<p>By now, Product had their priorities and I began to analyse and categorise the research insights, the challenges, needs , painpoints and gaps in the system in alignment of the product goals. This led to narrow down on the following problem statement where we brainstromed ideas, solutions together with product, engineering leads and Ace in the session.  </p>
+<p> I began to analyse and categorise the research insights, the challenges, needs , painpoints and gaps in the system in alignment of the product goals. This led to narrow down on the following problem statement where we brainstromed ideas, solutions together with product, engineering leads and Ace in the session.  </p>
                       <ol>
 <li>How might we simplify the manual assignment workflow?</li>
 <li>How might we optimise review experience?</li>
-<li>How might we reduce reviewers stress and support wellness health? </li></ol>                      
+<li>How might we reduce reviewers stress and support wellness health? </li>
+<li> How might we protect and secure member data?</ol>                      
                   </div>
                     </div></div></div></div></div></div>
                     
@@ -415,11 +435,18 @@ Increased focus of regulators and new regulations.
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/moderation/ideal.png" data-sizes="auto"
+                         data-srcset="../../content/moderation/ideal.png 1920w, ../../content/moderation/ideal.png 768w, ../../content/moderation/ideal.png 700w, ../../content/moderation/ideal.png 600w"/>
+                           &nbsp  &nbsp
+                         <img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/proposed_concept.png" data-sizes="auto"
                          data-srcset="../../content/moderation/proposed_concept.png 1920w, ../../content/moderation/proposed_concept.png 768w, ../../content/moderation/proposed_concept.png 700w, ../../content/moderation/proposed_concept.png 600w"/>
                       
                       <h5>DETAIL FLOW EXPERIENCE</h5>
-<p>To progress from the high level concept, I tried adding the user requirement as part of the experience, I also detaield out the other experience that could be the potential screens for future usecases.</p>
+<p>To progress from the high level concept, I tried adding the user requirement as part of the experience, I also detailed out the other experience that could be the potential screens for future usecases.</p>
                       
                     </div></div></div></div></div></div></div>
                     
@@ -448,16 +475,17 @@ Increased focus of regulators and new regulations.
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>WIREFRAME EXPLORATION</h5>
-                        <p> Out many stages of the review process, starting from entry point to the decision stage, the place where the content gets reviewed will be the most significant part of this application. I strated to explore on how the content and where the content can be reviewed </p>
+                        <p> Out many stages of the review process, starting from entry point to the decision stage, the place where the content gets reviewed will be the most significant part of this application. I started to explore on how the content, where the content can be reviewed and reviewed, so i started with blocks on each of these area to form a wireframe structure and then I continued various versions to explore to include other important aspects that is required as part of the review process</p>
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="wireframe thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/moderation/wireframe_1.png" data-sizes="auto"
-                         data-srcset="../../content/moderation/wireframe_1.png 1920w, ../../content/moderation/wireframe_1.png 768w, ../../content/moderation/wireframe_1.png 700w, ../../content/moderation/wireframe_1.png 600w"/>
+                         data-src="../../content/moderation/blocks.jpg" data-sizes="auto"
+                         data-srcset="../../content/moderation/blocks.jpg 1920w, ../../content/moderation/blocks.jpg 768w, ../../content/moderation/blocks.jpg 700w, ../../content/moderation/blocks.jpg 600w"/>
                       </div>
+                      
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -485,7 +513,16 @@ Increased focus of regulators and new regulations.
                          data-srcset="../../content/moderation/wireframe_4.png 1920w, ../../content/moderation/wireframe_4.png 768w, ../../content/moderation/wireframe_4.png 700w, ../../content/moderation/wireframe_4.png 600w"/>
                       </div>
                       </div>
-                      <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                        <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <div class="wpb_column columns medium-6 thb-dark-column small-12">
+                          <img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="wireframe thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/moderation/wireframe_1.png" data-sizes="auto"
+                         data-srcset="../../content/moderation/wireframe_1.png 1920w, ../../content/moderation/wireframe_1.png 768w, ../../content/moderation/wireframe_1.png 700w, ../../content/moderation/wireframe_1.png 600w"/>
+                      </div>
+                       <!--<div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -493,7 +530,7 @@ Increased focus of regulators and new regulations.
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/wireframe_5.png" data-sizes="auto"
                          data-srcset="../../content/moderation/wireframe_5.png 1920w, ../../content/moderation/wireframe_5.png 768w, ../../content/moderation/wireframe_5.png 700w, ../../content/moderation/wireframe_5.png 600w"/>
-                      </div>
+                      </div> -->
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -584,6 +621,43 @@ Increased focus of regulators and new regulations.
                         <p>&nbsp;<br><br>&nbsp;</p>
                   </div>
                     </div></div></div></div></div></div>
+
+<div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">                    
+                    <h5>FINAL OUTCOME</h5>
+                    <img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/moderation/result.gif" data-sizes="auto"
+                         data-srcset="../../content/moderation/result.gif 1920w, ../../content/moderation/result.gif 768w, ../../content/moderation/result.gif 700w, ../../content/moderation/result.gif 600w"/>
+                </div>
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                    <h5>OVERALL DESIGN IMPACT</h5>
+                    <ul>
+                        <li>Page Clicks are reduced from 5 to 1 and Window hops are reduced from from 3 to 1 from assignment to reviewing an item</li>
+                        <li>Reduced page load time from 6.4 sec to 3 sec. </li>
+                        <li>% Reviewed within SLA increased by 10PP with auto assignments </li>
+                        <li>CSAT has improved from 2.9 to 3.5 due to the Auto blur/Auto grayscale feature and launch of a new workbench.</li>
+                    </ul>
+                    <h5>USER FEEDBACK AFTER LAUNCH</h5>
+                    <div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote">I wanted to reach out and thank all those responsible for making Workbench such a great tool to work with! I personally find it easier and less time consuming than the other options available. Job well done, team” </p></blockquote>
+                            <cite><span>Reviewer</span><br><br></cite></div></div>
+                    <div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote">I've been working on the Workbench since a quarter now. What I've noticed as one of the initial reviewers: an improvement in the UI, and few integrations of important functionalities of inspector. The member section of the WB is surely helpful by limiting cursor travel to different tabs. The visual organisation of basic information required for a review is a huge step up from inspector. Lastly, ability to translate content within the tool is a lifesaver. Kudos to the team for that.” </p></blockquote>
+                            <cite><span>Reviewer</span><br><br></cite></div></div>
+
+                </div>
+                </div></div></div></div></div></div>
             
                     
         <div class="post-content">
@@ -628,7 +702,37 @@ Increased focus of regulators and new regulations.
                    </div>                   
                     </div></div></div></div></div></div>
                     
-        <div class="post-content grey-bg">
+        <div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                    <h5>Design exploration</h5>
+                    <img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/moderation/left pane_exploration.png" data-sizes="auto"
+                         data-srcset="../../content/moderation/left pane_exploration.png 1920w, ../../content/moderation/left pane_exploration.png 768w, ../../content/moderation/left pane_exploration.png 700w, ../../content/moderation/left pane_exploration.png 600w"/>
+                        &nbsp
+                     <p> The design variation were presented to product, engineering and TnS reps to review the design on each varation. We discussed the possibilities and weighed with pros and cons on each variation. In addition to the review, I called out the <b>risks, dependencies, external factors, and side effects </b>that is involved as part of the fucntionality. </p>
+                        <li> what happens to the assignment when a reviewers want to take a break? </li>
+                        <li> should the reviewers had possibilities to log off while reviewing?</li>
+                        <li> What happens when their is a power cut scenario? </li>
+                        <li>   How is the item prioritised in the assigned queue?  Should the user follow an order?</li>
+                        <li>  What would be the ratio of items given to the users? For eg, will the user be assigned all critical items or will it be 2 critical items and one medium/low-risk items?</li>
+                        <li>  Will the users have the flexibility to work on any of the 3 listed items or should they mandatory work on one item at a time?</li>
+                        <li>Reviewers can refresh the list by toggling it off and on. </li>
+                        <li>Micromanagement on the work behaviour like monitoring breaks and the hours spent on the workbench</li>
+                        <li>What if the user misses the SLA because some item is in the queue for a long time? Does the item has a threshold to auto un-assign after a certain time?   </li>    
+                        <li>Will auto-assign impact the performance or average handling time of the reviewers?</li>
+                </div>
+                    </div></div></div></div></div></div> &nbsp
+
+<div class="post-content grey-bg">
                             
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
           <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
@@ -637,7 +741,7 @@ Increased focus of regulators and new regulations.
                 <div class="row wpb_row vc_inner row-fluid text-left">
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>ASSIGNMENT EXPERIENCE : AFTER</h5>
-<p>Our proposal enables reviewers to self-assign items with just one click on the assignment pane and this eliminate all the filter actions that were required to view and manual assign review the item. When the reviewers enable “Assign me item” toggle they receive 3 items to their assignment list based on their expertise and fair distribution among all reviewers. As they complete each item, a new item gets populated in their queue. </p>
+<p>We agreed on the below assignment experience which was considered to be the most favourable to reviewers to self-assign items with just one click on the assignment pane and this eliminate all the filter actions that were required to view and manual assign review the item. When the reviewers enable “Assign me item” toggle they receive 3 items to their assignment list based on their expertise and fair distribution among all reviewers. As they complete each item, a new item gets populated in their queue. </p>
                     <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -645,13 +749,63 @@ Increased focus of regulators and new regulations.
                          data-src="../../content/moderation/assignment.gif" data-sizes="auto"
                          data-srcset="../../content/moderation/assignment.gif 1920w, ../../content/moderation/assignment.gif 768w, ../../content/moderation/assignment.gif 700w, ../../content/moderation/assignment.gif 600w"/>
                     
-                    <h5>IMPACT</h5>
+                
+                        <h5>Feedback on the design from reviewers</h5>
+
+                        <p>Potential unintended consequences of auto-assignment </p>
+                        A few of the reviewers who previously worked with auto-assignment expressed concerns about its potential negative impact: 
+                        <li>Some reviewers may misuse the “assign to me” feature to place tickets they don’t want to work back into the queue.</li>
+                        <li>The new feature may encourage unhealthy behaviors such as micromanagement, and excessive comparison of individual performance that can have lasting negative impact on team culture.</li>
+
+
+
+                        <div class="testimonial-quote group">
+                                                <div class="quote-container">
+                                                    <blockquote><p class="quote">I know at PayPal when I worked there, people would do that. Like they'll throw things back in the queue and then go unavailable for a moment until it gets reassigned and then come back in.
+
+                        I am not a fan of this model.  I've seen it in my previous company, Amazon, and it led to too many issues with micromanagement and a lot of stuff like that. … There were a lot of issues with when you can take your breaks, how many minutes you can take a break and what times you can take a break.  It just led to a whole bunch of mess later on down the line. … You have to say, I am working right now, I'm not working right now. So it wasn't you get up to go take a smoke. Then again, people who don't smoke might come up with a complaint saying that these people go for a smoke so they are taking more breaks than the other person. And I've seen all this stuff happen.
+                        ”</p></blockquote> <cite><span>Reviewer</span><br><br></cite></div></div>
+                            <p>Forcing reviewers to work only one assigned ticket at a time could be problematic.</p>
+                                Reviewers currently have the flexibility to work on easy tickets before working on complex ones. Limiting reviewers to work only the assigned ticket would take away this flexibility.  <br>
+
+                                Also, at times reviewers may seek a second opinion on a ticket.  While they wait for the second opinion, they would work on other tickets.  The new assignment system would force reviewers to either un-assign the ticket or place a temporary label on the ticket (which would require reviewers to use another workflow to retrieve and re-label the ticket).  <br>
+
+                                Although the auto-assignment feature replaces the inefficient manual assignment workflow, it also may be taking away the flexibility reviewers currently have in terms of managing the tickets they work on.  It would be important to afford reviewers some flexibility in the new auto-assignment experience to safeguard job satisfaction. <br>
+
+
+                                               <div class="testimonial-quote group">
+                                                <div class="quote-container">
+                                                    <blockquote><p class="quote">"Sometimes you have comments which are a bit tricky where I would reach out to someone or maybe a senior. And then you would hold onto the ticket. Try of course make sure it won't run out of SLA.
+
+                        I do think that if it's difficult for me, it probably will be difficult for most agents as well. And then there definitely might be the risk that then everybody drops the ticket."
+
+                         </p></blockquote><cite><span>Reviewer</span><br><br></cite></div></div>
+
+                <h5>Iteration based on feedback</h5>
+                    <p>To avoid auto assignment mis-use, an opton to delibrate unassign was introduced if reviewers want to take a break or log off. The expectation here is not micro management or judged on reviewers work hours but to avoid SLA time out. However, reviewers performance will be discussed asusual with their managers end of every month on overall items and not specific to a particular instance unless if they delibrately and continuously found to misuse this option to get new items, then they can raise concerns on the behaviour </li>
+                    This option allows reviewers to work offline item by not requesting for new one and on toggling off the button as an open option if they wish for it.  </p>
+                    <img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/moderation/conscious_off.gif" data-sizes="auto"
+                         data-srcset="../../content/moderation/conscious_off.gif 1920w, ../../content/moderation/conscious_off.gif 768w, ../../content/moderation/conscious_off.gif 700w, ../../content/moderation/conscious_off.gif 600w"/>
+                &nbsp
+                    <p>Each review item has an SLA associated to it, If reviewers want to keep an item in the queue or want a longer time to review than alloted then they can use the Pin a task option to pin an item into their queue. </p>
+                    <img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/moderation/pin_item.gif" data-sizes="auto"
+                         data-srcset="../../content/moderation/pin_item.gif 1920w, ../../content/moderation/pin_item.gif 768w, ../../content/moderation/pin_item.gif 700w, ../../content/moderation/pin_item.gif 600w"/>
+             
+                   <h5>IMPACT</h5>
                     <ul>
-<li>Avoid continuous monitoring of dashboard </li>
-<li>One click assignment of items instead of applying multiple filters and bulk assign the items. </li>
-<li>New item populates as the reviewer clear an item. </li>
-<li>Minimal risk of missing out of SLA by moderating SLA timeout from the absent state due to various conditions like remote collaboration, power, internet connectivity, and other factors.. </li>
-<li>Avg of ~4 clicks involved to actioning on an item. </li></ul>
+                    <li>Avoid continuous monitoring of dashboard </li>
+                    <li>One click assignment of items instead of applying multiple filters and bulk assign the items. </li>
+                    <li>New item populates as the reviewer clear an item. </li>
+                    <li>Minimal risk of missing out of SLA by moderating SLA timeout from the absent state due to various conditions like remote collaboration, power, internet connectivity, and other factors.. </li>
+                    <li>Avg of ~4 clicks involved to actioning on an item. </li></ul>
                 </div>
                     </div></div></div></div></div></div>
                     
@@ -712,7 +866,13 @@ Increased focus of regulators and new regulations.
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/translation.gif" data-sizes="auto"
                          data-srcset="../../content/moderation/translation.gif 1920w, ../../content/moderation/translation.gif 768w, ../../content/moderation/translation.gif 700w, ../../content/moderation/translation.gif 600w"/>
-                    
+                        <div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote">Love the auto translation to English.  However, concerned about the quality of translation.  As different translation tools can provide very different translated content which could result in very different decisions taken by the reviewers.
+” </p></blockquote>
+                            <cite><span>Reviewer</span><br><br></cite></div></div>
+
+                </div>
                     <h5>IMPACT</h5>
                     <ul>
 <li>Inbuilt translation feature enables members to view the translated content in one click </li>
@@ -756,6 +916,12 @@ Increased focus of regulators and new regulations.
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/well.gif" data-sizes="auto"
                          data-srcset="../../content/moderation/well.gif 1920w, ../../content/moderation/well.gif 768w, ../../content/moderation/well.gif 700w, ../../content/moderation/well.gif 600w"/>
+                            <div class="testimonial-quote group">
+                        
+                            <blockquote><p class="quote">Really likes this feature so I can be more prepared mentally to view disturbing images/videos
+” </p></blockquote> <cite><span>Reviewer</span><br><br></cite>
+
+                </div>
                     <h5>IMPACT</h5>
                     <ul>
 <li>This helps to reduce the mental stress caused by shocking images on  daily basis</li>
@@ -785,7 +951,7 @@ Increased focus of regulators and new regulations.
                 <div class="row wpb_row vc_inner row-fluid text-left">
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>LABELS : BEFORE</h5>
-<p>Reviewers view separate Spam type reasons and Low quality reason list in two different windows</p>
+<p>Reviewers view separate Spam type reasons and Low quality reason list in two different windows, In addition, many labels had duplicate or similar policy which caused confusion and also few labels were obsolete </p>
                     <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -793,9 +959,31 @@ Increased focus of regulators and new regulations.
                          data-src="../../content/moderation/labels_before.png" data-sizes="auto"
                          data-srcset="../../content/moderation/labels_before.png 1920w, ../../content/moderation/labels_before.png 768w, ../../content/moderation/labels_before.png 700w, ../../content/moderation/labels_before.png 600w"/>
 
+
                 </div>
                     </div></div></div></div></div></div>
-                    
+
+<div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                    <h5>LABELS pane exploration</h5>
+<p>A lot of time was spent on the labelling experience, Several sessions reviewing the concept, intent and labelling behaviour was explored. In this process, something i could influence from design and experience perspective was a critical recommendation that i requested to combine spam and lQ labels to avoid bias. This recommendation was well appreciated across various TnS folks but nearly spent more than 6 months convincing Data science, policy and Engineering team to modify the approach. </p>
+                    <img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/moderation/right_pane.jpg" data-sizes="auto"
+                         data-srcset="../../content/moderation/right_pane.jpg 1920w, ../../content/moderation/right_pane.jpg 768w, ../../content/moderation/right_pane.jpg 700w, ../../content/moderation/right_pane.jpg 600w"/>
+
+                </div>
+                    </div></div></div></div></div></div> &nbsp
+
+
         <div class="post-content grey-bg">
                             
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
@@ -819,42 +1007,39 @@ Increased focus of regulators and new regulations.
                 </div>
                     </div></div></div></div></div></div>
                     
-        <div class="post-content">
+         <div class="post-content">
                             
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
           <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left">
-                <div class="wpb_column columns medium-12 thb-dark-column small-12">                    
-                    <h5>RESULT</h5>
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                    <h5>AUTHOR REVIEW :  BEFORE</h5>
+<p>Reviews often require accessing multiple resources, within and outside the tool like visiting Linkedin profile and Member profile page, for context gathering and the review workflow involves many clicks, scrolls, copy & paste, and open & close of tabs, making the workflow time consuming and inefficient.
+</p>
                     <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/moderation/result.gif" data-sizes="auto"
-                         data-srcset="../../content/moderation/result.gif 1920w, ../../content/moderation/result.gif 768w, ../../content/moderation/result.gif 700w, ../../content/moderation/result.gif 600w"/>
-                </div>
-                <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                    <h5>DESIGN IMPACT</h5>
-                    <ul>
-                        <li>Page Clicks are reduced from 5 to 1 and Window hops are reduced from from 3 to 1 from assignment to reviewing an item</li>
-                        <li>Reduced page load time from 6.4 sec to 3 sec. </li>
-                        <li>% Reviewed within SLA increased by 10PP with auto assignments </li>
-                        <li>CSAT has improved from 2.9 to 3.5 due to the Auto blur/Auto grayscale feature and launch of a new workbench.</li>
-                    </ul>
-                    <h5>USER FEEDBACK</h5>
-                    <div class="testimonial-quote group">
-                        <div class="quote-container">
-                            <blockquote><p class="quote">I wanted to reach out and thank all those responsible for making Workbench such a great tool to work with! I personally find it easier and less time consuming than the other options available. Job well done, team” </p></blockquote>
-                            <cite><span>Reviewer</span><br><br></cite></div></div>
-                    <div class="testimonial-quote group">
-                        <div class="quote-container">
-                            <blockquote><p class="quote">I've been working on the Workbench since a quarter now. What I've noticed as one of the initial reviewers: an improvement in the UI, and few integrations of important functionalities of inspector. The member section of the WB is surely helpful by limiting cursor travel to different tabs. The visual organisation of basic information required for a review is a huge step up from inspector. Lastly, ability to translate content within the tool is a lifesaver. Kudos to the team for that.” </p></blockquote>
-                            <cite><span>Reviewer</span><br><br></cite></div></div>
+                         data-src="../../content/moderation/label.gif" data-sizes="auto"
+                         data-srcset="../../content/moderation/label.gif 1920w, ../../content/moderation/label.gif 768w, ../../content/moderation/label.gif 700w, ../../content/moderation/label.gif 600w"/>
+                    <h5>IMPACT</h5>
+<ul><li>Avoid biases on Spam and LQ category and allow the system to decide the treatment</li>
+<li>Consolidated list without duplicate labels</li> </ul>
 
                 </div>
-                </div></div></div></div></div></div>
+<div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p class="quote">"This is good. It's a nice snapshot. I like the way it's formatted.
+
+We have certain policies that require restriction. And if we can see that they've had three strikes of commercial on their account, and I can click on the little drop down and it shows me all three counts. I can click on the links to make sure they're accurate. And then after that, I can just highlight the three and put that into my restriction note that has to go up to policy.
+
+” </p></blockquote>
+                            <cite><span>Reviewer</span><br><br></cite></div></div>
+
+                    </div></div></div></div></div></div>
+                    
                     
         <div class="post-content grey-bg">
                             
@@ -872,6 +1057,7 @@ Increased focus of regulators and new regulations.
 
 <li>There was a lack of clarity on the project requirements in addition to the communication gap between the product manager and the design team. I overcame this challenge by establishing a strong relationship with the PMs by co-authoring the product documents and by helping in creating presentations. I gained trust with the PM by coordinating and discussing project challenges in multiple meetings that included reps, cross functional teams and data science to get clear understanding on the business objectives, product insights and product gaps</li></ul>
                 </div>
+
                     </div></div></div></div></div></div>
                     
         <div class="post-content">
