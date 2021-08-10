@@ -538,7 +538,7 @@ That’s not something we need as part of good experience. Such scenario can lea
         <div class="post-content">
                             
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
-          <div class="wpb_column columns medium-4 large-4 thb-dark-column small-12">
+          <div class="wpb_column columns medium-8 large-8 thb-dark-column small-12">
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left"
@@ -546,17 +546,18 @@ That’s not something we need as part of good experience. Such scenario can lea
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image1   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/recovery/prototype.png" data-sizes="auto"
-                         data-srcset="../../content/recovery/prototype.png 1920w, ../../content/recovery/prototype.png 768w, ../../recovery/prototype.png 700w, ../../recovery/prototype.png 600w"/></a>
+                         data-src="../../content/recovery/prototype.gif" data-sizes="auto"
+                         data-srcset="../../content/recovery/prototype.gif 1920w, ../../content/recovery/prototype.gif 768w, ../../recovery/prototype.gif 700w, ../../recovery/prototype.gif 600w"/></a>
                 </div></div></div></div></div></div>
                     
         <div class="post-content">
                             
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
-          <div class="wpb_column columns medium-10 large-8 thb-dark-column small-12">
+          <div class="wpb_column columns medium-8 large-8 thb-dark-column small-12">
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left"
+                <p>Over all, the project received good feedback and on signing off the design, the development team kickstarted on the design development. Where I got involved to review the dev version of the design and excited for launch in a month or so.</p>
                 
                 
                 </div></div></div></div></div></div>
@@ -568,7 +569,6 @@ That’s not something we need as part of good experience. Such scenario can lea
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left">
-                <p>Over all, the project received good feedback and on signing off on design, the development team kickstarted on the design development. Where I got involved to review the dev version of the design and excited for have launch of this process in a month or so.</p>
                 <img width="1920" height="1052"
                      src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                      class="thb_image   attachment-full thb-lazyload lazyload" alt=""
