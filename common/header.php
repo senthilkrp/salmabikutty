@@ -15,7 +15,19 @@
   <script type="text/javascript">
     window.onload = function() {
         var elements = document.querySelectorAll( '.thb_image' );
-        Intense( elements );
+        // Intense( elements );
+        new Zooming({
+          transitionDuration: 0.2,
+          onOpen: function() {
+            document.getElementById("wrapper").classList.remove("open");
+            document.getElementById("footer").classList.add("hidden");            
+          },
+          onClose: function () {
+            document.getElementById("wrapper").classList.add("open");
+            document.getElementById("footer").classList.remove("hidden");            
+          }
+        }).listen('.thb_image');
+
     }
     window._wpemojiSettings = {
       "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/",
@@ -296,7 +308,7 @@
   </script>
   <script src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.mine248.js?ver=3.5.4'></script>
   <script src='/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-carte23c.js?ver=5.7'></script>
-  <script src='/wp-includes/js/intense.min.js'></script>
+  <script src='/wp-includes/js/zooming.js'></script>
   <script src='https://use.typekit.net/sxn8doo.js'></script>
   <script type='text/javascript'>
     try {
@@ -362,7 +374,7 @@
 
 <body
     class="page-template-default page page-id-541 woocommerce-no-js midnight_off header-lateral-off snap_rows_off thb-dropdown-color-dark scroll-spy-on thb-header-fixed-on thb-header-fill-off thb_row_pagination_off lightbox-theme-dark right-click-off row_pagination_position-left dark-title disable_header_fill-off disable-row-offset-off mm-link-animation-bg-fill footer-shadow-light thb-borders-off overflow-off portfolio_title_animation-on product_style1_color-dark wpb-js-composer js-comp-ver-5.7 vc_responsive">
-<div id="wrapper" class="thb-page-transition-on">
+<div id="wrapper" class="thb-page-transition-on open">
   <!-- Start Content Click Capture -->
   <div class="click-capture"></div>
   <!-- End Content Click Capture -->

@@ -4596,11 +4596,14 @@ figure {
 #wrapper [role="main"] {
 	display: flex;
 	flex-direction: column;
-	position: relative;
-	z-index: 30;
+	position: relative;	
 	background: #fff;
 	overflow: hidden;
 	min-height: 100vh
+}
+
+#wrapper.open [role="main"] {
+	z-index: 30;
 }
 
 #wrapper [role="main"]>.row {
@@ -21708,4 +21711,8 @@ html.fp-enabled,
 .thb-cookie-bar .thb-cookie-text a {
 	font-weight: 600;
 	color: #fff
+}
+
+#footer.hidden {
+	visibility: hidden;
 }
