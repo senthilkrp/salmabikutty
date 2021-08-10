@@ -91,15 +91,53 @@ Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
       
                     
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                    <h5> MISSION</h5>
-                    <hp>  Empower Trust and safety reps with the right set of information to handle a request efficiently; and enable teams to be more productive via process optimization, automation and measurement; while maintaining strong data security and protecting member privacy
+                    <h5> Product goal</h5>
+                    <p>  Empower Trust and safety reps with the right set of information to handle a request efficiently; and enable teams to be more productive via process optimization, automation and measurement; while maintaining strong data security and protecting member privacy
                     <li> Drive Efficiency by improved reviewer experience </li>
                     <li> Drive real-time Analytics for operations monitoring, forecasting and performance management​ </li>
                     <li> Drive platform Stability, Data Integrity, Performance and Agility to adapt to changing business needs​</li>
                     <li> Drive Wellness by providing resiliency features​ </li>
-                      
                     </p>
-                </div>
+
+                     <h5>Success criteria</h5>  
+                            <div class="wpb_column columns medium-6 thb-dark-column small-6">              
+                            <li>Reduced effort to handle a case </li>
+                            <li> Improve reviewer's satisfaction score </li> 
+                            <li> CPH (Case per hour ) Increase #case handled per hour </li> </div>
+                            <div class="wpb_column columns medium-6 thb-dark-column small-6">
+                            <li> AHT (Average handling time) Reduce AHT  </li>
+                            <li> Error rate- Reduction in error rate </li>
+                            <li> Quality score >95 % of accuracy </li> </div>
+                </div> &nbsp
+
+                    
+        <div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-12 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>FINAL OUTCOME</h5>  
+                      <img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/moderation/finaloutcome.png" data-sizes="auto"
+                         data-srcset="../../content/moderation/finaloutcome.png 1920w, ../../content/moderation/finaloutcome.png 768w, ../../content/moderation/finaloutcome.png 700w, ../../content/moderation/finaloutcome.png 600w"/><br><br>
+                         <h5>OVERALL DESIGN IMPACT</h5>
+                    <ul>
+                        <li>Page Clicks are reduced from 5 to 1 and Window hops are reduced from from 3 to 1 from assignment to reviewing an item</li>
+                        <li>Reduced page load time from 6.4 sec to 3 sec. </li>
+                        <li>% Reviewed within SLA increased by 10PP with auto assignments </li>
+                        <li>CSAT has improved from 2.9 to 3.5 due to the Auto blur/Auto grayscale feature and launch of a new workbench.</li>
+                        <li> Zero error reports recoreded </li>
+                    </ul>
+
+
+                   </div>
+                 </div></div></div></div></div></div>
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>My role</h5>
@@ -172,18 +210,7 @@ Increased focus of regulators and new regulations.
                         <img src="../../content/moderation/main_coworkers_small.png"/>
                     </div>
 
-<div class="wpb_column columns medium-8 thb-dark-column small-8">
-                  <h5>Success criteria</h5>  </div>
-                  <div class="wpb_column columns medium-6 thb-dark-column small-6">      
-  <h6>For content moderators </h6> <li>Reduced effort to handle a case </li>
-<li> Improve reviewer's satisfaction score by X </li> </div>
-<div class="wpb_column columns medium-6 thb-dark-column small-6">
-<h6>For Partners </h6>
-<li> CPH (Case per hour ) Increase #case handled per hour </li>
-<li> AHT (Average handling time) Reduce AHT  </li>
-<li> Error rate- Reduction in error rate </li>
-<li> Quality score >95 % of accuracy </li>
-  </div>  &nbsp
+ &nbsp
                 
                   </div></div></div></div></div></div> 
  
@@ -639,14 +666,7 @@ Increased focus of regulators and new regulations.
                          data-srcset="../../content/moderation/result.gif 1920w, ../../content/moderation/result.gif 768w, ../../content/moderation/result.gif 700w, ../../content/moderation/result.gif 600w"/>
                 </div>
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                    <h5>OVERALL DESIGN IMPACT</h5>
-                    <ul>
-                        <li>Page Clicks are reduced from 5 to 1 and Window hops are reduced from from 3 to 1 from assignment to reviewing an item</li>
-                        <li>Reduced page load time from 6.4 sec to 3 sec. </li>
-                        <li>% Reviewed within SLA increased by 10PP with auto assignments </li>
-                        <li>CSAT has improved from 2.9 to 3.5 due to the Auto blur/Auto grayscale feature and launch of a new workbench.</li>
-                        <li> Zero error reports recoreded </li>
-                    </ul>
+                    
                     <h5>USER FEEDBACK AFTER LAUNCH</h5>
                     <div class="testimonial-quote group">
                         <div class="quote-container">
