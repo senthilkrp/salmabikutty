@@ -126,7 +126,7 @@ Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/finaloutcome.png" data-sizes="auto"
                          data-srcset="../../content/moderation/finaloutcome.png 1920w, ../../content/moderation/finaloutcome.png 768w, ../../content/moderation/finaloutcome.png 700w, ../../content/moderation/finaloutcome.png 600w"/><br><br>
-                         <h5>PHASE 1 IMPACT</h5>
+                         <h5>OVERALL DESIGN IMPACT</h5>
                     <ul>
                         <li>Page Clicks are reduced from 5 to 1 and Window hops are reduced from from 3 to 1 from assignment to reviewing an item</li>
                         <li>Reduced page load time from 6.4 sec to 3 sec. </li>
