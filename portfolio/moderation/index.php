@@ -444,13 +444,13 @@ Increased focus of regulators and new regulations.
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/proposed_concept.png" data-sizes="auto"
                          data-srcset="../../content/moderation/proposed_concept.png 1920w, ../../content/moderation/proposed_concept.png 768w, ../../content/moderation/proposed_concept.png 700w, ../../content/moderation/proposed_concept.png 600w"/>
-                      
+                      <div class="post-content">
                       <h5>DETAIL FLOW EXPERIENCE</h5>
 <p>To progress from the high level concept, I tried adding the user requirement as part of the experience, I also detailed out the other experience that could be the potential screens for future usecases.</p>
                       
                     </div></div></div></div></div></div></div>
                     
-        <div class="post-content grey-bg">
+        
                             
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
           <div class="wpb_column columns medium-12 large-12 medium-10 thb-dark-column small-12">
@@ -561,7 +561,7 @@ Increased focus of regulators and new regulations.
                   </div>
                     </div></div></div></div></div></div>
                     
-        <div class="post-content grey-bg">
+        <div class="post-content">
                             
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
           <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
@@ -622,7 +622,7 @@ Increased focus of regulators and new regulations.
                   </div>
                     </div></div></div></div></div></div>
 
-<div class="post-content">
+<div class="post-content grey-bg">
                             
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
           <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
@@ -645,6 +645,7 @@ Increased focus of regulators and new regulations.
                         <li>Reduced page load time from 6.4 sec to 3 sec. </li>
                         <li>% Reviewed within SLA increased by 10PP with auto assignments </li>
                         <li>CSAT has improved from 2.9 to 3.5 due to the Auto blur/Auto grayscale feature and launch of a new workbench.</li>
+                        <li> Zero error reports recoreded </li>
                     </ul>
                     <h5>USER FEEDBACK AFTER LAUNCH</h5>
                     <div class="testimonial-quote group">
@@ -660,7 +661,7 @@ Increased focus of regulators and new regulations.
                 </div></div></div></div></div></div>
             
                     
-        <div class="post-content">
+        <div class="post-content ">
                             
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
           <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
@@ -1015,18 +1016,38 @@ Increased focus of regulators and new regulations.
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left">
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                    <h5>AUTHOR REVIEW :  BEFORE</h5>
+
+ <h5>AUTHOR REVIEW : BEFORE</h5>
 <p>Reviews often require accessing multiple resources, within and outside the tool like visiting Linkedin profile and Member profile page, for context gathering and the review workflow involves many clicks, scrolls, copy & paste, and open & close of tabs, making the workflow time consuming and inefficient.
 </p>
                     <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/moderation/label.gif" data-sizes="auto"
-                         data-srcset="../../content/moderation/label.gif 1920w, ../../content/moderation/label.gif 768w, ../../content/moderation/label.gif 700w, ../../content/moderation/label.gif 600w"/>
+                         data-src="../../content/moderation/bad-author.png" data-sizes="auto"
+                         data-srcset="../../content/moderation/bad-author.png 1920w, ../../content/moderation/bad-author.png 768w, ../../content/moderation/bad-author.png 700w, ../../content/moderation/bad-author.png 600w"/>
+
+</div>
+</div></div></div></div></div></div> &nbsp
+ <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                    <h5>AUTHOR REVIEW :  AFTER</h5>
+<p> Having author information and required content for review, to identify this content several workshop were conducted to gather information, prioritise and also to identify its purpose.</p>
+                    <img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/moderation/Author pane.jpg" data-sizes="auto"
+                         data-srcset="../../content/moderation/Author pane.jpg 1920w, ../../content/moderation/Author pane.jpg 768w, ../../content/moderation/Author pane.jpg 700w, ../../content/moderation/Author pane.jpg 600w"/>
                     <h5>IMPACT</h5>
-<ul><li>Avoid biases on Spam and LQ category and allow the system to decide the treatment</li>
-<li>Consolidated list without duplicate labels</li> </ul>
+<ul><li>View Author profile in one click and zero hops within the same tool</li>
+<li>Curated content required for content review, avoid copying, long scrolling and multiple clicks to learn about the reported member </li> </ul>
 
                 </div>
 <div class="testimonial-quote group">
@@ -1039,6 +1060,34 @@ We have certain policies that require restriction. And if we can see that they'v
                             <cite><span>Reviewer</span><br><br></cite></div></div>
 
                     </div></div></div></div></div></div>
+
+<div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                    <h5>Trade off </h5>
+<p>Our time to delivery and cost estimation to build 40+ content types after phase 1 with 1 designer and 20 Engineer came up to 8 years of effort which was not acceptable. Either we had to triple the resource or find an alternate way to deliver solution to the ACE team else reviewers might have to switch between the two tools to do their work. </p>
+
+
+                    <h5>SOLUTION</h5>
+
+<img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/moderation/Tradeoff.gif" data-sizes="auto"
+                         data-srcset="../../content/moderation/Tradeoff.gif 1920w, ../../content/moderation/Tradeoff.gif 768w, ../../content/moderation/Tradeoff.gif 700w, ../../content/moderation/Tradeoff.gif 600w"/>
+<ul><li>All content other than messages content type followed alternate version of text and media component placed distinctively </li>
+<li>To form context we needed to enable Linkedin iframe view to avoid reviewers to go out of the tool and this led to another challenge where reviewers could navigate to another screen using iframe concept and to return to original content they might hit refresh which has a possibility to unassign the item. so i had to came up with a fixed banner solution.  </li> </ul>
+
+                </div>
+                    </div></div></div></div></div></div>
+
+
                     
                     
         <div class="post-content grey-bg">
@@ -1051,11 +1100,11 @@ We have certain policies that require restriction. And if we can see that they'v
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">                    
                     <h5>CHALLENGES AND LEARNING</h5>
                     <ul>
-<li>There were many ad-hoc requests from stakeholders when I use to review concepts which were not planned by the product partner in the quarter. It was a challenge to get a full understanding of the actual requirements, scope and to divide time between multiple projects. I overcame this challenge by setting a clear expectation on the effort required to deliver the tasks and reprioritized the tasks by negotiating with the product and stakeholders.</li>
+<li>There were many ad-hoc requests from stakeholders when I use to review concepts which were not planned by the product partner in the quarter. It was a challenge to get a full understanding of the actual requirements, scope and to divide time between multiple projects. I overcame this challenge by setting a clear expectation on the effort required to deliver the tasks and reprioritized the tasks by negotiating with the product and stakeholders. Also some thing i learnt is to always have buffer time planned for unexpected request </li>
 
-<li>The scope of project Neuron was usually large with limited resources and time. It was very challenging to deliver the project in the limited time without compromising on the quality of work. I mitigated the challenge by calling out the risks in various meetings and requested for additional resources to keep the project on schedule.</li>
+<li>The scope of project Neuron was usually large with limited resources and time. It was very challenging to deliver the project in the limited time without compromising on the quality of work. I mitigated the challenge by calling out the risks in various meetings and requested for additional resources to keep the project on schedule. For this something i could do better is plan in advance when the hiring request is shared at the begining of the fiscal year. So need to plan really ahead of time </li>
 
-<li>There was a lack of clarity on the project requirements in addition to the communication gap between the product manager and the design team. I overcame this challenge by establishing a strong relationship with the PMs by co-authoring the product documents and by helping in creating presentations. I gained trust with the PM by coordinating and discussing project challenges in multiple meetings that included reps, cross functional teams and data science to get clear understanding on the business objectives, product insights and product gaps</li></ul>
+<li>There was a lack of clarity on the project requirements in addition to the communication gap between the product manager and the design team. I overcame this challenge by establishing a strong relationship with the PMs by co-authoring the product documents and by helping in creating presentations. I gained trust with the PM by coordinating and discussing project challenges in multiple meetings that included reps, cross functional teams and data science to get clear understanding on the business objectives, product insights and product gaps. Also wonder what can i do better to improve trust and relationship without streching my time.</li></ul>
                 </div>
 
                     </div></div></div></div></div></div>
