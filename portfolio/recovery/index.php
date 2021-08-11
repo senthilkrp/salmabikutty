@@ -88,14 +88,14 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                     
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>MISSION</h5>
-                    <p>To enable Linkedin agents to mitigate damage done by the bad actor on member’s Linkedin profiles</p>
+                    <p>Provide super powers for Linkedin agents to mitigate damage done by the bad actor on member’s Linkedin profiles</p>
                 </div>
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>My role</h5>
                   </div>
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">                      
-<p>I am the lead designer throughout the project cycle that includes project planning, conducting user research, concept ideation, aligning key stakeholders and cross-functional team on design goals and functionalities, designing user flows, mocks, prototyping, user testing, incorporating user feedback into design iterations, and reviewing developer UI.</p>
+<p>I am the lead designer throughout the project cycle that includes conducting user research, concept ideation, aligning key stakeholders and cross-functional team on design goals and functionalities, designing user flows, mocks, prototyping, user testing, incorporating user feedback into design iterations, and review developer UI.</p>
                   </div>
                 </div></div></div></div></div></div>
                     
@@ -111,7 +111,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                       <h5>Challenge</h5>
                   </div>
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">         
-<p>Every Account Takeover (ATO) or a Account Compromise (ACO) incident leads to a loss in the trust that the member has on our platform and also a bad member experience for the victim of the account takeover as well as for other members who interact with the compromised account.These bad actors do a variety of damage to the member’s account. And today, Linkedin does not have an option to undo a majority of the damage done to their connections or their Linkedin profile.</p>
+<p>Every Account Takeover (ATO) or a Account Compromise (ACO) incident leads to a loss in the trust that the member has on our platform and also a bad member experience for the victim of the account as well as for other members who interact with the compromised account.These bad actors do a variety of damage to the member’s account. And today, Linkedin does not have an option to undo the damage done to their connections or their Linkedin profile.</p>
 
                   </div>
                     
@@ -129,7 +129,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                       <h5>User Requirement</h5>
                   </div>
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <p>The user base for this project are from the Member and Safety recovery team at Linkedin who verify and interact with members. They usually help members to regain access to their profile when their account is compromised or restricted. The main requirement from MSR team is to enable functionality in the tool to clean up bad activities on the member profile.</p>                      
+                      <p>The user base for this project are from the Member and Safety recovery team at Linkedin who verify and interact with members. They usually help members to regain access to their profile when their account is compromised or restricted. The requirement from MSR team is to enable functionality in the tool to clean up bad activities on the member profile.</p>                      
                   </div>                  
                   </div></div></div></div></div></div>                    
                     
@@ -172,7 +172,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>Approach </h5>                                                                  
-                      <p>I started my investigation by reading and analysing member's requests and messages when they report suspicious activities on their profile or when requesting for access on their restricted accounts.</p>                                                                  
+                      <p>I started my investigation by reading and analysing past records of member's requests and messages when they report suspicious activities on their profile or when requesting for access on their restricted accounts.Many times, they also request to undo the damages for their account</p>                                                                  
                           Typically Linkedin blocks the account if the <br><br>
                           
                           <div class="wpb_column columns medium-12 thb-dark-column small-12">
@@ -201,7 +201,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
                         
 
-                        <p>Today, Linkedin supports members to regain access to their hacked account and recommends to secure their account by resetting the password and to enable the 2 factor authentication on the email service provider and Linkedin account. However, Linkedin today is unable to clean up the damage created by the bad actor and member’s need to deal with their profile damage on their own.</p>
+                        <p>Today, Linkedin supports members to regain access to their hacked account and recommends to secure their both email account and Linkedin account by resetting the password and to enable the 2 factor authentication. However, Linkedin today is unable to clean up the damage created by the bad actor and member’s need to deal with their profile damage on their own.</p>
                         </div>
                   </div>
                     
@@ -223,7 +223,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/ato_current.png" data-sizes="auto"
                          data-srcset="../../content/recovery/ato_current.png 1920w, ../../content/recovery/ato_current.png 768w, ../../recovery/ato_current.png 700w, ../../recovery/ato_current.png 600w"/>
-                    <p>The next step was to identify or decide what should be the extended process to support damage recovery - The product manager helped to bring in stakeholders and reps who were associated with this product and we conducted several meetings to define the process, limitations and align on the scope for this project.</p>
+                    <p>The next step was to identify or decide what should be the extended process to support damage recovery - The product manager helped to bring in stakeholders and reps who were associated with this product and we conducted several meetings and workshops to define the process, limitations and align on the scope for this project.</p>
 
                   </div>
                   </div> 
@@ -262,8 +262,8 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/member_perspective.png" data-sizes="auto"
                          data-srcset="../../content/recovery/member_perspective.png 1920w, ../../content/recovery/member_perspective.png 768w, ../../recovery/member_perspective.png 700w, ../../recovery/member_perspective.png 600w"/><br><br>
-                  </div>
-                 </div></div></div></div></div></div>
+                  </div> 
+                 </div></div></div></div></div></div> 
                     
         <div class="post-content">
                             
@@ -280,7 +280,21 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/li_agent_perspective.png" data-sizes="auto"
                          data-srcset="../../content/recovery/li_agent_perspective.png 1920w, ../../content/recovery/li_agent_perspective.png 768w, ../../recovery/li_agent_perspective.png 700w, ../../recovery/li_agent_perspective.png 600w"/>
-                      <p><br>I created flow on the potential use cases and conducted meeting with product partners to verify and discuss the gaps involved the process </p>
+&nbsp
+<p>As the new solution will be connected to the existing process, I decided to analyze the current structure of the workflow to learn the painpoints, gaps and usability issues. I had many 1:1 interviews and group reviews with MSR agents across the globe to identify what was going well and what was not?</p>  
+                <!-- background FFDCBD -->
+                <img width="1920" height="1052"
+                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
+                         sizes="(max-width: 1920px) 100vw, 1920px"
+                         data-src="../../content/recovery/recovery_process.png" data-sizes="auto"
+                         data-srcset="../../content/recovery/recovery_process.png 1920w, ../../content/recovery/recovery_process.png 768w, ../../recovery/recovery_process.png 700w, ../../recovery/recovery_process.png 600w"/>
+                
+                <br><br>
+
+
+
+<p><br>Then I created flow on the potential use cases and conducted meeting with product partners to verify and discuss the gaps involved the process </p>
 <!-- red background FFDCBD -->
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -290,6 +304,8 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                          data-srcset="../../content/recovery/existing_process.png 1920w, ../../content/recovery/existing_process.png 768w, ../../recovery/existing_process.png 700w, ../../recovery/existing_process.png 600w"/>
                 
                 <br><br>
+
+
   <!-- background EAF5FB -->          
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -301,18 +317,9 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                       
                 <p>The biggest gap involved stitching the existing and old process. On highlighting this call out, the Product team helped to resolve by introducing the new option to members on the Linkedin help and support page and that was a quick win for me :)</p>
 
-                <p>As the new solution is part of the existing process, I started to analyze the current structure of the workflow. I had many 1:1 interviews and group reviews with MSR agents to identify what was going well and what was not?</p>  
-                <!-- background FFDCBD -->
-                <img width="1920" height="1052"
-                         src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         class="thb_image   attachment-full thb-lazyload lazyload" alt=""
-                         sizes="(max-width: 1920px) 100vw, 1920px"
-                         data-src="../../content/recovery/recovery_process.png" data-sizes="auto"
-                         data-srcset="../../content/recovery/recovery_process.png 1920w, ../../content/recovery/recovery_process.png 768w, ../../recovery/recovery_process.png 700w, ../../recovery/recovery_process.png 600w"/>
+    
                 
-                <br><br>
-                
-                <p>In mean time, I learnt an enggineering limitation on revoke request. To elaborate when messages and comments revoke action get intiated at the same time, the request goes to 2 different team and the dependency to restore changes will be different time depending on the team resolution queue.  This means we can't confirm our member's in real time that the issue will be resolved but can take upt0 24 hours to confirm the initiated process. This led to a scenario to prioritise which content type is critical for members? So we met the Data science team and learnt the maximum damage was reported on the invitation (~65%) and messaging (~30%). Others were the (~5%) for posts and comments. </p>
+                <p>In mean time, I learnt an enggineering limitation on revoke request confirmation cannot be immediate or have a real time approach.  To elaborate the scenatio,  when messages and comments revoke action get intiated at the same time, the request goes to 2 different team and the dependency to restore changes will be different time depending on the team resolution queue.  This means we can't confirm our member's in real time that the issue will be resolved but can take upt0 24 hours to confirm the initiated process. This led to a scenario to prioritise which content type is critical for members? So we met the Data science team and learnt the maximum damage was reported on the invitation (~65%) and messaging (~30%). Others were the (~5%) for posts and comments. </p>
                       
                 <p>With the known inputs now, i created the workflow for MSR agents to support damage recovery process.</p>
                 <img width="1920" height="1052"
