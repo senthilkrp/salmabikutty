@@ -143,7 +143,7 @@ Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
                         <li>Reduced page load time from 6.4 sec to 3 sec. </li>
                         <li>% Reviewed within SLA increased by 10PP with auto assignments </li>
                         <li>CSAT has improved from 2.9 to 3.5 due to the Auto blur/Auto grayscale feature and launch of a new workbench.</li>
-                        <li> Zero error reports recoreded </li>
+                        <li> Zero error reports recorded </li>
                     </ul>
                   </div>
                 </div></div></div></div></div></div>
@@ -160,9 +160,9 @@ Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
                       <h5>My role</h5>
                   </div>
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">                      
-<p>I joined Linkedin in March 2020 and the discussion on the phase 1 of this project had just begun. At that time, I was setting myself up to learn, build relationship and understand the environment. </p>
+<!--<p>I joined Linkedin in March 2020 and the discussion on the phase 1 of this project had just begun. At that time, I was setting myself up to learn, build relationship and understand the environment. </p> -->
 
-<p>Very soon, i took the charge on this project as a lead designer and worked on the following activities: </p>
+<p>I am the lead designer, worked  end to end of this phase and next phase starting from project planning to design delivery. To eloborate: </p>
                         <ol>
                           
                             <li>Project scoping and task prioritisation </li>
