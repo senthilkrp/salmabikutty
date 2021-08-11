@@ -80,7 +80,93 @@ Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
                     <p>Trust and Safety at Linkedin </p>                    
                 </div>
         </div></div></div></div></div></div>
+
+
+        <div class="post-content">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
                     
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>WHY are we doing this?</h5>
+                  </div>
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">         
+<ol><li>The existing tool used for content moderation has build on legacy application, upgrading request and new feature on the application is often time consuming and led to several complications </li>
+<li> The system is based on older library script has many limitations and with poorly designed UI and lacks important features and capabilities.  As a result, the review process is highly inefficient, reviewers experience cause mental stress, and the potential for security breaches is heightened.</li>
+
+<li>There is huge pressure on the team to get better at scaling content moderation and improving quality.<br>
+Threats brought forward by LinkedIn’s exponential growth in the volume and sources of content;<br>
+Increased focus of regulators and new regulations.
+
+<!--The new tool have to address the inefficiencies in the current tool used by reviewers and moderators to monitor our platform for unprofessional and harmful activities such as spam, scam or harassment, reviewing the quality of ads, jobs, and reviewing potential fake accounts.<li> The new tool should support all future content growth and keep up the safety on Linkedin platform.</li> </ol> --> 
+                  </div>
+                  </div></div></div></div></div></div> 
+
+              <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                    
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <h5>USER GROUP</h5>
+                  </div>
+                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                      <p>Content moderation tool has mainly 2 users and they are: </p>                      
+                  </div>
+                    
+                  <div class="wpb_column columns medium-4 thb-dark-column small-12">
+                      <img src="../../content/moderation/coworkers_small.png"/>
+                  </div>
+                  <div class="wpb_column columns medium-8 thb-dark-column small-12">
+                      <h6>Content reviewers</h6>
+                      <h7>(Full time employees and Contractors)</h7>
+
+                        <p>Moderators who review the content which is either flagged by LinkedIn members or enqueued by Machine models. Human reviewers can either be Full-time employees of LinkedIn or Contractors.</p>
+                  </div>
+                    
+                  <div class="wpb_column columns medium-8 thb-dark-column small-12">
+                      <h6>Program Partners </h6>
+                      <h7>(TnS Managers, PMO,QA, Audit):</h7>
+
+<p>The users of this group are LinkedIn employees who organize content moderation, Plan and Perform Quality audits, Train & Evaluate moderator’s performance.</p>
+                  </div>
+                    <div class="wpb_column columns medium-4 thb-dark-column small-12">
+                        <img src="../../content/moderation/main_coworkers_small.png"/>
+                    </div>
+                  </div></div></div></div></div></div> 
+                  
+
+                  <div class="post-content grey-bg">
+                            
+        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
+          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
+            <div class="vc_column-inner  ">
+              <div class="wpb_wrapper">
+                <div class="row wpb_row vc_inner row-fluid text-left">
+                  <div class="wpb_column columns medium-10 thb-dark-column small-10">
+                        <h6> <b> Proud Accomplishments together as a team for FY19: </b> </h6> </div>
+                          <div class="wpb_column columns medium-6 thb-dark-column small-6">
+                            <ul>
+                              <li> 4.2 M Members protected from account takeover </li>
+                              <li> 388 K suspicious accounts were restricted </li> 
+                              <li> 3 suicides prevented </li> 
+                            </ul>
+                          </div>  <br>
+                          <div class="wpb_column columns medium-6 thb-dark-column small-6">
+                            <ul>
+                              <li> 2.9 M USD revenue protected </li>
+                              <li> 39 cases of child predators reported to NCMEC</li> 
+                            </ul>
+                          </div> 
+                    
+                  </div></div></div></div></div></div> 
+
         <div class="post-content">
                             
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
@@ -148,7 +234,7 @@ Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
                   </div>
                 </div></div></div></div></div></div>
                     
-        <div class="post-content">
+        <div class="post-content grey-bg">
                             
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
           <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
@@ -174,62 +260,9 @@ Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
                             <li>Design presentation and share Bi-weekly updates to the Execs and Senior Trust partners and stakeholders</li>
                             <li>Provide design specs and participate in bug bash review in the development phase.</li>
                           </ol>
-                  </div>
-                
-                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <h5>WHY are we doing this?</h5>
-                  </div>
-                  <div class="wpb_column columns medium-12 thb-dark-column small-12">         
-<ol><li>The existing tool used for content moderation has build on legacy application, upgrading request and new feature on the application is often time consuming and led to several complications </li>
-<li> The system is based on older library script has many limitations and with poorly designed UI and lacks important features and capabilities.  As a result, the review process is highly inefficient, reviewers experience cause mental stress, and the potential for security breaches is heightened.</li>
-
-<li>There is huge pressure on the team to get better at scaling content moderation and improving quality.<br>
-Threats brought forward by LinkedIn’s exponential growth in the volume and sources of content;<br>
-Increased focus of regulators and new regulations.
-
-<!--The new tool have to address the inefficiencies in the current tool used by reviewers and moderators to monitor our platform for unprofessional and harmful activities such as spam, scam or harassment, reviewing the quality of ads, jobs, and reviewing potential fake accounts. --> <li> The new tool should support all future content growth and keep up the safety on Linkedin platform.</li> </ol>
-                  </div>
-                    
+                  </div>              
                 </div></div></div></div></div></div>
-                    
-        <div class="post-content grey-bg">
-                            
-        <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
-          <div class="wpb_column columns medium-12 large-8 medium-10 thb-dark-column small-12">
-            <div class="vc_column-inner  ">
-              <div class="wpb_wrapper">
-                <div class="row wpb_row vc_inner row-fluid text-left">
-                    
-                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <h5>USER GROUPS</h5>
-                  </div>
-                  <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <p>Content moderation tool has mainly 2 user groups and they are: </p>                      
-                  </div>
-                    
-                  <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                      <img src="../../content/moderation/coworkers_small.png"/>
-                  </div>
-                  <div class="wpb_column columns medium-8 thb-dark-column small-12">
-                      <h6>Content reviewers</h6>
-                      <h7>(Full time employees and Contractors)</h7>
-
-                        <p>Moderators who review the content which is either flagged by LinkedIn members or enqueued by Machine models. Human reviewers can either be Full-time employees of LinkedIn or Contractors.</p>
-                  </div>
-                    
-                  <div class="wpb_column columns medium-8 thb-dark-column small-12">
-                      <h6>Program Partners </h6>
-                      <h7>(TnS Managers, PMO,QA, Audit):</h7>
-
-<p>The users of this group are LinkedIn employees who organize content moderation, Plan and Perform Quality audits, Train & Evaluate moderator’s performance.</p>
-                  </div>
-                    <div class="wpb_column columns medium-4 thb-dark-column small-12">
-                        <img src="../../content/moderation/main_coworkers_small.png"/>
-                    </div>
-                  </div></div></div></div></div></div> 
- 
-
-
+                  
                     
         <div class="post-content">
                             
@@ -300,21 +333,7 @@ Increased focus of regulators and new regulations.
                         <div class="quote-container">
                             <blockquote><p class="quote">“This job is a fun and interesting way to see how the world is interacting with each other.”</p></blockquote>
                       <cite><span>Reviewer</span><br><br>                                                      
-                          </div></div>
-
-
-                        <div class="wpb_column columns medium-10 thb-dark-column small-10">
-                        <h7> <b> Proud Accomplishments together as a team for FY19: </b> </h7> </div>
-
-                            <div class="wpb_column columns medium-6 thb-dark-column small-6">
-                            <li> 4.2 M Members protected from account takeover </li>
-                            <li> 388 K suspicious accounts were restricted </li> 
-                            <li> 3 suicides prevented </li> </div>  <br>
-                             <div class="wpb_column columns medium-6 thb-dark-column small-6">
-                            <li> 2.9 M USD revenue protected </li>
-                            <li> 39 cases of child predators reported to NCMEC</li> </div> 
-
-                            
+                          </div></div>                            
                     </div></div></div></div></div></div> &nbsp
                     
         <div class="post-content grey-bg">
@@ -679,15 +698,7 @@ Increased focus of regulators and new regulations.
                          data-src="../../content/moderation/result.gif" data-sizes="auto"
                          data-srcset="../../content/moderation/result.gif 1920w, ../../content/moderation/result.gif 768w, ../../content/moderation/result.gif 700w, ../../content/moderation/result.gif 600w"/>
                 </div>
-                <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                    <h5>OVERALL DESIGN IMPACT</h5>
-                    <ul>
-                        <li>Page Clicks are reduced from 5 to 1 and Window hops are reduced from from 3 to 1 from assignment to reviewing an item</li>
-                        <li>Reduced page load time from 6.4 sec to 3 sec. </li>
-                        <li>% Reviewed within SLA increased by 10PP with auto assignments </li>
-                        <li>CSAT has improved from 2.9 to 3.5 due to the Auto blur/Auto grayscale feature and launch of a new workbench.</li>
-                        <li> Zero error reports recoreded </li>
-                    </ul>
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">                    
                     <h5>USER FEEDBACK AFTER LAUNCH</h5>
                     <div class="testimonial-quote group">
                         <div class="quote-container">
