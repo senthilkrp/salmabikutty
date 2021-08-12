@@ -248,7 +248,7 @@ Increased focus of regulators and new regulations.
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">                      
 <!--<p>I joined Linkedin in March 2020 and the discussion on the phase 1 of this project had just begun. At that time, I was setting myself up to learn, build relationship and understand the environment. </p> -->
 
-<p>I am the lead designer, worked  end to end of this phase and next phase starting from project planning to design delivery. To eloborate: </p>
+<p>I am the lead designer, worked  end to end  starting from project planning to design delivery. I worked with 1 Researcher, 20 Engineers, 1 PM in the first phase. I worked on the following:</p>
                         <ol>
                           
                             <li>Project scoping and task prioritisation </li>
