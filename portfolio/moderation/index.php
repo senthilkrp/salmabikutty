@@ -91,7 +91,7 @@ Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
                 <div class="row wpb_row vc_inner row-fluid text-left">
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <h5>WHY are we doing this?</h5>
+                      <h5>MOTIVATION</h5>
                   </div>
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">         
 <ol><li>The existing tool used for content moderation is a legacy application that got complicated over time due to upgrade requests and feature additions. Hence, adding new features to the application is often time-consuming and leads to several complications</li>
@@ -248,7 +248,7 @@ Increased focus on regulators and new regulations.
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">                      
 <!--<p>I joined Linkedin in March 2020 and the discussion on the phase 1 of this project had just begun. At that time, I was setting myself up to learn, build relationship and understand the environment. </p> -->
 
-<p>I am the lead designer, worked  end to end  starting from project planning to design delivery. I worked with 1 Researcher, 20 Engineers, 1 PM in the first phase. I worked on the following:</p>
+<p>I am the lead designer and I worked  end to end  starting from project planning to design delivery. I worked with 1 Researcher, 20 Engineers, 1 PM in the first phase. I worked on the following:</p>
                         <ol>
                           
                             <li>Project scoping and task prioritisation </li>
@@ -274,14 +274,21 @@ Increased focus on regulators and new regulations.
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>THE KICKSTART</h5>
-<p>As a first step, I started to meet my project team mainly to interact, establish relationships and learn their perspective on the project. I learned that the Product team was busy prepping to developing project strategies, scope, and assumptions. I wanted to participate but I was new to the team and I had no knowledge or a strong opinion without understanding the end-to-end story of reviewers. </p>
-<p> So I met the user researcher of our team who was also new to the project. We discussed the plans to begin the research activity and I shared my thoughts on the research objectives and we agreed to explore and understand the end-to-end workflow of our moderators and listen to their stories to learn their process, pain points, and unmet needs. </p>
+                      <p>
+                        I was involved with multiple activities simultaneously. For instance, 
+                        <ul>
+                          <li>Meeting and establishing relationship with the team. Trying to gather perspectives and assumptions in the project.</li>
+                          <li>Discussing with the project manager and the learning team about the project goals and participated in project planning.</li>
+                          <li>Initiating discussion with the research team</li>
+                        </ul>
+                      </p>
+<p>I met the user researcher of our team and we talked about defining the research objectives which gave us an understanding of the process, pain points, and unmet needs. I participated in the research interview converstations, mostly as a listener during the sessions and taking notes. Post interview, I discussed with the researcher and consolitdated my notes. We further analyzed the overall requirements and mapped the pain points with the process they followed. Together, we presented the research insights to the product team, engineering team and other stakeholders to build empathy.</p>
                   </div>                  
                   <div class="wpb_column columns medium-4 thb-dark-column small-12">
                       <img src="../../content/moderation/main_conversation_small.png"/>
                   </div>
                   <div class="wpb_column columns medium-8 thb-dark-column small-12">
-                      <h5>METHOD</h5>
+                      <h5>RESEARCH METHOD FOLLOWED</h5>
                        In depth interviews having 1:1 sessions <ul>
 <li>1.5-hour sessions, with the focus on workflows, usage of tools/resources, pain points and unmet needs
 <li>A total of 12 moderators </li>
@@ -380,23 +387,23 @@ Increased focus on regulators and new regulations.
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                        <h5>CURRENT PROCESS</h5>
-<p>I was curious to learn beyond the user’s perspective, I wanted to know how the system is defined and how it works from the point when and how the content gets reported till the outcome of the review. For this, I met the policy team and engineering team to understand the process of the content lifecycle and how do reviewers determine the content. This way, I was able to connect the dots and understand the journey of the content - atleast theoretically.</p>
+<p>I was curious to learn the process involved beyond the user’s perspective and to learn how the system is defined and works in the background - from the point when the content gets reported till the outcome of the content review. For this, I met the policy team and engineering team to understand the process of the content lifecycle. This way, I was able to connect the dots and understand the journey of the content - atleast theoretically.</p>
                       <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/defined_1.png" data-sizes="auto"
                          data-srcset="../../content/moderation/defined_1.png 1920w, ../../content/moderation/defined_1.png 768w, ../../content/moderation/defined_1.png 700w, ../../content/moderation/defined_1.png 600w"/>
-                      
+                         <br><br><br>
+                        <p>I went back to the recordings from our interview process, elaborated the workflows and mapped the pain points where the reviewers were feeling frustated. I identified the highest number of issues under the assignment process and this investigation led me to meet the data science team to understand the numbers behind the review assignments and completed actions.</p><br><br>
                         <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/moderation/defined_2.png" data-sizes="auto"
                          data-srcset="../../content/moderation/defined_2.png 1920w, ../../content/moderation/defined_2.png 768w, ../../content/moderation/defined_2.png 700w, ../../content/moderation/defined_2.png 600w"/><br><br>
-                      
-                      
-                    <p>It was interesting to know how the different types of content flow and qualifies to the review queue. When a reviewer reviews user-reported content, the outcome of the decision is reflected on the Linkedin Platform immediately and when they review Machine flagged content, the decision is used to train the ML models to improve the precision of the AI Algorithm. This info encouraged me to meet the data science team to collect the facts and learn about the numbers behind the review items and It truly amazed me to know the results. I felt very proud to know how Linkedin is doing its best to keep the Linkedin platform safe and professional. No wonder why <a href="https://www.businessinsider.com/linkedin-pinterest-instagram-top-spots-2019-digital-trust-report-facebook-stays-last?IR=T">Linkedin stands as the most trusted social platform.</a> </p>
+                                          
+                    <p>It was interesting to know how the different types of content flow and qualifies to the review queue. When a reviewer reviews user-reported content, the outcome of the decision is reflected on the Linkedin Platform immediately and when they review machine flagged content, the decision is used to train the ML models to improve the precision of the AI Algorithm. It truly amazed me to know the results. I felt very proud to know how Linkedin is doing its best to keep the Linkedin platform safe and professional. No wonder why <a href="https://www.businessinsider.com/linkedin-pinterest-instagram-top-spots-2019-digital-trust-report-facebook-stays-last?IR=T">Linkedin stands as the most trusted social platform.</a> </p>
                       
                     <div class="wpb_column columns medium-6 thb-dark-column small-12">
                         <img width="1920" height="1052"
@@ -441,8 +448,7 @@ Increased focus on regulators and new regulations.
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>QUEST CONTINUES....</h5>
-<p>With my high-level understanding of the review process both from the user’s and system perspectives, it was now important to dig deep into the review process. As a next step, I started to meet more and more reviewers, did many shadow sessions and focus group discussions to identify the problems, gaps, and opportunities.</p>
-                      
+                      <p>I met senior reviewers from different locations, did multiple shadow sessions and conducted group discussions with both reviewers and business partners where we discussed and brainstormed all the possible user stories and scenarios that is involved, how the approach differed and the due diligence involved in their process. This way i was able to develop the user stories and met with the stakeholders to discuss the value of each feature and the impact if the feature is provided or not. I categorized the user stories, estimated the effort required and met the product team to prioritize  the tasks.</p>                      
                                 </div>
                     </div></div></div></div></div></div>
                     
@@ -473,12 +479,13 @@ Increased focus on regulators and new regulations.
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>PROBLEM STATEMENT</h5>
-<p>I began to analyze and categorize the research insights, the challenges, needs, pain points, and gaps in the system to align with the product goals. This led to narrow down on the following problem statement where we brainstormed ideas and solutions with the product leads, engineering leads and Ace team in the session.</p>
+                      <p>The project priorities and the challenges obtained from the research insights helped me redefine the following problem statement.</p>
                       <ol>
 <li>How can we simplify the manual assignment workflow?</li>
 <li>How can we optimize the review experience?</li>
 <li>How can we reduce the reviewer's stress and improve their well being? </li>
 <li>How can we protect and secure member's data?</ol>
+<p>I used the problem statement to brainstorm ideas and possible solutions together with the product, engineering and the trust representatives.</p>
                   </div>
                     </div></div></div></div></div></div>
                     
@@ -491,6 +498,7 @@ Increased focus on regulators and new regulations.
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>TASK FLOW</h5>
+                      <p>I came up with a basic concept flow on how the reviewers should review an item and I evolved the flow by connecting with the current review process. As the next step, I plotted the brainstormed ideas and potential solutions inline with the task flows.</p>
                       <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -506,8 +514,7 @@ Increased focus on regulators and new regulations.
                          data-srcset="../../content/moderation/proposed_concept.png 1920w, ../../content/moderation/proposed_concept.png 768w, ../../content/moderation/proposed_concept.png 700w, ../../content/moderation/proposed_concept.png 600w"/>
                       <div class="post-content">
                       <h5>DETAIL FLOW EXPERIENCE</h5>
-<p>To progress from the initial task flow, I tried adding the user requirement as part of the experience, I also detailed out the other experience that could be the potential screens for future use cases.</p>
-                      
+<p>I progressed from the initial task flow by adding assumptions, research recommendations, user needs and possible future experiences by detailing the task flow. This gave an overview of how the tooling experience will evolve eventually to help reviewers work more effectively and efficiently. Further, I reviewed this concept flow with the team to gather feedback and align with the current and future objectives.</p>                      
                     </div></div></div></div></div></div></div>
                     
         
@@ -535,7 +542,7 @@ Increased focus on regulators and new regulations.
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>SOLUTION EXPLORATION</h5>
-                        <p> After many stages of the review process, starting from the entry point to the decision stage, I figured the place where the content gets reviewed will be the most significant part of this application. I started to explore how the content will be shown, where the content can be reviewed and labelled. I started with blocks on each of these areas to form a wireframe structure, and then I continued various versions to explore and include other important aspects that are required as part of the review process.</p>
+                        <p>By now, I figured out the three important stages of the review process - the initiation stage where the reviewers get the assignments, the middle stage where the reviewers review the content and the final stage where the decision is made. Keeping these three blocks as the main and the most basic requirements in the tool, I started exploring the variations having these 3 blocks as the primary case and added the possible features that is required to support the review process as an optional experience. </p>                         
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                           <img width="1920" height="1052"
@@ -631,7 +638,7 @@ Increased focus on regulators and new regulations.
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>EXPLORATION ON DETAILS</h5>
-                        <p>Wireframing placeholders was a good start to put the initial thoughts and it gave a lot of good ideas on how the new content moderation experience will be like. I picked few choices in wireframes and started to detail out to design the content that's required during the review process.</>
+                        <p>I picked a few potential wireframe solutions to explore the details. Doing basic wireframing gave a good start to put down the initial thoughts but to communicate the details to the team, I added placeholders and content so that my team gets a clear idea to share their thoughts and opinions. I set up meeting with my product team, engineers, stakeholders and a few representatives from the user group to review each mock individually. We discussed the pros and cons, commented on the favorite experience and the choice of components. Such meetings were repeated for many weeks until we reached the final outcome. </p>
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
                       <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -722,7 +729,7 @@ Increased focus on regulators and new regulations.
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>ASSIGNMENT EXPERIENCE : BEFORE</h5>
-<p>The manual assignment workflow, designed to meet SLAs, is forcing reviewers to expend extra time in their workflow. This approach of manual assignment made each reviewer spend at least 15-25 mins per day per person just to set up the filters and monitor their skillset item manually.</p>
+<p>The manual assignment workflow which was designed to meet SLAs is forcing the reviewers to spend extra time in their workflow. This approach of manual assignment made each reviewer spend at least 45 mins per day per person in average just to set up the filters and monitor their expertise item manually.</p>
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
                           <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -771,7 +778,7 @@ Increased focus on regulators and new regulations.
                          data-src="../../content/moderation/left pane_exploration.png" data-sizes="auto"
                          data-srcset="../../content/moderation/left pane_exploration.png 1920w, ../../content/moderation/left pane_exploration.png 768w, ../../content/moderation/left pane_exploration.png 700w, ../../content/moderation/left pane_exploration.png 600w"/>
                         &nbsp
-                     <p> The design variation was presented to product, engineering and TnS reps to review the design on each varation. We discussed the possibilities and weighed with pros and cons on each variation. In addition to the review, I called out the <b>risks, dependencies, external factors, and side effects </b>that are involved as part of the fucntionality. </p>
+                     <p> The interaction design approach where explored and presented to a broader group like the TnS, product and internal design team of Trust organization. The opinions and feedback were discussed & many concerns were raised on the approach and functionality. I set up another meeting with the product and engineering to discuss the risks, dependencies, external factors and side effects of the auto assignment solution. Some questions were addressed from business perspective and engineering logic but there were also scenarios to address from design perspective. However, the first concept aligned with most of the considerations and user requirements. </p>                     
                         <li>What happens to the assignment when a reviewer want to take a break? </li>
                         <li>Should the reviewers have the possibility to log off while reviewing?</li>
                         <li>What happens when there is a power cut scenario? </li>
@@ -794,7 +801,7 @@ Increased focus on regulators and new regulations.
                 <div class="row wpb_row vc_inner row-fluid text-left">
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>ASSIGNMENT EXPERIENCE : AFTER</h5>
-<p>We agreed on the below assignment experience which was considered to be the most favourable to reviewers to self-assign items with just one click on the assignment pane and this eliminate all the filter actions that were required to view the items and manually assign for review. When the reviewers enable the “Assign me item” toggle they receive 3 items to their assignment list based on their expertise and fair distribution among all reviewers. As they complete each item, a new item gets populated in their queue. </p>
+<p>We shortlisted  the below approach which we assumed would provide the most favourable experience to reviewers as a self-assignment experience. This solution provides an ability to assign 3 items at a time with just one click and removes the assigned item from the reviewer's queue when they turn off their availability. As they complete each review, a new item gets populated in their queue list. This functionality also provides fair distribution to all reviewers on the criticality of the item. It also remediates and improves wellness experience by reviewing one critical item, two medium severity item and three low priority item as part of the queue logic.</p>
                     <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -1134,14 +1141,12 @@ We have certain policies that require restriction. And if we can see that they'v
                          data-src="../../content/moderation/Tradeoff.gif" data-sizes="auto"
                          data-srcset="../../content/moderation/Tradeoff.gif 1920w, ../../content/moderation/Tradeoff.gif 768w, ../../content/moderation/Tradeoff.gif 700w, ../../content/moderation/Tradeoff.gif 600w"/>
 <ul><li>All content other than the message content type followed alternate version of text and media component placed distinctively </li>
-<li>To form context we needed to enable Linkedin iframe view to avoid reviewers from going out of the tool and this led to another challenge where the reviewers could navigate to another screen using iframe concept and to return to original content they might hit refresh which has a possibility to unassign the item. so I had to came up with a fixed banner solution.  </li> </ul>
+<li>To form context we needed to enable Linkedin iframe view to avoid reviewers from going out of the tool and this led to another challenge where the reviewers could navigate to another screen using iframe concept and to return to original content they might hit refresh which has a possibility to unassign the item. so I had to came up with a fixed banner solution.</li> </ul>
 
                 </div>
                     </div></div></div></div></div></div>
 
 
-                    
-                    
         <div class="post-content grey-bg">
                             
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
@@ -1152,11 +1157,14 @@ We have certain policies that require restriction. And if we can see that they'v
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">                    
                     <h5>CHALLENGES AND LEARNING</h5>
                     <ul>
-<li>There were many ad-hoc requests from stakeholders when I reviewed concepts, which were not planned by the product partner for the quarter. It was a challenge to get a full understanding of the actual requirements, to scope and divide the time between multiple projects. I overcame this challenge by setting a clear expectation on the effort required to deliver the tasks and reprioritized the tasks by negotiating with the product and stakeholders. Also one of the things I learned in the project is to always have buffer time for unexpected requests </li>
+                      <li>The biggest challenge I faced was in the development phase because my <b>developer team was located in a different geographical location</b> (US). Initially, it was alright to give them the walkthrough and detailed dev spec. But after some time, I had some difficulty in balancing the time to address their queries. Sometimes, we had 12 hours of delay in our communication. To overcome this challenge, I modified my work timings to have an overlap with the US work rimings. I also requested help from my US design partners who were working in a different project and requested them to chime in for design clarifications and provide any help necessary to address their doubts. </li>
 
-<li>The scope of project Neuron was usually large with limited resources and time. It was very challenging to deliver the project in the limited time without compromising on the quality of work. I mitigated the challenge by calling out the risks in various meetings and requested for additional resources to keep the project on schedule. For this, something I could do better is to plan in advance when the hiring request is shared at the begining of the fiscal year. So I need to plan really ahead of time </li>
+                      <li>There were <b>many ad-hoc requests from stakeholders when I reviewed concepts</b>, which were not prioritized by the product partner for Phase 1. I documented the requests as fast followup requirements and I communicated the tasks that were prioritized for the current phase and set a clear expectation. Even after doing this, the stakeholders insisted to include certain features in the Phase 1 requirements and I had to reprioritized the tasks by negotiating with the product and stakeholders. The learning from this challenge is to have a buffer time for unexpected requests.</li>
 
-<li>There was a lack of clarity on the project requirements in addition to the communication gap between the product manager and the design team. I overcame this challenge by establishing a strong relationship with the PMs by co-authoring the product documents and by helping in creating presentations. I gained trust of the PM by coordinating and discussing project challenges in multiple meetings that included reps, cross functional teams and data science to get clear understanding on the business objectives, product insights and product gaps. Also wonder what can i do better to improve trust and relationship without streching my time.</li></ul>
+                      <li><b>The scope of the project was usually large with limited resources and time</b>. It was very challenging to deliver the project in the limited time without compromising on the quality of work. I mitigated the challenge by calling out the risks in various meetings and requested for additional resources to keep the project on schedule. For this, something I could do better is to plan in advance when the hiring request is shared at the begining of the fiscal year. So I have to plan when the org sets up a bugdet for hiring.</li>
+
+                      <li><b>There was a lack of clarity on the project requirements </b>in addition to the communication gap between the product manager and the design team. I overcame this challenge by establishing a strong relationship with the PMs by co-authoring the product documents and by helping in creating presentations. I gained trust of the PM by coordinating and discussing project requirements and challenges in multiple meetings that included reps, cross functional teams and data science to get a clear understanding and to define the business objectives, product insights and product gaps.</li>
+                    </ul>
                 </div>
 
                     </div></div></div></div></div></div>

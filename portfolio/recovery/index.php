@@ -88,14 +88,14 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                     
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>MISSION</h5>
-                    <p>Provide super powers for Linkedin agents to mitigate damage done by the bad actors on member’s Linkedin profiles</p>
+                    <p>Provide super capabilities to the Linkedin agents to mitigate damage done by the bad actors on member’s Linkedin profiles</p>
                 </div>
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>My role</h5>
                   </div>
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">                      
-<p>I am the lead designer throughout the project cycle that includes conducting user research, concept ideation, aligning key stakeholders and cross-functional team on design goals and functionalities, designing user flows, mocks, prototyping, user testing, incorporating user feedback into design iterations, and review the developer UI.</p>
+<p>I am the lead designer throughout the project life cycle where I worked with 1 product manager and 2 engineers. I conducted  user research, concept ideation, aligning key stakeholders and cross-functional team on design goals and functionalities, designing user flows, mocks, prototyping, user testing, incorporating user feedback into design iterations, and review the developer UI.</p>
                   </div>
                 </div></div></div></div></div></div>
                     
@@ -111,7 +111,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                       <h5>Challenge</h5>
                   </div>
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">         
-<p>Every Account Takeover (ATO) or a Account Compromise (ACO) incident leads to a loss in the trust that the member has on our platform and also a bad member experience for the victim of the account as well as for other members who interact with the compromised account.These bad actors do a variety of damage to the member’s account. And today, Linkedin does not have an option to undo the damage done to their connections or their Linkedin profile.</p>
+<p>Every Account Takeover (ATO) or a Account Compromise (ACO) incident leads to a loss in the trust that the member has on our platform and also a bad member experience for the victim of the account as well as for other members who interact with the compromised account.These bad actors do a variety of damage to the member’s account. And today, <b>Linkedin does not have an option to undo the damage </b>done to their connections or their Linkedin profile.</p>
 
                   </div>
                     
@@ -129,7 +129,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                       <h5>User Requirement</h5>
                   </div>
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <p>The user base for this project are from the Member and Safety recovery team at Linkedin who verify and interact with members. They usually help members to regain access to their profile when their account is compromised or restricted. The requirement from MSR team is to enable functionality in the tool to clean up bad activities on the member profile.</p>                      
+                      <p>The user base for this project are from the Member and Safety recovery team (MSR) at Linkedin who verify and interact with members. They usually help members to regain access to their profile when their account is compromised or restricted. <b>The requirement from MSR team is to enable functionality </b>in the tool to clean up bad activities on the member profile.</p>                      
                   </div>                  
                   </div></div></div></div></div></div>                    
                     
@@ -411,13 +411,13 @@ That’s not something we need as part of good experience. Such scenario can lea
                   <div class="wpb_column columns medium-12 thb-dark-column small-12 wireframes">
                       <h5>Iteration: 2 </h5>
                     <!--   <p>In this version neccessary filter to identify the session to match the member request. On further design review and enquiry on the data policy, they suggested each the session can hold data upto 3 months of activity</p> -->
-                    <p>In this version, we optimised the MSR review experience to get an insight from the full data summary over the long list in activity viewer. This gave MSR an ability to judge the profile and also provided confidence to communicate with the member with the exact count of what is revokable and what is not, due to policy limitations</p>
-                 <img width="1920" height="1052"
+                    <p>In this version, we provided an overall insight of the member activities in a session as a summary instead of the reviewer scanning through a long list of member activities. This option gave the MSR team the ability to judge the profile in confidence and communicate with the member on the exact count of what is revokable and what is not. </p>
+                 <!-- <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/iteration_2.png" data-sizes="auto"
-                         data-srcset="../../content/recovery/iteration_2.png 1920w, ../../content/recovery/iteration_2.png 768w, ../../recovery/iteration_2.png 700w, ../../recovery/iteration_2.png 600w"/>
+                         data-srcset="../../content/recovery/iteration_2.png 1920w, ../../content/recovery/iteration_2.png 768w, ../../recovery/iteration_2.png 700w, ../../recovery/iteration_2.png 600w"/> -->
                   </div>
                     </div></div></div></div></div></div>
                     
@@ -456,7 +456,7 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12 wireframes">
                       <h5>Iteration: 3 </h5>
-                      <p> In each review, the user scenario and related edge cases were just growing to a complicated experience. Given that we had limitation on how will we communicate to memebrs - Will the recovery be 100% successful? How will the agent know that the task is completed etc..etc.., led to many use cases such as partial successful, error scenario, successful, inprogress etc. </p>
+                      <p> In each review, engineering team were sharing their limitations which increased the scope of the project. This led to alternate approaches and to identify a balanced solution that were adhering to the business, user and engineering requirements. Limitations arised when questioned on certain scenarios like how will we communicate to members - Will the recovery be 100% successful? How will the agent know that the task is completed etc..etc.., led to many use cases such as partial successful, error scenario, successful, inprogress etc. </p>
                  <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -478,11 +478,12 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <h5>Result</h5>
                                       
                                                                          
-                    <p>Overall the requirement and scope was increased, which also means - the engineering effort also increased and I got another chance to request the engineering team to compare the effort on the design from scratch vs design modification. </p>
+                    <p>Overall the requirement and scope was increased, which also means - the engineering effort also increased and I got another chance to request the engineering team to compare the effort on the design estimation from scratch vs design modification. </p>
 
-<p>Interestingly, Engineering and product agreed to build the product from scratch because it involved the same effort and adapting to newer UI can make the product faster using the defined Linkedin library components. </p>
+<p>This made engineering and product team agree to build the product from scratch using the design system recommended by Linkedin. The effort involved in redesigning the to newer UI were much smaller than the modifications of the existing library.</p>
 
-<p>It was a task for me to redo all the screens but still gave me a good feeling to redesign and complete. This way, the project got the Linkedin design system and accessibility compliance</p>
+<p>It was a task for me to redo all the screens but still gave me a good feeling to design and deliver the work. This way, the project got the Linkedin design system and accessibility compliance.</p>
+
                 <img width="1920" height="1052"
                      src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                      class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -592,7 +593,7 @@ That’s not something we need as part of good experience. Such scenario can lea
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left">
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                    <h5>Key metrics after launch</h5>
+                    <h5>Key metrics to be measured after launch</h5>
  <ul>
                           <li>Damage recovery rate (%Members initiating damage recovery)</li>
                           <li>MVP: Qualitative member interviews to understand feedback + Quantitative survey to understand satisfaction (depending on MR bandwidth)  Post damage recovery engagement rate</li>
@@ -609,17 +610,17 @@ That’s not something we need as part of good experience. Such scenario can lea
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left">
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                    <h5>Learnings:</h5>
+                    <h5>Challenges and Learnings:</h5>
                     <h6>Pressure to ship quickly:</h6>
-<p>Even when there are clear sign of bad UX in re-iterating the existing system, i continued the trajectory as there are too much emphasis on hitting the vision goal vs shipping high quality release. With a focus on speed, usuability was not a priority. This makes effort and exploration a lot harder when the date comes first.</p>
+<p>Even when there are clear sign of bad UX in re-iterating the existing system, i continued the trajectory as there are <b>too much emphasis on hitting the vision goal vs shipping high quality release</b>. With a focus on speed, usuability was not a priority. This makes effort and exploration a lot harder when the date comes first.</p>
 
-<h6>In highlight:</h6><p> We should be bold enough to pause, rethink and emphathise on the feedback given by the user. Though there were internal employees, ship an out comes over ship on time makes the effort and time more valuable  over training the bad UX on system. We need to balance between optimising for user outcomes over deadlines</p>
+<h6>In highlight:</h6><p> We should be <b>bold enough to pause, rethink and emphathise on the feedback given by the user</b>. Though they were internal employees, 'ship and out' comes over 'ship on time' makes the effort and time more valuable  over training the bad UX on system. We need to balance between optimising for user outcomes over deadlines</p>
 
 
 <h6>Isolate change and monitor it closely:</h6>
-<p>Since the process was not fully established and we had the limitation to use the existing system, it was very challenging to define new information architecture, conceptual model and an overall good user experience.</p>
+<p>Since the process was not fully established and we had the <b>limitation to use the existing system</b>, it was very challenging to define new information architecture, conceptual model and an overall good user experience.</p>
 
-<p>Despite the various efforts in the doing cohorts, sequencing the changes allowed me to show the efforts and user reactions on the design - which transformed a bigger change to re-design the structure over modifying something existing. However, some trade off was still done over the end-to-end experience and positively hoping that this be addressed in future projects</p>
+<p>Despite the various efforts in the doing cohorts, sequencing the changes allowed me to show the efforts and user reactions on the design - which <b>transformed a bigger change to re-design the structure</b> over modifying something existing. However, some trade off was still done over the end-to-end experience and positively hoping that this be addressed in future projects</p>
                 </div>                
                 </div></div></div></div></div></div>
                    
