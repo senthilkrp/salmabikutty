@@ -172,7 +172,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>Approach </h5>                                                                  
-                      <p>I started my investigation by reading and analysing past records of member's requests and messages when they report suspicious activities on their profile or when requesting for access on their restricted accounts.Many times, they also request to undo the damages for their account</p>                                                                  
+                      <p>I started my investigation by reading and scanning past records of member's requests and messages when they report suspicious activities on their profile or when requesting for access on their restricted accounts.Many times, they also request to undo the damages for their account</p>                                                                  
                           Typically Linkedin blocks the account if the <br><br>
                           
                           <div class="wpb_column columns medium-12 thb-dark-column small-12">
@@ -240,7 +240,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                        <h5>Project scope</h5>
 <p>When a member recovers access to their account after restriction then provide an option to members ability to initiate a damage recovery request through Linkedin help center.</p>
  <p> Enable the capability to Member and Safety recovery team to mitigate the damage created by the bad actor </p>
-                      <p>
+                     <p>
                           For simple and easy understanding, i created storyboard so i and the team can understand the overall scenario on how the extended service will be like.
                       </p>
                   </div>
@@ -280,7 +280,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/li_agent_perspective.png" data-sizes="auto"
                          data-srcset="../../content/recovery/li_agent_perspective.png 1920w, ../../content/recovery/li_agent_perspective.png 768w, ../../recovery/li_agent_perspective.png 700w, ../../recovery/li_agent_perspective.png 600w"/>
-&nbsp
+&nbsp 
 <p>As the new solution will be connected to the existing process, I decided to analyze the current structure of the workflow to learn the painpoints, gaps and usability issues. I had many 1:1 interviews and group reviews with MSR agents across the globe to identify what was going well and what was not?</p>  
                 <!-- background FFDCBD -->
                 <img width="1920" height="1052"

@@ -57,7 +57,7 @@ Protect\with('../../form.php', 'b29d7e900c8ab517a405830c506c3616');
 <p>This project aims to build a new platform for Abusive content enforecement or simply known as content reviewers in the Trust and Safety organisation to resolve member support requests and moderation of member reported content and profiles which are violating Linkedin terms of service respectively. This is a multi phased project to design the next generation content moderation tool which will be a  platform used by the Trust and Safety team for threat prevention and responsive, abusive content enforecement, premium fraud mitigation and program management </p> -->
  <p> More than 760 million members globally use LinkedIn for professional networking, enhance professsional reputation and career development to find jobs, learn new skills etc. Members on this platform expect and deserve a safe and trusted community where they can express themselves professionally. Trust & Safety operations is responsible for manually moderating and enforcing a safe, trusted and professional environment. 
 </p>
-<p> The project aims to build a next generation content moderation tool which will be used daily by 2000+ and growing employees under Linkedin Trust and Safety team for threat prevention and responses, abusive content moderation (Content reviewers), premium fraud mitigation (Jobs, Ads and payment abuse), policy enforcement and program management (QA, training and resouce planner). <br> This is a multi phased project, the current objective is to develop an efficient solutions for Abusive content enforcement team to resolve member support request and moderation of member reported content and profiles that are violating Linkedin terms of service respectively. <p>                 </div>
+<p> The project aims to build a next generation content moderation tool which will be used daily by 2000+ and growing employees under Linkedin Trust and Safety team for threat prevention and responses, abusive content moderation (Content reviewers), premium fraud mitigation (Jobs, Ads and payment abuse), policy enforcement and program management (QA, training and resouce planner). &nbsp <br> <br> This is a multi phased project, the current objective is to develop an efficient solutions for Abusive content enforcement team to resolve member support request and moderation of member reported content and profiles that are violating Linkedin terms of service respectively. <p>                 </div>
                     
                 <div class="wpb_column columns medium-4 thb-dark-column small-12"> 
                     <h5>ROLE</h5>
@@ -490,7 +490,7 @@ Increased focus of regulators and new regulations.
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <h5>HIGH LEVEL CONCEPT FLOW</h5>
+                      <h5>TASK FLOW</h5>
                       <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -506,7 +506,7 @@ Increased focus of regulators and new regulations.
                          data-srcset="../../content/moderation/proposed_concept.png 1920w, ../../content/moderation/proposed_concept.png 768w, ../../content/moderation/proposed_concept.png 700w, ../../content/moderation/proposed_concept.png 600w"/>
                       <div class="post-content">
                       <h5>DETAIL FLOW EXPERIENCE</h5>
-<p>To progress from the high level concept, I tried adding the user requirement as part of the experience, I also detailed out the other experience that could be the potential screens for future usecases.</p>
+<p>To progress from the initial task flow, I tried adding the user requirement as part of the experience, I also detailed out the other experience that could be the potential screens for future usecases.</p>
                       
                     </div></div></div></div></div></div></div>
                     
@@ -534,7 +534,7 @@ Increased focus of regulators and new regulations.
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <h5>WIREFRAME EXPLORATION</h5>
+                      <h5>SOlut EXPLORATION</h5>
                         <p> Out many stages of the review process, starting from entry point to the decision stage, the place where the content gets reviewed will be the most significant part of this application. I started to explore on how the content, where the content can be reviewed and reviewed, so i started with blocks on each of these area to form a wireframe structure and then I continued various versions to explore to include other important aspects that is required as part of the review process</p>
                       <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <div class="wpb_column columns medium-6 thb-dark-column small-12">
@@ -772,8 +772,8 @@ Increased focus of regulators and new regulations.
                          data-srcset="../../content/moderation/left pane_exploration.png 1920w, ../../content/moderation/left pane_exploration.png 768w, ../../content/moderation/left pane_exploration.png 700w, ../../content/moderation/left pane_exploration.png 600w"/>
                         &nbsp
                      <p> The design variation were presented to product, engineering and TnS reps to review the design on each varation. We discussed the possibilities and weighed with pros and cons on each variation. In addition to the review, I called out the <b>risks, dependencies, external factors, and side effects </b>that is involved as part of the fucntionality. </p>
-                        <li> what happens to the assignment when a reviewers want to take a break? </li>
-                        <li> should the reviewers had possibilities to log off while reviewing?</li>
+                        <li> What happens to the assignment when a reviewers want to take a break? </li>
+                        <li> Should the reviewers had possibilities to log off while reviewing?</li>
                         <li> What happens when their is a power cut scenario? </li>
                         <li>   How is the item prioritised in the assigned queue?  Should the user follow an order?</li>
                         <li>  What would be the ratio of items given to the users? For eg, will the user be assigned all critical items or will it be 2 critical items and one medium/low-risk items?</li>
