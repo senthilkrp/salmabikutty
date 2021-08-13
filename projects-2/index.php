@@ -9,6 +9,23 @@
             <div class="row expanded thb-portfolio masonry masonry-style3 thb-filter-style1 style1  "
                  id="portfolio-section-855" data-thb-animation="thb-animate-from-bottom" data-loadmore="#loadmore-855"
                  data-filter="thb-filter-855" data-layoutmode="" data-thb-animation-speed="0.5" data-grid-type="4">      
+                 <div
+                  class="columns type-portfolio small-12 large-6 padding-1 title-topleft thb-animate-from-bottom light-title  thb-cat-home-automation thb-cat-mobile-ios thb-cat-ux-ui  style1 post-762 portfolio status-publish has-post-thumbnail hentry portfolio-category-home-automation portfolio-category-mobile-ios portfolio-category-ux-ui"
+                  id="portfolio-content">
+                <div class="portfolio-holder">
+                  <div class="thb-placeholder first"><img width="1229" height="1099"
+                                                          src="../content/images/cover/content.png"
+                                                          class="attachment-werkstatt-masonry-3x size-werkstatt-masonry-3x thb-lazyload lazyload wp-post-image"
+                                                          alt="" sizes="(max-width: 1229px) 100vw, 1229px"
+                                                          data-src="../content/images/cover/content.png" data-sizes="auto"
+                                                          data-srcset="../content/images/cover/content.png 768w, ../content/images/cover/content.png 700w, ../content/images/cover/content.png 600w"/>
+                  </div>
+                  <a href="../portfolio/moderation/" class="portfolio-link">
+                    <h2><span>Linkedin Content Moderation Tool</span></h2>
+                    <aside class="thb-categories"><span>Web application</span></aside>
+                  </a>
+                </div>
+              </div>
               <div
                   class="columns type-portfolio small-12 large-6 padding-1 title-topleft thb-animate-from-bottom light-title  thb-cat-home-automation thb-cat-mobile-ios thb-cat-ux-ui  style1 post-762 portfolio status-publish has-post-thumbnail hentry portfolio-category-home-automation portfolio-category-mobile-ios portfolio-category-ux-ui"
                   id="portfolio-ato">
@@ -22,23 +39,6 @@
                   </div>
                   <a href="../portfolio/recovery/" class="portfolio-link">
                     <h2><span>Account Damage Recovery</span></h2>
-                    <aside class="thb-categories"><span>Web application</span></aside>
-                  </a>
-                </div>
-              </div>
-             <div
-                  class="columns type-portfolio small-12 large-6 padding-1 title-topleft thb-animate-from-bottom light-title  thb-cat-home-automation thb-cat-mobile-ios thb-cat-ux-ui  style1 post-762 portfolio status-publish has-post-thumbnail hentry portfolio-category-home-automation portfolio-category-mobile-ios portfolio-category-ux-ui"
-                  id="portfolio-content">
-                <div class="portfolio-holder">
-                  <div class="thb-placeholder first"><img width="1229" height="1099"
-                                                          src="../content/images/cover/content.png"
-                                                          class="attachment-werkstatt-masonry-3x size-werkstatt-masonry-3x thb-lazyload lazyload wp-post-image"
-                                                          alt="" sizes="(max-width: 1229px) 100vw, 1229px"
-                                                          data-src="../content/images/cover/content.png" data-sizes="auto"
-                                                          data-srcset="../content/images/cover/content.png 768w, ../content/images/cover/content.png 700w, ../content/images/cover/content.png 600w"/>
-                  </div>
-                  <a href="../portfolio/moderation/" class="portfolio-link">
-                    <h2><span>Linkedin Content Moderation Tool</span></h2>
                     <aside class="thb-categories"><span>Web application</span></aside>
                   </a>
                 </div>

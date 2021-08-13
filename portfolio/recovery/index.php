@@ -88,14 +88,14 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                     
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>MISSION</h5>
-                    <p>Provide super powers for Linkedin agents to mitigate damage done by the bad actor on member’s Linkedin profiles</p>
+                    <p>Provide super powers for Linkedin agents to mitigate damage done by the bad actors on member’s Linkedin profiles</p>
                 </div>
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>My role</h5>
                   </div>
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">                      
-<p>I am the lead designer throughout the project cycle that includes conducting user research, concept ideation, aligning key stakeholders and cross-functional team on design goals and functionalities, designing user flows, mocks, prototyping, user testing, incorporating user feedback into design iterations, and review developer UI.</p>
+<p>I am the lead designer throughout the project cycle that includes conducting user research, concept ideation, aligning key stakeholders and cross-functional team on design goals and functionalities, designing user flows, mocks, prototyping, user testing, incorporating user feedback into design iterations, and review the developer UI.</p>
                   </div>
                 </div></div></div></div></div></div>
                     
@@ -152,10 +152,10 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                     </div>            
                       <br><br>
                       <div class="testimonial-quote group">
-                        <div class="quote-container"><blockquote><p>Hi please note that I received an email on July 25th, 2020 that my password has been changed though it wasn't done by me. I reset the password and logged in and noticed that my profile pic was updated and many fake messages were sent from my account to unknown connections and to my friends as well. Today on July 26, 2020 I logged in back and I am seeing still some activities being done from my account and messages are sent (which is not me obviously) though I have already reset my password and also turned on two factor authentication. <b>Please check if someone still has access to my account and how to get rid of the messages, please let me know next steps”</b></p></blockquote></div>
+                        <div class="quote-container"><blockquote><p>Hi please note that I received an email on July 25th, 2020 that my password has been changed though it wasn't done by me. I reset the password and logged in and noticed that my profile pic was updated and many fake messages were sent from my account to unknown connections and to my friends as well. Today on July 26, 2020 I logged in back and I am still noticing some activities being done from my account and messages are sent (which is not me obviously) though I have already reset my password and also turned on two factor authentication. <b>Please check if someone still has access to my account and how to get rid of the messages, please let me know the next steps”</b></p></blockquote></div>
                     </div><br><br>                                                                        
                       <div class="testimonial-quote group">
-                        <div class="quote-container"><blockquote><p>September 18, 2019 my account was hacked and a very large number of messages were sent under my account. I reported this as Case: 1OBFUSCATED_PHONE. LinkedIn quickly secured my account but <b>indicated that there was no way to retrieve the messages that the hacker sent.</b> Ever since them that message keeps popping up when I receive notifications about birthdays, job changes, promotions, etc. So I then have to explain the hacker situation at the same time that I send the congratulations message. After all, I do want people to take my messages, and my company, seriously. I am preparing for a major new product announcement so I went looking for ways to find the hacked messages and correct the situation. I found that if I archive all more recent messages in my inbox I could eventually get back to those messages sent on Sep 18th and send a message to let my contact know what we really do. That was going well until retrieving messages stopped working. If I search for Field-Agent which is a term that the hacker used I can get back as far as Oct 2, 2019 and then the message retrieval process seems like it gets stuck”</p></blockquote></div><br><br>
+                        <div class="quote-container"><blockquote><p>September 18, 2019 my account was hacked and a very large number of messages were sent from my account. I reported this as Case: 1OBFUSCATED_PHONE. LinkedIn quickly secured my account but <b>indicated that there was no way to retrieve the messages that the hacker sent.</b> Ever since then, that message keeps popping up when I receive notifications about birthdays, job changes, promotions, etc. So I then have to explain the hacker situation at the same time that I send the congratulations message. After all, I do want people to take my messages, and my company, seriously. I am preparing for a major new product announcement so I went looking for ways to find the hacked messages and correct the situation. I found that if I archive all more recent messages in my inbox I could eventually get back to those messages sent on Sep 18th and send a message to let my contact know what we really do. That was going well until retrieving messages stopped working. If I search for Field-Agent which is a term that the hacker used I can get back as far as Oct 2, 2019 and then the message retrieval process seems like it gets stuck”</p></blockquote></div><br><br>
                     </div>                                                                        
                       
                   </div>
@@ -171,8 +171,8 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                 <div class="row wpb_row vc_inner row-fluid text-left">
                     
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <h5>Approach </h5>                                                                  
-                      <p>I started my investigation by reading and scanning past records of member's requests and messages when they report suspicious activities on their profile or when requesting for access on their restricted accounts.Many times, they also request to undo the damages for their account</p>                                                                  
+                      <h5>Approach </h5>
+                      <p>I started my investigation by reading and scanning past records of member's requests and messages when they report suspicious activities on their profile or when requesting for access on their restricted accounts.Many times, they also request to undo the damages for their account</p>
                           Typically Linkedin blocks the account if the <br><br>
                           
                           <div class="wpb_column columns medium-12 thb-dark-column small-12">
@@ -182,7 +182,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                               </div>
                               <div class="wpb_column columns medium-4 thb-dark-column small-12">
                                   <img src="../../content/recovery/loudspeaker.png" style="display:block;margin:auto;"/>                                                                                       
-                                  <p class="not-well">Other members reports the content</p>
+                                  <p class="not-well">Other members report the content</p>
                               </div>
                               <div class="wpb_column columns medium-4 thb-dark-column small-12">
                                   <img src="../../content/recovery/lock.png" style="display:block;margin:auto;"/>                      
@@ -238,10 +238,10 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                        <h5>Project scope</h5>
-<p>When a member recovers access to their account after restriction then provide an option to members ability to initiate a damage recovery request through Linkedin help center.</p>
- <p> Enable the capability to Member and Safety recovery team to mitigate the damage created by the bad actor </p>
-                     <p>
-                          For simple and easy understanding, i created storyboard so i and the team can understand the overall scenario on how the extended service will be like.
+<p>When a member recovers access to their account after restriction, provide them with an option to initiate a damage recovery request through Linkedin help center.</p>
+ <p> Enable the capability to Member and Safety recovery team to mitigate the damage done by the bad actor </p>
+                      <p>
+                          For simple and easy understanding, I created storyboard so I and the team can understand the overall scenario on how the extended service will be like.
                       </p>
                   </div>
                     </div></div></div></div></div></div>
@@ -280,8 +280,8 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/li_agent_perspective.png" data-sizes="auto"
                          data-srcset="../../content/recovery/li_agent_perspective.png 1920w, ../../content/recovery/li_agent_perspective.png 768w, ../../recovery/li_agent_perspective.png 700w, ../../recovery/li_agent_perspective.png 600w"/>
-&nbsp 
-<p>As the new solution will be connected to the existing process, I decided to analyze the current structure of the workflow to learn the painpoints, gaps and usability issues. I had many 1:1 interviews and group reviews with MSR agents across the globe to identify what was going well and what was not?</p>  
+&nbsp
+<p>As the new solution will be connected to the existing process, I decided to analyze the current structure of the workflow to learn the pain points, gaps and usability issues. I had many 1:1 interviews and group reviews with MSR agents across the globe to identify what was going well and what was not.</p>
                 <!-- background FFDCBD -->
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -294,7 +294,7 @@ With more than half a billion members on the platform, LinkedIn has become a luc
 
 
 
-<p><br>Then I created flow on the potential use cases and conducted meeting with product partners to verify and discuss the gaps involved the process </p>
+<p><br>Then I created a flow on the potential use cases and conducted meetings with product partners to verify and discuss the gaps involved the process.</p>
 <!-- red background FFDCBD -->
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
@@ -315,13 +315,13 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                          data-srcset="../../content/recovery/new_process.png 1920w, ../../content/recovery/new_process.png 768w, ../../recovery/new_process.png 700w, ../../recovery/new_process.png 600w"/>
                 <br><br>
                       
-                <p>The biggest gap involved stitching the existing and old process. On highlighting this call out, the Product team helped to resolve by introducing the new option to members on the Linkedin help and support page and that was a quick win for me :)</p>
+                <p>The biggest gap involved stitching the existing and old process. On highlighting this call out, the Product team helped to resolve the gap by introducing the new option to members on the Linkedin help and support page and that was a quick win for me :)</p>
 
     
                 
-                <p>In mean time, I learnt an enggineering limitation on revoke request confirmation cannot be immediate or have a real time approach.  To elaborate the scenatio,  when messages and comments revoke action get intiated at the same time, the request goes to 2 different team and the dependency to restore changes will be different time depending on the team resolution queue.  This means we can't confirm our member's in real time that the issue will be resolved but can take upt0 24 hours to confirm the initiated process. This led to a scenario to prioritise which content type is critical for members? So we met the Data science team and learnt the maximum damage was reported on the invitation (~65%) and messaging (~30%). Others were the (~5%) for posts and comments. </p>
+                <p>In mean time, I learnt an engineering limitation that the revoke request confirmation cannot be immediate or have a real time approach.  To elaborate the scenatio,  when messages and comments revoke action get intiated at the same time, the request goes to 2 different team and the dependency to restore changes will be on different times depending on the team resolution queue.  This means we can't confirm our member's in real time that the issue will be resolved but can take upt0 24 hours to confirm the initiated process. This led to a scenario to prioritise which content type is critical for members. So we met the Data science team and learnt the maximum damage was reported on the invitation (~65%) and messaging (~30%). Others were the (~5%) for posts and comments. </p>
                       
-                <p>With the known inputs now, i created the workflow for MSR agents to support damage recovery process.</p>
+                <p>With the known inputs now, i created the workflow for MSR agents to support the damage recovery process.</p>
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -331,12 +331,12 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                 
                 <br><br>
                 
-                <p>The connected solution to initiate request was already in place under the legacy tool which is used by many different teams. Session viewer was part of the big old tool. This was the opportunity for this project to explore and inpire other team to transform their application to a better version.</p>
+                <p>The connected solution to initiate request was already in place under the legacy tool which is used by many different teams. Session viewer was part of the big old tool. This was the opportunity for this project to explore and inpire other teams to transform their application to a better version.</p>
 
-                <p>I recommended upgrading the solution in the tool by redesigning completely. This suggestion was not considered because the assumption to initiate request on the exisiting tool was quite minimal and product or the stakeholders dint want to invest resource and time for something small. I discuss on the possible scenario's that is dependent on the revoke process but i guess i wasn't able to give them a full picture on possible dependencies or may be i was'nt fully  prepared to defend  .</p>
+                <p>I recommended upgrading the solution in the tool by a complete redesign. This suggestion was not considered because the assumption to initiate request on the exisiting tool was quite minimal and product or the stakeholders didnt want to invest resource and time for something small. I discussed the possible scenarios that is dependent on the revoke process but I guess I was not able to give them a full picture on possible dependencies or may be I wasn't fully prepared to defend.</p>
 
                  
-                <p>However,  i started working on the rough wireframe mostly making smaller changes in the existing solutions </p>
+                <p>However, I started working on the rough wireframe mostly making smaller changes in the existing solutions </p>
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -370,11 +370,11 @@ With more than half a billion members on the platform, LinkedIn has become a luc
                          data-srcset="../../content/recovery/session_history_4.png 1920w, ../../content/recovery/session_history_4.png 768w, ../../recovery/session_history_4.png 700w, ../../recovery/session_history_4.png 600w"/>
                 <br><br>
                       
-                <p>Conducted the review meeting with MSR team, product and engineering rep to review the first version of the design</p>
+                <p>Conducted the review meeting with the MSR team, product and engineering reps to review the first version of the design</p>
 
 <ol>Major Feedback are: 
-<li>List in the activity log for each session could be exhaustive, not really require the list view but the total insights will be useful </li>
-<li>What will happen to the record when the session is revoked ? Engg confirmed there will be a duplicate session ID with newer insights </li>
+<li>List in the activity log for each session could be exhaustive. We do not really require the list view but the total insights will be useful.</li>
+<li>What will happen to the record when the session is revoked? Engineering confirmed that there will be a duplicate session ID with newer insights.</li>
 
 That’s not something we need as part of good experience. Such scenario can lead to confusion for reviewers and might need to verify with date and action on the latest query</ol>
                       
@@ -390,7 +390,7 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
                       <h5>Iteration: 1</h5>
-                      <p>Went back to the drawing board and came up with newer approach that supported tab solution to introduce Revoke history page and their associated actions like undo and redo request. The concept also included real time progress details after request initiation</p>
+                      <p>Went back to the drawing board and came up with a new approach that supported tab solution to introduce 'Revoke history' page and their associated actions like undo and redo request. The concept also included real time progress details after request initiation</p>
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -410,14 +410,14 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12 wireframes">
                       <h5>Iteration: 2 </h5>
-                      <p>In this version neccessary filter to identify the session to match the member request. On further design review and enquiry on the data policy, they suggested each the session can hold data upto 3 months of activity</p>
+                    <!--   <p>In this version neccessary filter to identify the session to match the member request. On further design review and enquiry on the data policy, they suggested each the session can hold data upto 3 months of activity</p> -->
+                    <p>In this version, we optimised the MSR review experience to get an insight from the full data summary over the long list in activity viewer. This gave MSR an ability to judge the profile and also provided confidence to communicate with the member with the exact count of what is revokable and what is not, due to policy limitations</p>
                  <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/iteration_2.png" data-sizes="auto"
                          data-srcset="../../content/recovery/iteration_2.png 1920w, ../../content/recovery/iteration_2.png 768w, ../../recovery/iteration_2.png 700w, ../../recovery/iteration_2.png 600w"/>
-                <br><br>
                   </div>
                     </div></div></div></div></div></div>
                     
@@ -430,25 +430,21 @@ That’s not something we need as part of good experience. Such scenario can lea
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                      <h5>Iteration: 3</h5>
+                      <!-- <h5>Iteration: 3</h5> -->
 
-                     <p>This version, we optimised the MSR review experience to the insight full data summary over the long list of activity viewer. This gave MSR an ability to judge the profile and also confidence to communicate with member with exact count of what is revokable or which is due to policy limitations</p>
+                     <!-- <p>This version, we optimised the MSR review experience to the insight full data summary over the long list of activity viewer. This gave MSR an ability to judge the profile and also confidence to communicate with member with exact count of what is revokable or which is due to policy limitations</p> -->
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/iteration_3a.png" data-sizes="auto"
                          data-srcset="../../content/recovery/iteration_3a.png 1920w, ../../content/recovery/iteration_3a.png 768w, ../../recovery/iteration_3a.png 700w, ../../recovery/iteration_3a.png 600w"/>
-                <br><br>
                 <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/iteration_3b.png" data-sizes="auto"
                          data-srcset="../../content/recovery/iteration_3b.png 1920w, ../../content/recovery/iteration_3b.png 768w, ../../recovery/iteration_3b.png 700w, ../../recovery/iteration_3b.png 600w"/>
-                <br><br>
-
-                      
                    </div>                   
                     </div></div></div></div></div></div>
         
@@ -459,15 +455,14 @@ That’s not something we need as part of good experience. Such scenario can lea
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left">
                   <div class="wpb_column columns medium-12 thb-dark-column small-12 wireframes">
-                      <h5>Iteration: 4 </h5>
-                      <p> In each review, the user scenario and related edge cases were just growing to a complicated experience. Given that we had limitation, how will we communicate to memebrs, Will the recovery be 100% successful? How will the agent know that the task is completed etc..etc.. which led to many use cases such as partial successful, error scenario, successful, inprogress etc. </p>
+                      <h5>Iteration: 3 </h5>
+                      <p> In each review, the user scenario and related edge cases were just growing to a complicated experience. Given that we had limitation on how will we communicate to memebrs - Will the recovery be 100% successful? How will the agent know that the task is completed etc..etc.., led to many use cases such as partial successful, error scenario, successful, inprogress etc. </p>
                  <img width="1920" height="1052"
                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          class="thb_image   attachment-full thb-lazyload lazyload" alt=""
                          sizes="(max-width: 1920px) 100vw, 1920px"
                          data-src="../../content/recovery/iteration_4.png" data-sizes="auto"
                          data-srcset="../../content/recovery/iteration_4.png 1920w, ../../content/recovery/iteration_4.png 768w, ../../recovery/iteration_4.png 700w, ../../recovery/iteration_4.png 600w"/>
-                <br><br>
                   </div>
                     </div></div></div></div></div></div>
                     
@@ -483,11 +478,11 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <h5>Result</h5>
                                       
                                                                          
-                    <p>Overall the requirement and scope was increased, which also means - the engg effort also increased and I got another chance to request the engg team to compare the effort on the design from scratch vs design modification. </p>
+                    <p>Overall the requirement and scope was increased, which also means - the engineering effort also increased and I got another chance to request the engineering team to compare the effort on the design from scratch vs design modification. </p>
 
-<p>Interestingly, Engineering and product agreed to build the product from scratch, because it involved the same effort and adapting to newer UI  can build the product faster using the defined Linkedin library components. </p>
+<p>Interestingly, Engineering and product agreed to build the product from scratch because it involved the same effort and adapting to newer UI can make the product faster using the defined Linkedin library components. </p>
 
-<p>It was a task for me to redo all the screens but still gave me a good feeling to redesign and complete. This way, the project got the Linkedin design system and accessibility compliant</p>
+<p>It was a task for me to redo all the screens but still gave me a good feeling to redesign and complete. This way, the project got the Linkedin design system and accessibility compliance</p>
                 <img width="1920" height="1052"
                      src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                      class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -496,16 +491,7 @@ That’s not something we need as part of good experience. Such scenario can lea
                      data-srcset="../../content/recovery/revoke_successful.png 1920w, ../../content/recovery/revoke_successful.png 768w, ../../recovery/revoke_successful.png 700w, ../../recovery/revoke_successful.png 600w"/>
                 <br><br>
                 </div> <br> <br>
-                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
-                        <div class="testimonial-quote group">
-                        <div class="quote-container">
-                            <blockquote><p>I think this a drastic improvement over what i knew Session viewer could do, because i was totally thinking that i will have to count every activity, keep a note on numbers by myself. This  let me quickly search and let me take informed decision. This would definitely save a lot of time ”</p>
-                            </blockquote>
-                            <cite><span>Linkedin MSR agent</span><br><br>                                
-                            </cite>                    
-                        </div></div>
-                </div> 
-                    </div></div></div></div></div></div>
+                 </div></div></div></div></div>
                     
         <div class="post-content">
                             
@@ -517,7 +503,7 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                 
                 <h5>All screens:</h5>
-                   <p>This was definitely not a final iteration process— I  reviewed with every user groups, design, engg, product, stakeholders and  their continual feedback improved the overall product experience. There was no researcher for this project so I conducted full fledge remote testing which helped to verify the flow and experiences. I conducted sprint sessions that helped us to validate, test ideas and iterate quickly.</p>
+                   <p>This was definitely not a final iteration process. I  reviewed with every user groups - design, engineering, product, stakeholders and their continual feedback improved the overall product experience. There was no researcher for this project so I conducted full fledge remote testing which helped to verify the flow and experiences. I conducted sprint sessions that helped us to validate, test ideas and iterate quickly.</p>
                 <img width="1920" height="1052"
                      src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                      class="thb_image   attachment-full thb-lazyload lazyload" alt=""
@@ -528,6 +514,16 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <br><br>     
 
                 </div>
+                <div class="wpb_column columns medium-12 thb-dark-column small-12">
+                        <div class="testimonial-quote group">
+                        <div class="quote-container">
+                            <blockquote><p>I think this a drastic improvement over what I knew Session viewer could do, because I was totally thinking that I will have to count every activity, keep a note on numbers by myself. This let me quickly search and take an informed decision. This would definitely save a lot of time ”</p>
+                            </blockquote>
+                            <cite><span>Linkedin MSR agent</span><br><br>
+                            </cite>
+                        </div></div>
+                </div>
+                    </div>
                     </div></div></div></div></div></div>
                     
         <div class="post-content">
@@ -564,12 +560,12 @@ That’s not something we need as part of good experience. Such scenario can lea
             <div class="vc_column-inner  ">
               <div class="wpb_wrapper">
                 <div class="row wpb_row vc_inner row-fluid text-left"
-                <p>Over all, the project received good feedback and on signing off the design, the development team kickstarted on the design development. Where I got involved to review the dev version of the design and excited for launch in a month or so.</p>
+                <p>Over all, the project received good feedback and on signing off the design, the development team kickstarted the design development where I got involved to review the dev version of the design and was excited for launch in a month or so.</p>
                 
                 
                 </div></div></div></div></div></div>
                     
-        <div class="post-content">
+    <!--     <div class="post-content">
                             
         <div data-midnight="dark-title" class="row wpb_row row-fluid align-center vc_custom_1481595245026">
           <div class="wpb_column columns medium-4 large-4 medium-10 thb-dark-column small-12">
@@ -586,7 +582,7 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <br><br>
 
                 </div>
-                    </div></div></div></div></div>
+                    </div></div></div></div></div> -->
                     
         <div class="post-content">
                             
@@ -615,15 +611,15 @@ That’s not something we need as part of good experience. Such scenario can lea
                 <div class="wpb_column columns medium-12 thb-dark-column small-12">
                     <h5>Learnings:</h5>
                     <h6>Pressure to ship quickly:</h6>
-<p>Even when they’re clear sign of bad UX in re-iterating the existing system, i continued the trajectory as there are too much emphasis on hitting the vision goal vs shipping high quality release. With a focus on speed, usuability was not a priority. This makes effort and exploration a lot harder when the date comes first.</p>
+<p>Even when there are clear sign of bad UX in re-iterating the existing system, i continued the trajectory as there are too much emphasis on hitting the vision goal vs shipping high quality release. With a focus on speed, usuability was not a priority. This makes effort and exploration a lot harder when the date comes first.</p>
 
-<h6>In highlight:</h6><p> We should be bold enought to pause, rethink and emphathise on the feedback that user gave us. Thought there were internal employees, ship an out comes over ship on time makes the effort and time more valuable  over training the bad UX on system. We need to balance between optimising for users outcomes over deadlines</p>
+<h6>In highlight:</h6><p> We should be bold enough to pause, rethink and emphathise on the feedback given by the user. Though there were internal employees, ship an out comes over ship on time makes the effort and time more valuable  over training the bad UX on system. We need to balance between optimising for user outcomes over deadlines</p>
 
 
 <h6>Isolate change and monitor it closely:</h6>
-<p>Since the process was not fully established and the limitation to use exisiting system was complicating and challenging to define new information architecture, conceptual modal and over all user experience </p>
+<p>Since the process was not fully established and we had the limitation to use the existing system, it was very challenging to define new information architecture, conceptual model and an overall good user experience.</p>
 
-<p>Despite the various efforts in the doing cohorts, sequencing the changes allowed me to show the effort and user reaction on the design.  Which transformed a bigger change to re-design the structure over modifying something existing . However, some trade off was still done over the end to end experience and positively hoping that this be addressed in future projects</p>
+<p>Despite the various efforts in the doing cohorts, sequencing the changes allowed me to show the efforts and user reactions on the design - which transformed a bigger change to re-design the structure over modifying something existing. However, some trade off was still done over the end-to-end experience and positively hoping that this be addressed in future projects</p>
                 </div>                
                 </div></div></div></div></div></div>
                    
